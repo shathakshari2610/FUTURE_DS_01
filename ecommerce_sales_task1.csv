@@ -1,0 +1,1226 @@
+Order_ID,Order_Date,Product,Category,Subcategory,Customer_ID,Region,City,Channel,Unit_Price,Quantity,Discount,Sales,COGS,Profit,Payment_Method
+ORD202400207,2024-01-01,Football - Sports,Sports,Football,CUST4175,East,Kolkata,Online,1908,1,0.18,1564.56,1478.72,85.84,UPI
+ORD202401073,2024-01-02,Smartphone - Electronics,Electronics,Smartphone,CUST5302,South,Hyderabad,Store,11977,1,0.35,7785.05,7787.66,-2.61,UPI
+ORD202400103,2024-01-02,Jacket - Fashion,Fashion,Jacket,CUST3169,South,Hyderabad,Mobile App,1382,1,0.17,1147.06,898.6,248.46,Debit Card
+ORD202400415,2024-01-02,Sunscreen - Beauty,Beauty,Sunscreen,CUST5555,East,Patna,Mobile App,736,1,0.18,603.52,457.23,146.29,Credit Card
+ORD202400842,2024-01-02,Tennis Racket - Sports,Sports,Tennis Racket,CUST1427,South,Kochi,Online,2426,2,0.15,4124.2,3314.73,809.47,UPI
+ORD202400123,2024-01-02,Perfume - Beauty,Beauty,Perfume,CUST3359,East,Kolkata,Online,894,1,0.09,813.54,694.87,118.67,Debit Card
+ORD202400226,2024-01-03,Jeans - Fashion,Fashion,Jeans,CUST5675,North,Chandigarh,Mobile App,1141,1,0.15,969.85,958.62,11.23,Cash on Delivery
+ORD202400764,2024-01-04,T-Shirt - Fashion,Fashion,T-Shirt,CUST5536,South,Kochi,Mobile App,1134,1,0.35,737.1,949.36,-212.26,Credit Card
+ORD202401026,2024-01-04,Tennis Racket - Sports,Sports,Tennis Racket,CUST3732,North,Jaipur,Online,2461,3,0.07,6866.19,6191.84,674.35,UPI
+ORD202400074,2024-01-04,Football - Sports,Sports,Football,CUST5683,North,Jaipur,Store,1932,3,0.16,4868.64,4064.8,803.84,UPI
+ORD202400649,2024-01-04,Lipstick - Beauty,Beauty,Lipstick,CUST2230,West,Ahmedabad,Online,772,1,0.1,694.8,604.45,90.35,UPI
+ORD202400853,2024-01-06,Laptop - Electronics,Electronics,Laptop,CUST3927,North,Chandigarh,Online,11289,3,0.24,25738.92,26314.86,-575.94,Credit Card
+ORD202400777,2024-01-06,T-Shirt - Fashion,Fashion,T-Shirt,CUST2203,East,Bhubaneswar,Online,1107,1,0.09,1007.37,753.64,253.73,Debit Card
+ORD202400500,2024-01-07,Mixer Grinder - Home,Home,Mixer Grinder,CUST5055,West,Ahmedabad,Mobile App,7798,2,0.18,12788.72,10306.88,2481.84,UPI
+ORD202401085,2024-01-09,Shampoo - Beauty,Beauty,Shampoo,CUST4965,West,Mumbai,Mobile App,715,1,0.04,686.4,523.6,162.8,Debit Card
+ORD202400035,2024-01-09,Jeans - Fashion,Fashion,Jeans,CUST2540,West,Surat,Online,1828,1,0.2,1462.4,1419.55,42.85,Credit Card
+ORD202400412,2024-01-09,Tablet - Electronics,Electronics,Tablet,CUST1546,South,Kochi,Mobile App,13999,1,0.16,11759.16,10733.48,1025.68,UPI
+ORD202401148,2024-01-10,Smartphone - Electronics,Electronics,Smartphone,CUST2912,West,Mumbai,Online,12102,2,0.04,23235.84,20280.1,2955.74,Debit Card
+ORD202400740,2024-01-11,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST3366,West,Ahmedabad,Store,7011,4,0.35,18228.6,21207.87,-2979.27,Credit Card
+ORD202400759,2024-01-11,Jacket - Fashion,Fashion,Jacket,CUST1666,North,Jaipur,Online,1063,2,0.35,1381.9,1329.03,52.87,Debit Card
+ORD202401187,2024-01-11,Tablet - Electronics,Electronics,Tablet,CUST3675,North,Delhi,Online,11562,1,0.28,8324.64,9566.99,-1242.35,UPI
+ORD202400425,2024-01-11,Sunscreen - Beauty,Beauty,Sunscreen,CUST1254,West,Mumbai,Mobile App,602,3,0.3,1264.2,1237.95,26.25,Credit Card
+ORD202400324,2024-01-12,Perfume - Beauty,Beauty,Perfume,CUST3851,East,Guwahati,Mobile App,730,1,0.12,642.4,454.41,187.99,Credit Card
+ORD202400798,2024-01-13,Yoga Mat - Sports,Sports,Yoga Mat,CUST5098,East,Kolkata,Mobile App,2614,3,0.11,6979.38,6209.26,770.12,Net Banking
+ORD202400596,2024-01-13,Mixer Grinder - Home,Home,Mixer Grinder,CUST4258,East,Guwahati,Online,5642,4,0.21,17828.72,13800.72,4028.0,UPI
+ORD202400760,2024-01-13,Sneakers - Fashion,Fashion,Sneakers,CUST5374,West,Ahmedabad,Mobile App,1498,2,0.05,2846.2,2421.22,424.98,UPI
+ORD202400968,2024-01-14,Water Purifier - Home,Home,Water Purifier,CUST1933,North,Jaipur,Online,7751,3,0.07,21625.29,19159.62,2465.67,UPI
+ORD202400003,2024-01-14,Shampoo - Beauty,Beauty,Shampoo,CUST4943,West,Ahmedabad,Mobile App,492,3,0.2,1180.8,981.09,199.71,Debit Card
+ORD202401078,2024-01-15,Air Cooler - Home,Home,Air Cooler,CUST2310,North,Chandigarh,Online,5741,1,0.09,5224.31,4012.49,1211.82,UPI
+ORD202400051,2024-01-15,Sunscreen - Beauty,Beauty,Sunscreen,CUST1066,West,Mumbai,Online,886,1,0.3,620.2,636.58,-16.38,Credit Card
+ORD202400952,2024-01-16,Jacket - Fashion,Fashion,Jacket,CUST1798,West,Mumbai,Mobile App,1629,1,0.17,1352.07,1359.3,-7.23,UPI
+ORD202401020,2024-01-16,Dress - Fashion,Fashion,Dress,CUST5703,South,Hyderabad,Online,1125,2,0.05,2137.5,1669.24,468.26,Credit Card
+ORD202400262,2024-01-18,Tablet - Electronics,Electronics,Tablet,CUST1114,South,Hyderabad,Online,16346,1,0.35,10624.9,12401.05,-1776.15,UPI
+ORD202400434,2024-01-19,Lipstick - Beauty,Beauty,Lipstick,CUST5137,West,Mumbai,Mobile App,859,1,0.21,678.61,727.6,-48.99,UPI
+ORD202400033,2024-01-19,Sneakers - Fashion,Fashion,Sneakers,CUST5980,West,Pune,Store,1117,1,0.19,904.77,846.64,58.13,UPI
+ORD202400087,2024-01-20,Perfume - Beauty,Beauty,Perfume,CUST2933,North,Lucknow,Online,716,4,0.11,2548.96,2142.94,406.02,Net Banking
+ORD202401064,2024-01-20,Football - Sports,Sports,Football,CUST2037,North,Jaipur,Mobile App,2837,2,0.15,4822.9,4585.06,237.84,UPI
+ORD202400796,2024-01-21,Air Cooler - Home,Home,Air Cooler,CUST5549,South,Chennai,Online,5281,3,0.16,13308.12,11794.07,1514.05,Debit Card
+ORD202401048,2024-01-21,Tennis Racket - Sports,Sports,Tennis Racket,CUST2664,North,Lucknow,Online,2129,4,0.14,7323.76,5523.62,1800.14,UPI
+ORD202400913,2024-01-21,Laptop - Electronics,Electronics,Laptop,CUST5933,East,Patna,Mobile App,15210,9,0.04,131414.4,109036.33,22378.07,Net Banking
+ORD202401047,2024-01-22,Smartphone - Electronics,Electronics,Smartphone,CUST5398,West,Surat,Online,11470,1,0.18,9405.4,8832.07,573.33,Credit Card
+ORD202400637,2024-01-22,Water Purifier - Home,Home,Water Purifier,CUST2160,East,Kolkata,Mobile App,5344,1,0.21,4221.76,3446.41,775.35,Debit Card
+ORD202400212,2024-01-22,Lipstick - Beauty,Beauty,Lipstick,CUST5449,West,Ahmedabad,Store,753,1,0.13,655.11,617.84,37.27,Debit Card
+ORD202400611,2024-01-23,Football - Sports,Sports,Football,CUST5406,East,Patna,Online,2888,1,0.35,1877.2,1797.43,79.77,UPI
+ORD202400857,2024-01-23,Smartwatch - Electronics,Electronics,Smartwatch,CUST5595,North,Chandigarh,Online,11598,1,0.11,10322.22,9395.68,926.54,Debit Card
+ORD202400664,2024-01-25,Lipstick - Beauty,Beauty,Lipstick,CUST5270,West,Ahmedabad,Mobile App,694,4,0.08,2553.92,1966.42,587.5,UPI
+ORD202400745,2024-01-26,Perfume - Beauty,Beauty,Perfume,CUST5694,South,Chennai,Mobile App,676,2,0.35,878.8,888.38,-9.58,Credit Card
+ORD202400049,2024-01-26,Perfume - Beauty,Beauty,Perfume,CUST5123,North,Delhi,Mobile App,838,1,0.13,729.06,552.27,176.79,UPI
+ORD202400502,2024-01-26,Laptop - Electronics,Electronics,Laptop,CUST4491,West,Ahmedabad,Store,19423,1,0.1,17480.7,12952.84,4527.86,UPI
+ORD202400493,2024-01-26,Laptop - Electronics,Electronics,Laptop,CUST4677,West,Surat,Online,13944,1,0.17,11573.52,11721.11,-147.59,UPI
+ORD202400443,2024-01-27,Smartwatch - Electronics,Electronics,Smartwatch,CUST2278,East,Bhubaneswar,Online,11320,5,0.07,52638.0,44122.08,8515.92,Credit Card
+ORD202400398,2024-01-27,Smartwatch - Electronics,Electronics,Smartwatch,CUST5943,West,Pune,Mobile App,12678,1,0.07,11790.54,10026.76,1763.78,Cash on Delivery
+ORD202401049,2024-01-27,Earbuds - Electronics,Electronics,Earbuds,CUST2637,North,Delhi,Mobile App,18780,2,0.07,34930.8,27055.5,7875.3,Debit Card
+ORD202400706,2024-01-27,Dumbbells - Sports,Sports,Dumbbells,CUST2525,South,Bengaluru,Online,2732,5,0.16,11474.4,11449.27,25.13,UPI
+ORD202400585,2024-01-28,Cricket Bat - Sports,Sports,Cricket Bat,CUST4653,West,Pune,Online,2778,1,0.09,2527.98,1858.09,669.89,UPI
+ORD202400865,2024-01-28,Air Cooler - Home,Home,Air Cooler,CUST4813,East,Kolkata,Online,5399,5,0.02,26455.1,16562.34,9892.76,Credit Card
+ORD202400007,2024-01-28,Cricket Bat - Sports,Sports,Cricket Bat,CUST3690,South,Bengaluru,Online,2091,2,0.09,3805.62,3436.78,368.84,Debit Card
+ORD202401038,2024-01-29,T-Shirt - Fashion,Fashion,T-Shirt,CUST5619,South,Hyderabad,Store,1794,1,0.23,1381.38,1227.51,153.87,Debit Card
+ORD202400475,2024-01-29,Dress - Fashion,Fashion,Dress,CUST1719,South,Chennai,Online,1419,2,0.09,2582.58,2286.72,295.86,Net Banking
+ORD202400914,2024-01-30,Yoga Mat - Sports,Sports,Yoga Mat,CUST5244,South,Kochi,Mobile App,2745,1,0.07,2552.85,2233.24,319.61,UPI
+ORD202401196,2024-01-31,Dress - Fashion,Fashion,Dress,CUST2879,North,Chandigarh,Online,1847,1,0.18,1514.54,1416.23,98.31,Debit Card
+ORD202400168,2024-02-01,Air Cooler - Home,Home,Air Cooler,CUST2749,West,Pune,Store,6557,1,0.15,5573.45,5373.18,200.27,UPI
+ORD202400239,2024-02-01,Shampoo - Beauty,Beauty,Shampoo,CUST3800,West,Surat,Mobile App,870,3,0.05,2479.5,2061.25,418.25,Credit Card
+ORD202400327,2024-02-03,Jacket - Fashion,Fashion,Jacket,CUST1147,South,Kochi,Mobile App,1595,3,0.08,4402.2,3675.34,726.86,Debit Card
+ORD202400714,2024-02-04,Sunscreen - Beauty,Beauty,Sunscreen,CUST2334,North,Lucknow,Online,518,1,0.14,445.48,377.16,68.32,UPI
+ORD202401016,2024-02-05,Tennis Racket - Sports,Sports,Tennis Racket,CUST5643,East,Guwahati,Online,2184,1,0.2,1747.2,1619.06,128.14,UPI
+ORD202400910,2024-02-05,Lipstick - Beauty,Beauty,Lipstick,CUST5750,East,Bhubaneswar,Online,743,1,0.17,616.69,533.21,83.48,Credit Card
+ORD202400089,2024-02-07,Tablet - Electronics,Electronics,Tablet,CUST4111,South,Chennai,Online,16525,1,0.23,12724.25,13431.55,-707.3,Net Banking
+ORD202400826,2024-02-07,Dumbbells - Sports,Sports,Dumbbells,CUST3044,West,Pune,Mobile App,2597,4,0.05,9868.6,6934.64,2933.96,Cash on Delivery
+ORD202400472,2024-02-08,Dress - Fashion,Fashion,Dress,CUST5271,North,Lucknow,Online,1468,1,0.35,954.2,1006.22,-52.02,Debit Card
+ORD202400702,2024-02-08,Jacket - Fashion,Fashion,Jacket,CUST1573,West,Mumbai,Online,1249,1,0.2,999.2,890.64,108.56,Debit Card
+ORD202401166,2024-02-08,Cricket Bat - Sports,Sports,Cricket Bat,CUST2362,West,Ahmedabad,Online,1952,1,0.04,1873.92,1624.36,249.56,Credit Card
+ORD202400292,2024-02-09,Smartwatch - Electronics,Electronics,Smartwatch,CUST1226,West,Ahmedabad,Mobile App,16109,1,0.24,12242.84,13041.16,-798.32,Debit Card
+ORD202401117,2024-02-09,Sneakers - Fashion,Fashion,Sneakers,CUST3922,South,Hyderabad,Mobile App,1228,2,0.24,1866.56,1935.22,-68.66,Credit Card
+ORD202400754,2024-02-09,Lipstick - Beauty,Beauty,Lipstick,CUST4095,South,Hyderabad,Online,752,1,0.01,744.48,533.63,210.85,UPI
+ORD202400578,2024-02-10,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST4621,South,Bengaluru,Online,6319,1,0.1,5687.1,4972.5,714.6,Debit Card
+ORD202401008,2024-02-10,Air Fryer - Home,Home,Air Fryer,CUST3121,East,Bhubaneswar,Online,7694,1,0.07,7155.42,5384.64,1770.78,UPI
+ORD202401083,2024-02-10,Water Purifier - Home,Home,Water Purifier,CUST1753,West,Ahmedabad,Mobile App,7109,1,0.15,6042.65,4476.13,1566.52,Net Banking
+ORD202400669,2024-02-11,Cricket Bat - Sports,Sports,Cricket Bat,CUST5419,South,Kochi,Mobile App,1885,3,0.31,3901.95,3559.74,342.21,UPI
+ORD202400465,2024-02-11,Smartphone - Electronics,Electronics,Smartphone,CUST1947,East,Patna,Online,11074,1,0.25,8305.5,8383.98,-78.48,UPI
+ORD202400666,2024-02-11,Dumbbells - Sports,Sports,Dumbbells,CUST4397,East,Kolkata,Mobile App,3088,1,0.08,2840.96,2586.67,254.29,UPI
+ORD202400772,2024-02-12,Water Purifier - Home,Home,Water Purifier,CUST2777,South,Bengaluru,Mobile App,5489,1,0.1,4940.1,4205.67,734.43,Credit Card
+ORD202400856,2024-02-12,Smartphone - Electronics,Electronics,Smartphone,CUST5993,East,Guwahati,Online,13910,1,0.13,12101.7,11217.27,884.43,UPI
+ORD202401191,2024-02-13,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST4467,South,Bengaluru,Online,6774,1,0.17,5622.42,4316.88,1305.54,Debit Card
+ORD202400991,2024-02-14,Shampoo - Beauty,Beauty,Shampoo,CUST1222,East,Patna,Mobile App,490,1,0.05,465.5,384.98,80.52,UPI
+ORD202400531,2024-02-15,Yoga Mat - Sports,Sports,Yoga Mat,CUST1889,South,Bengaluru,Online,2265,2,0.35,2944.5,2774.16,170.34,Credit Card
+ORD202400510,2024-02-16,Yoga Mat - Sports,Sports,Yoga Mat,CUST4867,East,Guwahati,Online,3213,1,0.11,2859.57,2544.12,315.45,Credit Card
+ORD202400570,2024-02-16,Sunscreen - Beauty,Beauty,Sunscreen,CUST1815,East,Patna,Online,848,2,0.12,1492.48,1137.08,355.4,Credit Card
+ORD202400454,2024-02-18,Jacket - Fashion,Fashion,Jacket,CUST5777,West,Mumbai,Online,1624,2,0.08,2988.16,2391.69,596.47,Credit Card
+ORD202400849,2024-02-18,Smartwatch - Electronics,Electronics,Smartwatch,CUST5748,West,Surat,Mobile App,10551,3,0.35,20574.45,23846.15,-3271.7,UPI
+ORD202400926,2024-02-19,Sunscreen - Beauty,Beauty,Sunscreen,CUST3928,South,Kochi,Mobile App,653,2,0.31,901.14,933.16,-32.02,UPI
+RET202400018,2024-02-21,Yoga Mat - Sports,Sports,Yoga Mat,CUST1923,South,Bengaluru,Online,2101,-1,0.26,-1554.74,1417.16,-137.58,Debit Card
+ORD202400486,2024-02-21,Yoga Mat - Sports,Sports,Yoga Mat,CUST5710,South,Hyderabad,Online,2816,2,0.12,4956.16,3533.35,1422.81,UPI
+ORD202400259,2024-02-21,Perfume - Beauty,Beauty,Perfume,CUST1136,South,Bengaluru,Online,745,3,0.03,2167.95,1519.02,648.93,UPI
+ORD202400343,2024-02-21,Yoga Mat - Sports,Sports,Yoga Mat,CUST1923,South,Bengaluru,Online,2101,1,0.26,1554.74,1417.16,137.58,Debit Card
+ORD202400795,2024-02-22,Air Cooler - Home,Home,Air Cooler,CUST2474,South,Bengaluru,Online,5480,2,0.19,8877.6,9089.83,-212.23,Debit Card
+ORD202401059,2024-02-22,Sunscreen - Beauty,Beauty,Sunscreen,CUST3225,East,Patna,Online,661,3,0.17,1645.89,1454.39,191.5,UPI
+ORD202400522,2024-02-22,Air Fryer - Home,Home,Air Fryer,CUST2893,West,Pune,Mobile App,6169,1,0.02,6045.62,4696.52,1349.1,Debit Card
+ORD202400586,2024-02-22,Earbuds - Electronics,Electronics,Earbuds,CUST4138,West,Mumbai,Mobile App,12929,3,0.11,34520.43,25328.35,9192.08,Credit Card
+ORD202400746,2024-02-22,Jeans - Fashion,Fashion,Jeans,CUST1208,South,Bengaluru,Online,1371,2,0.08,2522.64,2233.13,289.51,Debit Card
+ORD202401162,2024-02-25,Sunscreen - Beauty,Beauty,Sunscreen,CUST4892,East,Guwahati,Store,855,1,0.22,666.9,581.27,85.63,UPI
+ORD202400817,2024-02-25,Shampoo - Beauty,Beauty,Shampoo,CUST3811,West,Mumbai,Store,693,1,0.08,637.56,580.01,57.55,UPI
+ORD202401111,2024-02-25,Lipstick - Beauty,Beauty,Lipstick,CUST5948,West,Ahmedabad,Mobile App,858,3,0.23,1981.98,1799.83,182.15,Debit Card
+ORD202400438,2024-02-26,Perfume - Beauty,Beauty,Perfume,CUST4937,East,Guwahati,Online,732,2,0.08,1346.88,994.22,352.66,UPI
+ORD202400743,2024-02-26,Smartphone - Electronics,Electronics,Smartphone,CUST2841,West,Mumbai,Online,14073,1,0.09,12806.43,10275.3,2531.13,UPI
+ORD202400419,2024-02-26,Dress - Fashion,Fashion,Dress,CUST1595,West,Surat,Online,1621,1,0.07,1507.53,1143.5,364.03,Credit Card
+ORD202400297,2024-02-27,Sunscreen - Beauty,Beauty,Sunscreen,CUST5108,East,Guwahati,Mobile App,704,5,0.17,2921.6,2731.59,190.01,Debit Card
+ORD202400725,2024-02-27,Face Cream - Beauty,Beauty,Face Cream,CUST4279,West,Ahmedabad,Mobile App,494,1,0.18,405.08,301.4,103.68,UPI
+ORD202401168,2024-02-27,Jeans - Fashion,Fashion,Jeans,CUST1303,West,Pune,Online,1742,3,0.06,4912.44,4219.06,693.38,UPI
+ORD202400341,2024-02-27,T-Shirt - Fashion,Fashion,T-Shirt,CUST3756,North,Lucknow,Mobile App,1892,1,0.28,1362.24,1307.69,54.55,Credit Card
+ORD202400390,2024-02-28,Water Purifier - Home,Home,Water Purifier,CUST1228,North,Chandigarh,Online,5087,1,0.17,4222.21,3486.18,736.03,Debit Card
+ORD202400631,2024-02-28,Yoga Mat - Sports,Sports,Yoga Mat,CUST5637,North,Chandigarh,Online,3053,1,0.03,2961.41,2474.32,487.09,UPI
+ORD202400473,2024-02-28,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST5235,East,Kolkata,Mobile App,4228,1,0.19,3424.68,3400.48,24.2,Credit Card
+ORD202400114,2024-02-28,Dumbbells - Sports,Sports,Dumbbells,CUST4249,West,Surat,Store,2196,1,0.08,2020.32,1600.66,419.66,UPI
+ORD202400673,2024-02-28,T-Shirt - Fashion,Fashion,T-Shirt,CUST1442,East,Guwahati,Online,1651,2,0.23,2542.54,2341.3,201.24,Credit Card
+ORD202400198,2024-02-28,Smartphone - Electronics,Electronics,Smartphone,CUST1946,East,Patna,Mobile App,14870,3,0.07,41487.3,36063.28,5424.02,UPI
+ORD202400597,2024-02-29,Water Purifier - Home,Home,Water Purifier,CUST3781,West,Surat,Mobile App,7068,1,0.14,6078.48,5699.38,379.1,Debit Card
+ORD202401022,2024-03-01,Yoga Mat - Sports,Sports,Yoga Mat,CUST3446,East,Patna,Online,3030,1,0.06,2848.2,2024.1,824.1,Debit Card
+ORD202400476,2024-03-02,Dress - Fashion,Fashion,Dress,CUST5615,East,Kolkata,Store,1051,1,0.04,1008.96,692.82,316.14,Credit Card
+ORD202400708,2024-03-03,Dumbbells - Sports,Sports,Dumbbells,CUST1330,North,Delhi,Store,2574,3,0.05,7335.9,4649.94,2685.96,Credit Card
+ORD202401106,2024-03-03,Sneakers - Fashion,Fashion,Sneakers,CUST2556,West,Ahmedabad,Mobile App,1068,3,0.18,2627.28,2665.51,-38.23,Net Banking
+ORD202400864,2024-03-03,T-Shirt - Fashion,Fashion,T-Shirt,CUST3056,South,Hyderabad,Online,1111,1,0.25,833.25,803.84,29.41,Credit Card
+ORD202400326,2024-03-04,Cricket Bat - Sports,Sports,Cricket Bat,CUST1044,North,Chandigarh,Online,2081,2,0.11,3704.18,3358.06,346.12,UPI
+ORD202401171,2024-03-05,Sneakers - Fashion,Fashion,Sneakers,CUST3988,West,Mumbai,Online,1142,1,0.27,833.66,821.04,12.62,Net Banking
+ORD202401015,2024-03-05,Shampoo - Beauty,Beauty,Shampoo,CUST5672,West,Ahmedabad,Online,897,5,0.2,3588.0,3283.09,304.91,UPI
+ORD202400927,2024-03-05,Air Fryer - Home,Home,Air Fryer,CUST2965,West,Mumbai,Online,7070,1,0.04,6787.2,5987.71,799.49,UPI
+ORD202401183,2024-03-06,Earbuds - Electronics,Electronics,Earbuds,CUST2748,West,Mumbai,Mobile App,11586,1,0.18,9500.52,9827.88,-327.36,Net Banking
+ORD202400895,2024-03-06,Air Fryer - Home,Home,Air Fryer,CUST3377,West,Surat,Mobile App,5431,1,0.21,4290.49,3669.66,620.83,UPI
+ORD202400501,2024-03-06,Laptop - Electronics,Electronics,Laptop,CUST3990,South,Hyderabad,Mobile App,17621,1,0.14,15154.06,14612.55,541.51,UPI
+ORD202401052,2024-03-07,Dumbbells - Sports,Sports,Dumbbells,CUST1112,North,Delhi,Mobile App,2894,2,0.07,5382.84,4610.57,772.27,Cash on Delivery
+ORD202400999,2024-03-07,Sunscreen - Beauty,Beauty,Sunscreen,CUST3212,North,Lucknow,Mobile App,774,3,0.04,2229.12,1573.85,655.27,UPI
+ORD202400363,2024-03-08,Dress - Fashion,Fashion,Dress,CUST4340,West,Pune,Store,1537,1,0.21,1214.23,1073.27,140.96,UPI
+ORD202400667,2024-03-08,Yoga Mat - Sports,Sports,Yoga Mat,CUST5349,West,Pune,Store,2577,1,0.1,2319.3,1809.84,509.46,UPI
+ORD202400392,2024-03-08,Perfume - Beauty,Beauty,Perfume,CUST5005,West,Ahmedabad,Online,670,3,0.22,1567.8,1375.51,192.29,Cash on Delivery
+ORD202400903,2024-03-09,Yoga Mat - Sports,Sports,Yoga Mat,CUST2830,North,Chandigarh,Online,2173,2,0.25,3259.5,3170.24,89.26,Credit Card
+ORD202400155,2024-03-10,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST3563,North,Lucknow,Online,6237,7,0.03,42349.23,32615.48,9733.75,Credit Card
+ORD202400643,2024-03-10,Air Cooler - Home,Home,Air Cooler,CUST1017,West,Surat,Online,7433,4,0.23,22893.64,19679.74,3213.9,UPI
+ORD202400812,2024-03-11,Water Purifier - Home,Home,Water Purifier,CUST3521,West,Mumbai,Online,6864,6,0.16,34594.56,31562.48,3032.08,Debit Card
+ORD202400896,2024-03-11,T-Shirt - Fashion,Fashion,T-Shirt,CUST3407,West,Mumbai,Mobile App,1466,1,0.16,1231.44,1053.25,178.19,Net Banking
+ORD202400340,2024-03-12,Football - Sports,Sports,Football,CUST2581,South,Chennai,Online,1982,1,0.13,1724.34,1682.5,41.84,Credit Card
+ORD202400129,2024-03-13,Smartwatch - Electronics,Electronics,Smartwatch,CUST4610,North,Lucknow,Online,12188,1,0.2,9750.4,9751.49,-1.09,Credit Card
+ORD202401001,2024-03-13,Laptop - Electronics,Electronics,Laptop,CUST3064,West,Mumbai,Online,18581,1,0.02,18209.38,11614.46,6594.92,Credit Card
+ORD202400305,2024-03-13,Cricket Bat - Sports,Sports,Cricket Bat,CUST5182,East,Guwahati,Mobile App,2038,5,0.04,9782.4,8395.45,1386.95,UPI
+ORD202400402,2024-03-14,Air Fryer - Home,Home,Air Fryer,CUST5920,North,Lucknow,Store,5393,1,0.02,5285.14,3548.05,1737.09,UPI
+ORD202400515,2024-03-14,Dress - Fashion,Fashion,Dress,CUST2794,North,Lucknow,Online,1720,1,0.19,1393.2,1398.16,-4.96,UPI
+ORD202400241,2024-03-16,Football - Sports,Sports,Football,CUST4490,North,Chandigarh,Online,1932,3,0.05,5506.2,4610.97,895.23,UPI
+ORD202401087,2024-03-16,Tablet - Electronics,Electronics,Tablet,CUST1613,North,Chandigarh,Online,15597,2,0.04,29946.24,20960.96,8985.28,Cash on Delivery
+ORD202400940,2024-03-17,Dress - Fashion,Fashion,Dress,CUST4151,West,Pune,Mobile App,1147,2,0.35,1491.1,1770.03,-278.93,Debit Card
+ORD202400159,2024-03-18,Air Fryer - Home,Home,Air Fryer,CUST3757,North,Chandigarh,Online,5695,3,0.18,14009.7,12756.0,1253.7,Credit Card
+ORD202400410,2024-03-18,Dumbbells - Sports,Sports,Dumbbells,CUST4122,South,Hyderabad,Mobile App,3187,1,0.1,2868.3,2388.11,480.19,UPI
+ORD202400335,2024-03-18,Yoga Mat - Sports,Sports,Yoga Mat,CUST5769,North,Lucknow,Online,2363,2,0.15,4017.1,2986.22,1030.88,Net Banking
+RET202400024,2024-03-18,Dumbbells - Sports,Sports,Dumbbells,CUST4122,South,Hyderabad,Mobile App,3187,-1,0.1,-2868.3,2388.11,-480.19,UPI
+ORD202400043,2024-03-18,Water Purifier - Home,Home,Water Purifier,CUST2574,South,Hyderabad,Online,7544,1,0.14,6487.84,4614.85,1872.99,Debit Card
+ORD202401119,2024-03-18,Dumbbells - Sports,Sports,Dumbbells,CUST3326,North,Delhi,Store,2720,2,0.16,4569.6,3783.1,786.5,UPI
+ORD202400873,2024-03-18,Perfume - Beauty,Beauty,Perfume,CUST1100,South,Hyderabad,Online,647,3,0.04,1863.36,1524.88,338.48,UPI
+ORD202400939,2024-03-19,Earbuds - Electronics,Electronics,Earbuds,CUST1269,East,Bhubaneswar,Online,14925,1,0.15,12686.25,10535.91,2150.34,Credit Card
+ORD202400932,2024-03-19,Smartphone - Electronics,Electronics,Smartphone,CUST1240,North,Lucknow,Online,11435,2,0.25,17152.5,16911.8,240.7,Net Banking
+ORD202401144,2024-03-20,Smartwatch - Electronics,Electronics,Smartwatch,CUST5711,East,Kolkata,Mobile App,11883,5,0.35,38619.75,44225.54,-5605.79,Credit Card
+ORD202400038,2024-03-20,Tablet - Electronics,Electronics,Tablet,CUST4486,North,Chandigarh,Online,15757,1,0.08,14496.44,12194.93,2301.51,Cash on Delivery
+ORD202400523,2024-03-20,Earbuds - Electronics,Electronics,Earbuds,CUST1456,West,Mumbai,Online,16382,2,0.1,29487.6,23323.87,6163.73,Credit Card
+ORD202400080,2024-03-21,Football - Sports,Sports,Football,CUST5232,West,Mumbai,Online,2380,3,0.17,5926.2,5528.9,397.3,UPI
+ORD202400240,2024-03-21,Earbuds - Electronics,Electronics,Earbuds,CUST2538,South,Chennai,Mobile App,17045,8,0.27,99542.8,115173.93,-15631.13,UPI
+ORD202401134,2024-03-21,Jacket - Fashion,Fashion,Jacket,CUST5174,East,Guwahati,Store,1304,1,0.19,1056.24,1101.75,-45.51,UPI
+ORD202400774,2024-03-21,Dumbbells - Sports,Sports,Dumbbells,CUST1309,East,Guwahati,Mobile App,2162,1,0.14,1859.32,1344.15,515.17,Debit Card
+ORD202400744,2024-03-21,Smartphone - Electronics,Electronics,Smartphone,CUST2885,East,Bhubaneswar,Online,18884,2,0.04,36257.28,27285.76,8971.52,Credit Card
+ORD202400269,2024-03-22,Jacket - Fashion,Fashion,Jacket,CUST5135,North,Chandigarh,Mobile App,1382,1,0.24,1050.32,950.3,100.02,UPI
+ORD202401017,2024-03-22,Dumbbells - Sports,Sports,Dumbbells,CUST2540,West,Ahmedabad,Mobile App,2847,1,0.14,2448.42,2207.12,241.3,UPI
+ORD202400092,2024-03-22,Air Cooler - Home,Home,Air Cooler,CUST5795,West,Surat,Store,4913,2,0.2,7860.8,6533.81,1326.99,UPI
+ORD202400072,2024-03-22,Jacket - Fashion,Fashion,Jacket,CUST4577,West,Surat,Online,1640,2,0.34,2164.8,2303.72,-138.92,Debit Card
+ORD202400247,2024-03-22,Perfume - Beauty,Beauty,Perfume,CUST3633,East,Kolkata,Online,518,2,0.13,901.32,696.05,205.27,Debit Card
+ORD202400663,2024-03-22,Perfume - Beauty,Beauty,Perfume,CUST4659,East,Bhubaneswar,Mobile App,629,2,0.04,1207.68,840.15,367.53,UPI
+ORD202400232,2024-03-22,Sunscreen - Beauty,Beauty,Sunscreen,CUST2913,West,Pune,Mobile App,826,1,0.21,652.54,503.64,148.9,Cash on Delivery
+ORD202401032,2024-03-22,Water Purifier - Home,Home,Water Purifier,CUST3089,South,Kochi,Store,6521,9,0.3,41082.3,40862.44,219.86,UPI
+ORD202400894,2024-03-23,Shampoo - Beauty,Beauty,Shampoo,CUST2143,South,Chennai,Store,651,3,0.01,1933.47,1540.88,392.59,UPI
+ORD202400675,2024-03-23,Earbuds - Electronics,Electronics,Earbuds,CUST3933,North,Chandigarh,Mobile App,12869,3,0.06,36290.58,25391.19,10899.39,UPI
+ORD202400067,2024-03-24,Shampoo - Beauty,Beauty,Shampoo,CUST4389,East,Patna,Mobile App,490,3,0.11,1308.3,1175.92,132.38,UPI
+ORD202400635,2024-03-24,Cricket Bat - Sports,Sports,Cricket Bat,CUST2501,North,Chandigarh,Online,3156,1,0.13,2745.72,1898.75,846.97,Credit Card
+ORD202400877,2024-03-24,Dumbbells - Sports,Sports,Dumbbells,CUST1775,South,Bengaluru,Online,2820,2,0.08,5188.8,3930.67,1258.13,UPI
+ORD202400918,2024-03-26,Cricket Bat - Sports,Sports,Cricket Bat,CUST5782,North,Lucknow,Mobile App,2609,3,0.05,7435.65,6229.58,1206.07,Credit Card
+ORD202400811,2024-03-26,Dumbbells - Sports,Sports,Dumbbells,CUST2718,East,Kolkata,Online,2956,2,0.16,4966.08,3672.43,1293.65,Credit Card
+ORD202400417,2024-03-26,Tennis Racket - Sports,Sports,Tennis Racket,CUST1069,North,Jaipur,Online,2107,1,0.25,1580.25,1776.44,-196.19,Credit Card
+ORD202401137,2024-03-26,T-Shirt - Fashion,Fashion,T-Shirt,CUST2237,West,Ahmedabad,Online,1470,1,0.03,1425.9,979.01,446.89,Credit Card
+ORD202400530,2024-03-26,Earbuds - Electronics,Electronics,Earbuds,CUST3268,West,Surat,Online,18033,1,0.11,16049.37,15122.58,926.79,Credit Card
+ORD202400507,2024-03-26,Dumbbells - Sports,Sports,Dumbbells,CUST1242,South,Hyderabad,Mobile App,3128,1,0.23,2408.56,2384.74,23.82,UPI
+ORD202401067,2024-03-26,Water Purifier - Home,Home,Water Purifier,CUST1128,West,Pune,Mobile App,4684,4,0.31,12927.84,12669.91,257.93,Credit Card
+ORD202400815,2024-03-27,Cricket Bat - Sports,Sports,Cricket Bat,CUST2384,North,Lucknow,Mobile App,1762,1,0.2,1409.6,1154.22,255.38,UPI
+ORD202400185,2024-03-27,Dumbbells - Sports,Sports,Dumbbells,CUST5536,West,Surat,Store,2370,1,0.1,2133.0,1700.26,432.74,UPI
+ORD202400102,2024-03-28,Jacket - Fashion,Fashion,Jacket,CUST1935,West,Surat,Mobile App,1133,1,0.23,872.41,777.81,94.6,UPI
+ORD202400257,2024-03-28,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST3068,West,Surat,Online,5798,2,0.1,10436.4,7495.79,2940.61,Debit Card
+ORD202400575,2024-03-28,Dress - Fashion,Fashion,Dress,CUST4126,West,Surat,Online,1918,1,0.22,1496.04,1296.19,199.85,UPI
+ORD202400152,2024-03-28,Perfume - Beauty,Beauty,Perfume,CUST2304,South,Bengaluru,Online,635,1,0.15,539.75,395.88,143.87,Debit Card
+ORD202400756,2024-03-29,Water Purifier - Home,Home,Water Purifier,CUST5681,South,Bengaluru,Online,5242,3,0.23,12109.02,11423.31,685.71,Net Banking
+ORD202400632,2024-03-29,Shampoo - Beauty,Beauty,Shampoo,CUST1153,East,Bhubaneswar,Mobile App,895,2,0.15,1521.5,1515.38,6.12,Net Banking
+ORD202400227,2024-03-30,Tennis Racket - Sports,Sports,Tennis Racket,CUST1244,North,Chandigarh,Store,2677,3,0.16,6746.04,6220.63,525.41,Cash on Delivery
+RET202400023,2024-03-30,Tennis Racket - Sports,Sports,Tennis Racket,CUST1244,North,Chandigarh,Store,2677,-3,0.16,-6746.04,6220.63,-525.41,Cash on Delivery
+ORD202401108,2024-03-31,Mixer Grinder - Home,Home,Mixer Grinder,CUST1079,South,Kochi,Online,7475,1,0.02,7325.5,4989.25,2336.25,UPI
+ORD202400886,2024-04-04,Tennis Racket - Sports,Sports,Tennis Racket,CUST3204,West,Ahmedabad,Online,2976,1,0.35,1934.4,2453.33,-518.93,Debit Card
+ORD202400508,2024-04-04,Mixer Grinder - Home,Home,Mixer Grinder,CUST3694,North,Jaipur,Mobile App,7502,1,0.15,6376.7,4895.28,1481.42,UPI
+ORD202400831,2024-04-04,Smartwatch - Electronics,Electronics,Smartwatch,CUST2992,South,Kochi,Mobile App,13865,2,0.07,25788.9,19216.85,6572.05,Cash on Delivery
+ORD202400735,2024-04-04,Cricket Bat - Sports,Sports,Cricket Bat,CUST5670,East,Kolkata,Online,2276,3,0.08,6281.76,5337.97,943.79,UPI
+ORD202400032,2024-04-05,Laptop - Electronics,Electronics,Laptop,CUST1728,South,Chennai,Mobile App,11761,2,0.19,19052.82,17084.34,1968.48,UPI
+ORD202400245,2024-04-06,Tablet - Electronics,Electronics,Tablet,CUST5061,East,Kolkata,Store,15396,2,0.1,27712.8,19030.31,8682.49,UPI
+ORD202400386,2024-04-07,Tennis Racket - Sports,Sports,Tennis Racket,CUST4639,West,Mumbai,Online,2280,1,0.19,1846.8,1638.18,208.62,Credit Card
+ORD202400082,2024-04-07,Lipstick - Beauty,Beauty,Lipstick,CUST1738,South,Kochi,Online,673,6,0.35,2624.7,2844.27,-219.57,Net Banking
+ORD202401007,2024-04-08,Football - Sports,Sports,Football,CUST2946,West,Ahmedabad,Mobile App,3097,3,0.18,7618.62,6662.9,955.72,Credit Card
+ORD202400561,2024-04-08,Jeans - Fashion,Fashion,Jeans,CUST1889,South,Bengaluru,Mobile App,1772,4,0.09,6450.08,4349.75,2100.33,Net Banking
+ORD202400993,2024-04-09,Tennis Racket - Sports,Sports,Tennis Racket,CUST4092,South,Bengaluru,Mobile App,2253,2,0.31,3109.14,3096.74,12.4,Credit Card
+ORD202400650,2024-04-10,Yoga Mat - Sports,Sports,Yoga Mat,CUST3917,North,Delhi,Mobile App,1858,1,0.22,1449.24,1509.05,-59.81,Credit Card
+ORD202400120,2024-04-11,Sneakers - Fashion,Fashion,Sneakers,CUST2177,South,Bengaluru,Online,1763,2,0.26,2609.24,2538.0,71.24,UPI
+ORD202400512,2024-04-12,Cricket Bat - Sports,Sports,Cricket Bat,CUST4582,South,Chennai,Online,2850,1,0.1,2565.0,1980.24,584.76,Credit Card
+ORD202400000,2024-04-12,Smartphone - Electronics,Electronics,Smartphone,CUST1130,East,Bhubaneswar,Online,17128,2,0.07,31858.08,21777.11,10080.97,UPI
+ORD202400303,2024-04-14,Jacket - Fashion,Fashion,Jacket,CUST3656,West,Mumbai,Mobile App,1516,2,0.14,2607.52,2570.91,36.61,Net Banking
+ORD202400845,2024-04-14,Tablet - Electronics,Electronics,Tablet,CUST1347,West,Pune,Online,13925,4,0.06,52358.0,41826.89,10531.11,Credit Card
+ORD202400467,2024-04-14,Dumbbells - Sports,Sports,Dumbbells,CUST4618,East,Bhubaneswar,Online,1904,1,0.18,1561.28,1211.06,350.22,Cash on Delivery
+ORD202400665,2024-04-14,Laptop - Electronics,Electronics,Laptop,CUST5053,North,Chandigarh,Store,11760,2,0.1,21168.0,16059.5,5108.5,Credit Card
+ORD202400571,2024-04-15,Jeans - Fashion,Fashion,Jeans,CUST1981,East,Patna,Store,1853,1,0.12,1630.64,1342.47,288.17,UPI
+ORD202400378,2024-04-15,Football - Sports,Sports,Football,CUST1893,East,Patna,Mobile App,1959,1,0.05,1861.05,1178.74,682.31,UPI
+ORD202401079,2024-04-15,Perfume - Beauty,Beauty,Perfume,CUST2100,North,Jaipur,Online,762,2,0.07,1417.32,1074.12,343.2,Cash on Delivery
+ORD202400414,2024-04-15,Dumbbells - Sports,Sports,Dumbbells,CUST3942,East,Guwahati,Online,1920,2,0.11,3417.6,2771.72,645.88,UPI
+ORD202400104,2024-04-15,Tennis Racket - Sports,Sports,Tennis Racket,CUST4389,East,Patna,Store,2575,1,0.04,2472.0,2004.69,467.31,Debit Card
+ORD202401006,2024-04-16,Water Purifier - Home,Home,Water Purifier,CUST4845,East,Guwahati,Online,6597,4,0.28,18999.36,17243.87,1755.49,UPI
+ORD202400843,2024-04-16,Jacket - Fashion,Fashion,Jacket,CUST2620,South,Kochi,Online,1341,1,0.27,978.93,811.27,167.66,UPI
+ORD202401127,2024-04-16,Smartwatch - Electronics,Electronics,Smartwatch,CUST1384,South,Hyderabad,Store,14077,1,0.1,12669.3,9600.88,3068.42,UPI
+ORD202401056,2024-04-16,Dumbbells - Sports,Sports,Dumbbells,CUST1947,West,Mumbai,Mobile App,2221,1,0.2,1776.8,1552.05,224.75,UPI
+ORD202400079,2024-04-17,Jacket - Fashion,Fashion,Jacket,CUST1215,South,Chennai,Online,1416,2,0.15,2407.2,2082.87,324.33,Debit Card
+ORD202400353,2024-04-17,Tennis Racket - Sports,Sports,Tennis Racket,CUST4985,North,Delhi,Online,2892,2,0.19,4685.04,4149.32,535.72,Credit Card
+ORD202400260,2024-04-18,Face Cream - Beauty,Beauty,Face Cream,CUST3942,South,Bengaluru,Online,760,1,0.15,646.0,598.19,47.81,Credit Card
+ORD202400173,2024-04-18,Dress - Fashion,Fashion,Dress,CUST4069,South,Bengaluru,Mobile App,1548,4,0.17,5139.36,4828.76,310.6,Debit Card
+ORD202400339,2024-04-19,Smartphone - Electronics,Electronics,Smartphone,CUST5603,East,Patna,Mobile App,15400,3,0.07,42966.0,34732.41,8233.59,UPI
+ORD202401039,2024-04-19,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST4861,East,Kolkata,Mobile App,5465,1,0.06,5137.1,3789.64,1347.46,Credit Card
+ORD202400560,2024-04-19,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST5714,East,Guwahati,Mobile App,7627,3,0.25,17160.75,15518.15,1642.6,UPI
+ORD202400553,2024-04-19,Earbuds - Electronics,Electronics,Earbuds,CUST5733,North,Lucknow,Online,18184,4,0.02,71281.28,51189.91,20091.37,UPI
+ORD202400153,2024-04-20,Cricket Bat - Sports,Sports,Cricket Bat,CUST1922,West,Ahmedabad,Online,2203,4,0.18,7225.84,6922.59,303.25,Debit Card
+ORD202400850,2024-04-20,Shampoo - Beauty,Beauty,Shampoo,CUST5111,South,Kochi,Online,675,4,0.03,2619.0,2278.17,340.83,Credit Card
+ORD202400105,2024-04-20,Water Purifier - Home,Home,Water Purifier,CUST3134,East,Guwahati,Online,4634,4,0.12,16311.68,11401.27,4910.41,Debit Card
+ORD202400219,2024-04-20,T-Shirt - Fashion,Fashion,T-Shirt,CUST4675,South,Kochi,Store,1521,4,0.14,5232.24,3984.72,1247.52,Cash on Delivery
+ORD202401165,2024-04-20,Lipstick - Beauty,Beauty,Lipstick,CUST3102,West,Surat,Online,831,1,0.07,772.83,703.52,69.31,Credit Card
+ORD202400930,2024-04-21,Air Cooler - Home,Home,Air Cooler,CUST3059,West,Surat,Mobile App,6896,4,0.09,25101.44,19192.02,5909.42,Debit Card
+ORD202400422,2024-04-21,Jacket - Fashion,Fashion,Jacket,CUST5763,West,Surat,Mobile App,1424,2,0.05,2705.6,1720.21,985.39,Credit Card
+ORD202400154,2024-04-21,Lipstick - Beauty,Beauty,Lipstick,CUST2778,North,Jaipur,Online,640,1,0.07,595.2,436.31,158.89,Debit Card
+ORD202400970,2024-04-21,Mixer Grinder - Home,Home,Mixer Grinder,CUST5822,South,Bengaluru,Mobile App,6666,2,0.11,11865.48,10923.84,941.64,Credit Card
+ORD202400158,2024-04-22,T-Shirt - Fashion,Fashion,T-Shirt,CUST3010,North,Chandigarh,Mobile App,1080,1,0.19,874.8,819.77,55.03,Debit Card
+ORD202400920,2024-04-22,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST5807,South,Hyderabad,Online,5125,1,0.09,4663.75,4247.57,416.18,UPI
+ORD202400543,2024-04-22,Perfume - Beauty,Beauty,Perfume,CUST4390,East,Kolkata,Online,823,1,0.25,617.25,572.81,44.44,Credit Card
+ORD202401050,2024-04-23,Dress - Fashion,Fashion,Dress,CUST2007,South,Chennai,Mobile App,1076,1,0.3,753.2,810.76,-57.56,UPI
+ORD202400594,2024-04-23,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST2785,West,Mumbai,Online,6929,7,0.21,38317.37,33747.96,4569.41,Net Banking
+ORD202400563,2024-04-23,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST2377,West,Surat,Online,4327,1,0.09,3937.57,3374.19,563.38,UPI
+ORD202400620,2024-04-24,Dumbbells - Sports,Sports,Dumbbells,CUST5512,East,Patna,Store,3205,5,0.29,11377.75,12963.97,-1586.22,Debit Card
+ORD202400381,2024-04-24,Lipstick - Beauty,Beauty,Lipstick,CUST2894,South,Hyderabad,Mobile App,647,1,0.24,491.72,498.62,-6.9,Debit Card
+ORD202400521,2024-04-24,Earbuds - Electronics,Electronics,Earbuds,CUST2469,North,Chandigarh,Online,11442,1,0.22,8924.76,6972.66,1952.1,Credit Card
+ORD202400021,2024-04-25,Yoga Mat - Sports,Sports,Yoga Mat,CUST2895,East,Patna,Online,3143,1,0.08,2891.56,2432.71,458.85,UPI
+ORD202401175,2024-04-25,Face Cream - Beauty,Beauty,Face Cream,CUST2877,West,Ahmedabad,Online,673,1,0.11,598.97,465.02,133.95,UPI
+ORD202401173,2024-04-25,Tennis Racket - Sports,Sports,Tennis Racket,CUST1125,West,Pune,Mobile App,2542,1,0.04,2440.32,2152.38,287.94,UPI
+ORD202400484,2024-04-26,Water Purifier - Home,Home,Water Purifier,CUST2782,North,Chandigarh,Store,4947,3,0.14,12763.26,10731.4,2031.86,UPI
+ORD202401105,2024-04-26,Earbuds - Electronics,Electronics,Earbuds,CUST5779,West,Surat,Mobile App,19169,1,0.16,16101.96,11950.55,4151.41,UPI
+ORD202401112,2024-04-26,Laptop - Electronics,Electronics,Laptop,CUST3550,East,Kolkata,Online,15919,1,0.19,12894.39,10129.39,2765.0,Net Banking
+ORD202400889,2024-04-26,Lipstick - Beauty,Beauty,Lipstick,CUST2573,South,Chennai,Online,866,1,0.23,666.82,719.81,-52.99,Credit Card
+ORD202400962,2024-04-26,Shampoo - Beauty,Beauty,Shampoo,CUST2310,East,Bhubaneswar,Online,878,1,0.35,570.7,569.06,1.64,Credit Card
+ORD202400748,2024-04-27,Dumbbells - Sports,Sports,Dumbbells,CUST4322,West,Surat,Mobile App,2709,3,0.35,5282.55,5463.25,-180.7,Debit Card
+ORD202400194,2024-04-27,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST3011,East,Kolkata,Online,4715,2,0.23,7261.1,7180.53,80.57,UPI
+ORD202400061,2024-04-27,Mixer Grinder - Home,Home,Mixer Grinder,CUST5225,North,Chandigarh,Online,7665,2,0.25,11497.5,11966.03,-468.53,UPI
+ORD202400657,2024-05-01,T-Shirt - Fashion,Fashion,T-Shirt,CUST3268,South,Bengaluru,Store,1889,1,0.13,1643.43,1228.01,415.42,Debit Card
+ORD202400314,2024-05-01,Jacket - Fashion,Fashion,Jacket,CUST5558,West,Surat,Mobile App,1730,3,0.15,4411.5,3967.96,443.54,UPI
+ORD202400925,2024-05-01,Mixer Grinder - Home,Home,Mixer Grinder,CUST2593,East,Kolkata,Online,5870,3,0.24,13383.6,11544.64,1838.96,Net Banking
+ORD202400458,2024-05-02,Smartwatch - Electronics,Electronics,Smartwatch,CUST5587,East,Patna,Online,14120,1,0.05,13414.0,11389.16,2024.84,Credit Card
+ORD202400358,2024-05-02,Face Cream - Beauty,Beauty,Face Cream,CUST4218,West,Ahmedabad,Store,645,1,0.24,490.2,469.51,20.69,Net Banking
+ORD202400209,2024-05-02,Air Fryer - Home,Home,Air Fryer,CUST3158,East,Bhubaneswar,Online,6479,1,0.24,4924.04,5037.6,-113.56,UPI
+ORD202400149,2024-05-03,Sunscreen - Beauty,Beauty,Sunscreen,CUST4988,South,Chennai,Online,745,1,0.19,603.45,449.37,154.08,UPI
+ORD202400320,2024-05-04,Earbuds - Electronics,Electronics,Earbuds,CUST2016,South,Kochi,Mobile App,16967,2,0.13,29522.58,27978.28,1544.3,Debit Card
+ORD202400466,2024-05-04,Yoga Mat - Sports,Sports,Yoga Mat,CUST5723,West,Surat,Mobile App,1833,5,0.21,7240.35,6218.82,1021.53,Cash on Delivery
+ORD202400366,2024-05-05,Dress - Fashion,Fashion,Dress,CUST5079,West,Ahmedabad,Online,1623,1,0.35,1054.95,1378.14,-323.19,Debit Card
+ORD202400890,2024-05-06,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST1435,West,Pune,Mobile App,6594,1,0.25,4945.5,5423.45,-477.95,UPI
+ORD202400182,2024-05-06,Smartphone - Electronics,Electronics,Smartphone,CUST2299,East,Bhubaneswar,Online,12975,2,0.06,24393.0,19844.13,4548.87,UPI
+ORD202400290,2024-05-07,Smartwatch - Electronics,Electronics,Smartwatch,CUST3153,South,Hyderabad,Mobile App,17374,1,0.24,13204.24,13996.41,-792.17,UPI
+ORD202401074,2024-05-08,Shampoo - Beauty,Beauty,Shampoo,CUST4811,East,Patna,Online,535,2,0.17,888.1,797.63,90.47,UPI
+ORD202400479,2024-05-09,Football - Sports,Sports,Football,CUST4142,East,Patna,Store,1877,1,0.23,1445.29,1295.51,149.78,UPI
+ORD202400549,2024-05-12,Laptop - Electronics,Electronics,Laptop,CUST4153,North,Lucknow,Online,13743,2,0.02,26936.28,21607.03,5329.25,Debit Card
+ORD202400121,2024-05-12,Tennis Racket - Sports,Sports,Tennis Racket,CUST4854,East,Patna,Online,2783,4,0.09,10130.12,9259.14,870.98,UPI
+ORD202401118,2024-05-12,Perfume - Beauty,Beauty,Perfume,CUST1018,South,Kochi,Store,886,1,0.01,877.14,606.37,270.77,Credit Card
+ORD202400715,2024-05-14,Jeans - Fashion,Fashion,Jeans,CUST1100,East,Patna,Store,1514,1,0.08,1392.88,1153.87,239.01,Credit Card
+ORD202400692,2024-05-14,Tablet - Electronics,Electronics,Tablet,CUST2348,West,Pune,Store,14839,2,0.35,19290.7,23795.9,-4505.2,Credit Card
+ORD202400697,2024-05-14,Football - Sports,Sports,Football,CUST3550,East,Guwahati,Store,2346,5,0.03,11378.1,9263.44,2114.66,Credit Card
+ORD202400369,2024-05-14,Shampoo - Beauty,Beauty,Shampoo,CUST4731,North,Delhi,Mobile App,591,2,0.05,1122.9,853.46,269.44,UPI
+ORD202401129,2024-05-14,Earbuds - Electronics,Electronics,Earbuds,CUST1289,South,Kochi,Store,19470,2,0.1,35046.0,30151.43,4894.57,Net Banking
+ORD202400445,2024-05-14,Football - Sports,Sports,Football,CUST3064,North,Delhi,Mobile App,2975,1,0.13,2588.25,2115.76,472.49,UPI
+ORD202400859,2024-05-15,Yoga Mat - Sports,Sports,Yoga Mat,CUST2517,West,Ahmedabad,Online,3021,1,0.1,2718.9,2031.42,687.48,UPI
+ORD202400214,2024-05-16,Air Cooler - Home,Home,Air Cooler,CUST2948,North,Chandigarh,Mobile App,5317,3,0.15,13558.35,12310.26,1248.09,UPI
+RET202400004,2024-05-16,Earbuds - Electronics,Electronics,Earbuds,CUST5462,East,Patna,Store,15387,-2,0.35,-20003.1,25500.48,-5497.38,UPI
+ORD202400769,2024-05-16,Sunscreen - Beauty,Beauty,Sunscreen,CUST4638,South,Hyderabad,Mobile App,594,1,0.15,504.9,408.04,96.86,UPI
+ORD202400251,2024-05-16,Earbuds - Electronics,Electronics,Earbuds,CUST5462,East,Patna,Store,15387,2,0.35,20003.1,25500.48,-5497.38,UPI
+ORD202400046,2024-05-17,Cricket Bat - Sports,Sports,Cricket Bat,CUST4445,North,Chandigarh,Store,1905,4,0.02,7467.6,4817.52,2650.08,Debit Card
+ORD202400988,2024-05-17,Shampoo - Beauty,Beauty,Shampoo,CUST4754,South,Hyderabad,Online,762,2,0.04,1463.04,986.64,476.4,UPI
+ORD202400548,2024-05-17,Dress - Fashion,Fashion,Dress,CUST3886,North,Jaipur,Online,1799,2,0.32,2446.64,2627.6,-180.96,UPI
+ORD202400604,2024-05-18,Shampoo - Beauty,Beauty,Shampoo,CUST5696,North,Delhi,Mobile App,555,1,0.23,427.35,464.66,-37.31,Credit Card
+ORD202401193,2024-05-18,Lipstick - Beauty,Beauty,Lipstick,CUST5553,East,Kolkata,Online,813,2,0.28,1170.72,1216.53,-45.81,Net Banking
+ORD202400685,2024-05-19,Sunscreen - Beauty,Beauty,Sunscreen,CUST1661,North,Chandigarh,Store,580,3,0.24,1322.4,1299.0,23.4,UPI
+ORD202400122,2024-05-20,Perfume - Beauty,Beauty,Perfume,CUST1105,West,Surat,Online,506,1,0.22,394.68,405.18,-10.5,Credit Card
+ORD202400449,2024-05-20,Air Fryer - Home,Home,Air Fryer,CUST5266,South,Kochi,Mobile App,5792,1,0.18,4749.44,3952.14,797.3,Net Banking
+ORD202400572,2024-05-21,Shampoo - Beauty,Beauty,Shampoo,CUST5719,East,Bhubaneswar,Mobile App,694,1,0.29,492.74,569.51,-76.77,Debit Card
+ORD202401033,2024-05-21,Water Purifier - Home,Home,Water Purifier,CUST4520,North,Chandigarh,Mobile App,6236,1,0.15,5300.6,4555.43,745.17,UPI
+ORD202400223,2024-05-22,Water Purifier - Home,Home,Water Purifier,CUST1460,South,Bengaluru,Online,5556,1,0.12,4889.28,3771.34,1117.94,Debit Card
+ORD202400167,2024-05-23,Water Purifier - Home,Home,Water Purifier,CUST2854,North,Delhi,Online,6135,1,0.07,5705.55,3760.69,1944.86,Credit Card
+ORD202400014,2024-05-23,Jeans - Fashion,Fashion,Jeans,CUST1146,East,Patna,Store,1409,1,0.18,1155.38,1025.78,129.6,UPI
+ORD202400723,2024-05-23,Water Purifier - Home,Home,Water Purifier,CUST2652,South,Chennai,Online,7077,3,0.06,19957.14,15242.56,4714.58,UPI
+ORD202400379,2024-05-23,Tablet - Electronics,Electronics,Tablet,CUST5327,East,Kolkata,Online,12589,4,0.04,48341.76,41584.59,6757.17,Debit Card
+ORD202400866,2024-05-24,Tennis Racket - Sports,Sports,Tennis Racket,CUST4976,North,Jaipur,Online,3000,4,0.31,8280.0,9069.4,-789.4,UPI
+ORD202400958,2024-05-24,Smartwatch - Electronics,Electronics,Smartwatch,CUST3056,South,Bengaluru,Mobile App,11456,1,0.22,8935.68,9413.93,-478.25,Debit Card
+ORD202401149,2024-05-25,Face Cream - Beauty,Beauty,Face Cream,CUST3620,North,Jaipur,Online,817,4,0.08,3006.56,2439.16,567.4,Credit Card
+ORD202400052,2024-05-25,Dress - Fashion,Fashion,Dress,CUST2975,North,Chandigarh,Mobile App,1183,3,0.21,2803.71,2635.82,167.89,Credit Card
+ORD202400329,2024-05-26,Yoga Mat - Sports,Sports,Yoga Mat,CUST1015,West,Ahmedabad,Online,2596,3,0.06,7320.72,5647.68,1673.04,UPI
+ORD202400906,2024-05-26,Dress - Fashion,Fashion,Dress,CUST2771,West,Ahmedabad,Mobile App,1188,1,0.08,1092.96,900.05,192.91,Debit Card
+ORD202400868,2024-05-27,Cricket Bat - Sports,Sports,Cricket Bat,CUST5812,West,Surat,Store,1834,1,0.16,1540.56,1349.79,190.77,Net Banking
+ORD202400364,2024-05-27,Tablet - Electronics,Electronics,Tablet,CUST5469,North,Delhi,Store,16513,2,0.27,24108.98,28010.3,-3901.32,Debit Card
+ORD202400953,2024-05-28,Sunscreen - Beauty,Beauty,Sunscreen,CUST2184,West,Mumbai,Online,513,4,0.11,1826.28,1381.69,444.59,UPI
+ORD202400713,2024-05-28,Football - Sports,Sports,Football,CUST4849,South,Hyderabad,Store,2438,1,0.35,1584.7,1586.85,-2.15,Net Banking
+ORD202400139,2024-05-28,Lipstick - Beauty,Beauty,Lipstick,CUST3148,East,Bhubaneswar,Store,590,1,0.21,466.1,501.01,-34.91,Credit Card
+ORD202400024,2024-05-29,Sneakers - Fashion,Fashion,Sneakers,CUST1004,West,Pune,Store,1729,1,0.08,1590.68,1130.69,459.99,Credit Card
+ORD202400749,2024-05-29,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST3628,West,Pune,Mobile App,5790,2,0.08,10653.6,9296.51,1357.09,Credit Card
+ORD202400397,2024-05-29,Yoga Mat - Sports,Sports,Yoga Mat,CUST5486,West,Pune,Online,2186,1,0.05,2076.7,1333.36,743.34,UPI
+ORD202400253,2024-05-30,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST2184,North,Chandigarh,Online,5640,1,0.31,3891.6,3687.64,203.96,Debit Card
+ORD202400377,2024-05-30,Dumbbells - Sports,Sports,Dumbbells,CUST4084,West,Mumbai,Online,2595,1,0.29,1842.45,1675.37,167.08,Credit Card
+ORD202400519,2024-05-31,Jacket - Fashion,Fashion,Jacket,CUST5516,West,Surat,Online,1387,1,0.18,1137.34,1028.32,109.02,UPI
+ORD202400885,2024-06-02,Smartphone - Electronics,Electronics,Smartphone,CUST4371,West,Mumbai,Online,14027,3,0.1,37872.9,26975.48,10897.42,UPI
+ORD202400250,2024-06-02,Face Cream - Beauty,Beauty,Face Cream,CUST5396,East,Bhubaneswar,Online,573,1,0.35,372.45,433.69,-61.24,Credit Card
+ORD202400248,2024-06-02,T-Shirt - Fashion,Fashion,T-Shirt,CUST3414,East,Bhubaneswar,Online,1541,1,0.05,1463.95,1164.86,299.09,Credit Card
+ORD202400027,2024-06-02,Dress - Fashion,Fashion,Dress,CUST2757,South,Bengaluru,Online,1617,1,0.08,1487.64,1161.6,326.04,Credit Card
+ORD202400281,2024-06-03,Perfume - Beauty,Beauty,Perfume,CUST2874,West,Mumbai,Mobile App,556,2,0.19,900.72,743.73,156.99,Debit Card
+ORD202400726,2024-06-03,Jacket - Fashion,Fashion,Jacket,CUST2749,North,Chandigarh,Online,1825,1,0.33,1222.75,1203.05,19.7,UPI
+ORD202400545,2024-06-03,Perfume - Beauty,Beauty,Perfume,CUST3098,East,Patna,Mobile App,527,1,0.17,437.41,382.3,55.11,UPI
+ORD202400230,2024-06-03,Jacket - Fashion,Fashion,Jacket,CUST4743,East,Patna,Online,1265,1,0.06,1189.1,1073.12,115.98,Credit Card
+ORD202401084,2024-06-04,Sneakers - Fashion,Fashion,Sneakers,CUST5905,West,Ahmedabad,Online,1319,1,0.32,896.92,990.3,-93.38,Debit Card
+ORD202400113,2024-06-04,Mixer Grinder - Home,Home,Mixer Grinder,CUST2058,South,Bengaluru,Mobile App,5698,2,0.22,8888.88,8660.97,227.91,Credit Card
+ORD202400770,2024-06-04,Face Cream - Beauty,Beauty,Face Cream,CUST2559,East,Kolkata,Online,760,2,0.07,1413.6,1181.53,232.07,UPI
+ORD202400943,2024-06-05,Face Cream - Beauty,Beauty,Face Cream,CUST4391,West,Pune,Mobile App,490,1,0.26,362.6,327.16,35.44,Debit Card
+ORD202401184,2024-06-05,Jacket - Fashion,Fashion,Jacket,CUST4214,East,Guwahati,Mobile App,1742,4,0.11,6201.52,5876.43,325.09,Credit Card
+ORD202400655,2024-06-06,Yoga Mat - Sports,Sports,Yoga Mat,CUST5190,East,Bhubaneswar,Mobile App,3105,3,0.19,7545.15,7716.93,-171.78,Debit Card
+ORD202401053,2024-06-07,Dumbbells - Sports,Sports,Dumbbells,CUST2222,South,Hyderabad,Online,2881,1,0.12,2535.28,1878.33,656.95,Credit Card
+ORD202400682,2024-06-07,Dress - Fashion,Fashion,Dress,CUST4955,South,Kochi,Online,1088,1,0.08,1000.96,874.66,126.3,UPI
+ORD202400825,2024-06-07,Dress - Fashion,Fashion,Dress,CUST4191,South,Chennai,Online,1684,1,0.16,1414.56,1273.36,141.2,UPI
+ORD202400118,2024-06-07,Mixer Grinder - Home,Home,Mixer Grinder,CUST4712,South,Hyderabad,Mobile App,6730,2,0.15,11441.0,9541.74,1899.26,UPI
+ORD202400695,2024-06-08,Tablet - Electronics,Electronics,Tablet,CUST4795,North,Delhi,Online,12348,2,0.35,16052.4,16878.57,-826.17,Credit Card
+ORD202401145,2024-06-08,Smartwatch - Electronics,Electronics,Smartwatch,CUST5576,West,Surat,Mobile App,12923,5,0.17,53630.45,48456.18,5174.27,UPI
+ORD202400421,2024-06-09,Sunscreen - Beauty,Beauty,Sunscreen,CUST2927,North,Chandigarh,Store,693,4,0.16,2328.48,1702.16,626.32,UPI
+ORD202400018,2024-06-09,Cricket Bat - Sports,Sports,Cricket Bat,CUST1954,East,Kolkata,Online,1987,1,0.35,1291.55,1461.71,-170.16,UPI
+ORD202400662,2024-06-10,Water Purifier - Home,Home,Water Purifier,CUST1958,South,Bengaluru,Online,7028,1,0.1,6325.2,4408.8,1916.4,Net Banking
+ORD202401076,2024-06-10,Smartwatch - Electronics,Electronics,Smartwatch,CUST3941,East,Patna,Mobile App,13900,3,0.07,38781.0,26190.44,12590.56,Credit Card
+ORD202400098,2024-06-10,T-Shirt - Fashion,Fashion,T-Shirt,CUST1984,East,Patna,Online,1468,1,0.07,1365.24,1236.13,129.11,Net Banking
+ORD202400551,2024-06-11,Smartphone - Electronics,Electronics,Smartphone,CUST5811,South,Hyderabad,Online,14514,1,0.19,11756.34,11575.39,180.95,Debit Card
+ORD202400700,2024-06-12,Jacket - Fashion,Fashion,Jacket,CUST2118,South,Bengaluru,Online,1410,1,0.31,972.9,995.63,-22.73,UPI
+ORD202400816,2024-06-12,Perfume - Beauty,Beauty,Perfume,CUST5925,East,Kolkata,Online,854,1,0.11,760.06,647.02,113.04,UPI
+ORD202400639,2024-06-12,Earbuds - Electronics,Electronics,Earbuds,CUST1526,South,Chennai,Mobile App,13479,1,0.01,13344.21,8749.36,4594.85,UPI
+ORD202400376,2024-06-12,Air Cooler - Home,Home,Air Cooler,CUST2831,North,Jaipur,Store,5332,1,0.16,4478.88,3478.72,1000.16,Debit Card
+ORD202401188,2024-06-13,Sneakers - Fashion,Fashion,Sneakers,CUST2876,South,Hyderabad,Mobile App,1735,1,0.35,1127.75,1345.3,-217.55,Credit Card
+ORD202400783,2024-06-13,Jacket - Fashion,Fashion,Jacket,CUST5177,North,Lucknow,Mobile App,1104,1,0.18,905.28,701.57,203.71,Debit Card
+ORD202401046,2024-06-13,Jeans - Fashion,Fashion,Jeans,CUST2210,North,Lucknow,Mobile App,1755,2,0.2,2808.0,2735.78,72.22,Credit Card
+ORD202400489,2024-06-14,T-Shirt - Fashion,Fashion,T-Shirt,CUST5928,North,Delhi,Mobile App,1934,4,0.1,6962.4,4900.8,2061.6,Credit Card
+ORD202400528,2024-06-14,Mixer Grinder - Home,Home,Mixer Grinder,CUST2958,West,Mumbai,Online,5630,1,0.21,4447.7,3554.8,892.9,Credit Card
+RET202400007,2024-06-14,T-Shirt - Fashion,Fashion,T-Shirt,CUST5928,North,Delhi,Mobile App,1934,-4,0.1,-6962.4,4900.8,-2061.6,Credit Card
+ORD202400608,2024-06-14,Mixer Grinder - Home,Home,Mixer Grinder,CUST3384,West,Mumbai,Online,5684,2,0.22,8867.04,7668.68,1198.36,UPI
+ORD202400875,2024-06-15,Dumbbells - Sports,Sports,Dumbbells,CUST1716,South,Hyderabad,Store,2848,6,0.03,16575.36,12151.25,4424.11,Credit Card
+ORD202400778,2024-06-16,Football - Sports,Sports,Football,CUST5643,South,Kochi,Mobile App,1981,2,0.22,3090.36,2452.33,638.03,Debit Card
+ORD202401136,2024-06-16,Shampoo - Beauty,Beauty,Shampoo,CUST4531,West,Mumbai,Online,512,4,0.16,1720.32,1360.44,359.88,UPI
+ORD202400916,2024-06-16,Smartwatch - Electronics,Electronics,Smartwatch,CUST4081,West,Surat,Mobile App,13483,1,0.19,10921.23,8799.47,2121.76,Credit Card
+ORD202400741,2024-06-16,Tennis Racket - Sports,Sports,Tennis Racket,CUST5813,West,Surat,Online,3031,5,0.07,14094.15,11288.72,2805.43,Credit Card
+ORD202400907,2024-06-18,Jeans - Fashion,Fashion,Jeans,CUST2568,North,Delhi,Mobile App,1179,4,0.08,4338.72,2986.86,1351.86,Net Banking
+ORD202400693,2024-06-18,Perfume - Beauty,Beauty,Perfume,CUST1726,North,Lucknow,Online,690,4,0.26,2042.4,2344.02,-301.62,Debit Card
+ORD202400430,2024-06-18,Tablet - Electronics,Electronics,Tablet,CUST4815,East,Guwahati,Mobile App,12015,1,0.02,11774.7,10014.44,1760.26,Debit Card
+ORD202400396,2024-06-19,Perfume - Beauty,Beauty,Perfume,CUST2104,North,Jaipur,Mobile App,719,3,0.11,1919.73,1398.96,520.77,Credit Card
+ORD202401091,2024-06-19,Dress - Fashion,Fashion,Dress,CUST2266,West,Pune,Mobile App,1791,1,0.05,1701.45,1118.88,582.57,UPI
+ORD202400383,2024-06-20,T-Shirt - Fashion,Fashion,T-Shirt,CUST2583,North,Chandigarh,Online,1690,2,0.35,2197.0,2698.14,-501.14,Debit Card
+ORD202400145,2024-06-21,Perfume - Beauty,Beauty,Perfume,CUST5327,West,Mumbai,Mobile App,588,2,0.11,1046.64,986.81,59.83,UPI
+ORD202400137,2024-06-21,Mixer Grinder - Home,Home,Mixer Grinder,CUST5349,East,Guwahati,Mobile App,6287,2,0.0,12574.0,8223.52,4350.48,Credit Card
+ORD202400737,2024-06-21,Lipstick - Beauty,Beauty,Lipstick,CUST2603,North,Lucknow,Mobile App,684,3,0.27,1497.96,1405.21,92.75,UPI
+ORD202400629,2024-06-21,Dumbbells - Sports,Sports,Dumbbells,CUST4855,West,Pune,Mobile App,2945,3,0.07,8216.55,6294.99,1921.56,UPI
+ORD202400488,2024-06-22,Lipstick - Beauty,Beauty,Lipstick,CUST4735,South,Bengaluru,Online,827,2,0.1,1488.6,1116.23,372.37,UPI
+ORD202400325,2024-06-23,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST5556,South,Bengaluru,Mobile App,5875,1,0.0,5875.0,4303.35,1571.65,Credit Card
+ORD202400215,2024-06-23,Earbuds - Electronics,Electronics,Earbuds,CUST3587,East,Kolkata,Mobile App,19296,6,0.12,101882.88,79886.9,21995.98,Net Banking
+ORD202400556,2024-06-24,Laptop - Electronics,Electronics,Laptop,CUST5795,East,Guwahati,Mobile App,16884,1,0.11,15026.76,12997.18,2029.58,Debit Card
+ORD202401109,2024-06-24,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST1041,North,Jaipur,Online,7293,3,0.07,20347.47,15280.71,5066.76,Cash on Delivery
+ORD202401097,2024-06-25,Air Fryer - Home,Home,Air Fryer,CUST5539,North,Chandigarh,Mobile App,5199,3,0.33,10449.99,10561.54,-111.55,UPI
+ORD202400406,2024-06-25,Water Purifier - Home,Home,Water Purifier,CUST3511,North,Delhi,Mobile App,6828,5,0.0,34140.0,24290.23,9849.77,UPI
+ORD202400794,2024-06-26,Air Fryer - Home,Home,Air Fryer,CUST3076,South,Hyderabad,Online,7158,1,0.19,5797.98,5785.42,12.56,Credit Card
+ORD202400066,2024-06-27,Perfume - Beauty,Beauty,Perfume,CUST4120,West,Ahmedabad,Mobile App,570,1,0.01,564.3,373.36,190.94,UPI
+ORD202400457,2024-06-27,Smartphone - Electronics,Electronics,Smartphone,CUST5042,North,Delhi,Online,10858,1,0.3,7600.6,6573.56,1027.04,Debit Card
+ORD202400184,2024-06-27,Sunscreen - Beauty,Beauty,Sunscreen,CUST3998,West,Mumbai,Mobile App,538,1,0.19,435.78,403.59,32.19,Cash on Delivery
+ORD202401031,2024-06-28,Sneakers - Fashion,Fashion,Sneakers,CUST5254,East,Patna,Online,1649,1,0.15,1401.65,1191.26,210.39,UPI
+ORD202400832,2024-06-28,Lipstick - Beauty,Beauty,Lipstick,CUST1947,West,Pune,Online,585,2,0.16,982.8,767.11,215.69,Credit Card
+ORD202400134,2024-06-28,Cricket Bat - Sports,Sports,Cricket Bat,CUST1560,West,Surat,Store,2115,2,0.13,3680.1,3067.97,612.13,UPI
+ORD202400773,2024-06-29,Smartwatch - Electronics,Electronics,Smartwatch,CUST1722,West,Ahmedabad,Mobile App,14910,2,0.3,20874.0,21817.2,-943.2,Debit Card
+ORD202400236,2024-06-29,Perfume - Beauty,Beauty,Perfume,CUST4156,North,Lucknow,Online,700,1,0.31,483.0,459.57,23.43,UPI
+ORD202400840,2024-06-29,Water Purifier - Home,Home,Water Purifier,CUST5348,South,Kochi,Online,7508,4,0.09,27329.12,22858.58,4470.54,Credit Card
+ORD202400428,2024-06-30,Smartwatch - Electronics,Electronics,Smartwatch,CUST5002,North,Jaipur,Online,17138,4,0.25,51414.0,44227.31,7186.69,Credit Card
+ORD202400547,2024-07-02,Tablet - Electronics,Electronics,Tablet,CUST3878,South,Bengaluru,Online,15061,2,0.28,21687.84,24811.1,-3123.26,Credit Card
+ORD202400613,2024-07-02,Air Cooler - Home,Home,Air Cooler,CUST1600,East,Kolkata,Online,4790,1,0.09,4358.9,3904.82,454.08,UPI
+ORD202400295,2024-07-03,Smartphone - Electronics,Electronics,Smartphone,CUST5820,South,Hyderabad,Mobile App,15173,3,0.1,40967.1,30186.45,10780.65,Net Banking
+ORD202401163,2024-07-03,Jeans - Fashion,Fashion,Jeans,CUST5695,South,Bengaluru,Mobile App,1593,6,0.08,8793.36,7030.85,1762.51,Credit Card
+ORD202400947,2024-07-04,Face Cream - Beauty,Beauty,Face Cream,CUST4628,East,Guwahati,Mobile App,658,1,0.22,513.24,424.46,88.78,Credit Card
+ORD202400498,2024-07-04,Water Purifier - Home,Home,Water Purifier,CUST2554,West,Ahmedabad,Store,6008,1,0.09,5467.28,4343.68,1123.6,UPI
+ORD202400485,2024-07-04,Mixer Grinder - Home,Home,Mixer Grinder,CUST1250,North,Jaipur,Mobile App,5295,5,0.1,23827.5,21034.29,2793.21,UPI
+ORD202400672,2024-07-05,Dumbbells - Sports,Sports,Dumbbells,CUST3218,West,Ahmedabad,Online,2892,1,0.35,1879.8,2013.53,-133.73,Debit Card
+ORD202400315,2024-07-05,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST4854,East,Kolkata,Store,4522,1,0.24,3436.72,3072.35,364.37,Debit Card
+ORD202400719,2024-07-06,Air Fryer - Home,Home,Air Fryer,CUST1987,South,Chennai,Mobile App,7210,1,0.12,6344.8,5094.07,1250.73,UPI
+ORD202400614,2024-07-07,Face Cream - Beauty,Beauty,Face Cream,CUST3588,East,Bhubaneswar,Online,880,8,0.19,5702.4,5099.14,603.26,Cash on Delivery
+ORD202400391,2024-07-07,Tennis Racket - Sports,Sports,Tennis Racket,CUST5565,South,Kochi,Online,2206,2,0.1,3970.8,3735.75,235.05,Debit Card
+ORD202400002,2024-07-08,Tennis Racket - Sports,Sports,Tennis Racket,CUST3435,North,Jaipur,Mobile App,2801,1,0.13,2436.87,1996.06,440.81,Net Banking
+ORD202401024,2024-07-08,Yoga Mat - Sports,Sports,Yoga Mat,CUST4558,South,Kochi,Mobile App,2373,1,0.03,2301.81,1902.38,399.43,UPI
+ORD202400362,2024-07-08,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST5563,West,Surat,Online,6837,1,0.12,6016.56,4939.12,1077.44,Credit Card
+ORD202400300,2024-07-08,Tennis Racket - Sports,Sports,Tennis Racket,CUST2748,South,Bengaluru,Mobile App,2005,1,0.19,1624.05,1481.92,142.13,Credit Card
+ORD202401070,2024-07-09,Lipstick - Beauty,Beauty,Lipstick,CUST5983,South,Hyderabad,Mobile App,695,2,0.17,1153.7,927.39,226.31,Net Banking
+ORD202400308,2024-07-10,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST2260,North,Lucknow,Store,5620,1,0.13,4889.4,3538.79,1350.61,Credit Card
+ORD202400881,2024-07-11,Water Purifier - Home,Home,Water Purifier,CUST2167,North,Chandigarh,Online,5185,4,0.12,18251.2,15731.29,2519.91,Net Banking
+ORD202400792,2024-07-11,Cricket Bat - Sports,Sports,Cricket Bat,CUST5994,East,Patna,Online,2345,2,0.11,4174.1,3890.18,283.92,Credit Card
+ORD202400319,2024-07-11,Water Purifier - Home,Home,Water Purifier,CUST2814,West,Pune,Store,5884,1,0.27,4295.32,4910.98,-615.66,UPI
+ORD202401107,2024-07-13,Yoga Mat - Sports,Sports,Yoga Mat,CUST4793,North,Jaipur,Online,2327,1,0.13,2024.49,1740.98,283.51,Net Banking
+ORD202400609,2024-07-13,Smartphone - Electronics,Electronics,Smartphone,CUST4872,East,Bhubaneswar,Mobile App,14605,2,0.14,25120.6,22045.77,3074.83,Net Banking
+ORD202400441,2024-07-14,Shampoo - Beauty,Beauty,Shampoo,CUST3044,South,Hyderabad,Online,881,6,0.05,5021.7,3811.43,1210.27,Credit Card
+ORD202401036,2024-07-14,T-Shirt - Fashion,Fashion,T-Shirt,CUST3039,East,Guwahati,Online,1870,3,0.1,5049.0,3618.23,1430.77,UPI
+ORD202400317,2024-07-15,Smartwatch - Electronics,Electronics,Smartwatch,CUST4854,West,Pune,Store,19159,3,0.12,50579.76,40719.16,9860.6,Credit Card
+ORD202400309,2024-07-15,Sneakers - Fashion,Fashion,Sneakers,CUST1731,North,Chandigarh,Store,1121,2,0.11,1995.38,1663.55,331.83,Cash on Delivery
+ORD202401094,2024-07-15,Laptop - Electronics,Electronics,Laptop,CUST1973,West,Ahmedabad,Mobile App,16314,1,0.35,10604.1,11273.23,-669.13,Net Banking
+ORD202400462,2024-07-17,Face Cream - Beauty,Beauty,Face Cream,CUST3078,West,Mumbai,Online,801,1,0.19,648.81,649.56,-0.75,Credit Card
+ORD202400164,2024-07-17,Football - Sports,Sports,Football,CUST1370,East,Kolkata,Mobile App,2457,3,0.14,6339.06,5045.93,1293.13,Cash on Delivery
+ORD202401198,2024-07-18,Tennis Racket - Sports,Sports,Tennis Racket,CUST4052,South,Kochi,Online,2057,2,0.17,3414.62,3393.11,21.51,Debit Card
+ORD202400407,2024-07-18,Water Purifier - Home,Home,Water Purifier,CUST1300,South,Kochi,Online,4551,2,0.23,7008.54,7164.66,-156.12,UPI
+RET202400010,2024-07-18,Tennis Racket - Sports,Sports,Tennis Racket,CUST4052,South,Kochi,Online,2057,-2,0.17,-3414.62,3393.11,-21.51,Debit Card
+ORD202400564,2024-07-19,Dumbbells - Sports,Sports,Dumbbells,CUST3322,East,Bhubaneswar,Mobile App,2707,1,0.02,2652.86,1885.49,767.37,Debit Card
+ORD202400183,2024-07-19,Tennis Racket - Sports,Sports,Tennis Racket,CUST2573,East,Patna,Store,2545,6,0.08,14048.4,10854.6,3193.8,Credit Card
+ORD202401151,2024-07-19,Air Cooler - Home,Home,Air Cooler,CUST3796,South,Hyderabad,Mobile App,7195,1,0.24,5468.2,4924.71,543.49,UPI
+ORD202401178,2024-07-19,Lipstick - Beauty,Beauty,Lipstick,CUST4020,East,Patna,Mobile App,844,1,0.22,658.32,701.94,-43.62,Cash on Delivery
+ORD202400316,2024-07-19,Yoga Mat - Sports,Sports,Yoga Mat,CUST4301,South,Kochi,Store,2013,1,0.02,1972.74,1253.78,718.96,Credit Card
+ORD202400126,2024-07-20,Face Cream - Beauty,Beauty,Face Cream,CUST3852,West,Ahmedabad,Online,624,3,0.32,1272.96,1206.71,66.25,Credit Card
+ORD202400876,2024-07-20,Cricket Bat - Sports,Sports,Cricket Bat,CUST3822,East,Bhubaneswar,Mobile App,1897,1,0.14,1631.42,1144.83,486.59,Credit Card
+ORD202400941,2024-07-21,Football - Sports,Sports,Football,CUST1464,South,Bengaluru,Store,2823,2,0.06,5307.24,3831.48,1475.76,Credit Card
+ORD202401126,2024-07-21,Air Fryer - Home,Home,Air Fryer,CUST1396,West,Pune,Online,6663,3,0.21,15791.31,16954.74,-1163.43,Debit Card
+ORD202400151,2024-07-21,Perfume - Beauty,Beauty,Perfume,CUST2486,West,Ahmedabad,Mobile App,867,2,0.09,1577.94,1458.78,119.16,Credit Card
+ORD202400887,2024-07-21,Yoga Mat - Sports,Sports,Yoga Mat,CUST2889,West,Pune,Online,2953,2,0.04,5669.76,4422.41,1247.35,UPI
+ORD202401081,2024-07-21,Cricket Bat - Sports,Sports,Cricket Bat,CUST3690,North,Lucknow,Mobile App,2383,1,0.11,2120.87,1732.53,388.34,Debit Card
+ORD202400785,2024-07-22,Smartphone - Electronics,Electronics,Smartphone,CUST1776,East,Kolkata,Store,19145,2,0.11,34078.1,29394.31,4683.79,UPI
+RET202400002,2024-07-22,Smartphone - Electronics,Electronics,Smartphone,CUST1776,East,Kolkata,Store,19145,-2,0.11,-34078.1,29394.31,-4683.79,UPI
+ORD202400626,2024-07-22,T-Shirt - Fashion,Fashion,T-Shirt,CUST2169,North,Jaipur,Online,1756,3,0.24,4003.68,4351.41,-347.73,Debit Card
+ORD202400342,2024-07-22,Laptop - Electronics,Electronics,Laptop,CUST4512,South,Bengaluru,Online,10802,1,0.08,9937.84,8588.53,1349.31,UPI
+ORD202400494,2024-07-23,Shampoo - Beauty,Beauty,Shampoo,CUST3263,East,Bhubaneswar,Store,605,1,0.2,484.0,494.05,-10.05,Credit Card
+ORD202400244,2024-07-24,Tablet - Electronics,Electronics,Tablet,CUST1139,East,Bhubaneswar,Mobile App,12185,3,0.07,33996.15,24736.55,9259.6,Credit Card
+ORD202400987,2024-07-24,Smartwatch - Electronics,Electronics,Smartwatch,CUST4857,West,Pune,Online,17277,1,0.17,14339.91,11565.93,2773.98,Credit Card
+ORD202400100,2024-07-24,Shampoo - Beauty,Beauty,Shampoo,CUST3433,East,Guwahati,Online,859,1,0.29,609.89,585.39,24.5,Debit Card
+ORD202400511,2024-07-24,Lipstick - Beauty,Beauty,Lipstick,CUST2377,East,Bhubaneswar,Mobile App,726,1,0.27,529.98,575.87,-45.89,UPI
+ORD202400178,2024-07-25,Sunscreen - Beauty,Beauty,Sunscreen,CUST4618,North,Delhi,Online,816,2,0.27,1191.36,1202.23,-10.87,Credit Card
+ORD202400598,2024-07-25,Laptop - Electronics,Electronics,Laptop,CUST1239,North,Lucknow,Store,14844,3,0.1,40078.8,27207.73,12871.07,Net Banking
+RET202400021,2024-07-25,Yoga Mat - Sports,Sports,Yoga Mat,CUST1559,North,Chandigarh,Online,3222,-4,0.12,-11341.44,10480.92,-860.52,UPI
+ORD202401194,2024-07-25,Yoga Mat - Sports,Sports,Yoga Mat,CUST1559,North,Chandigarh,Online,3222,4,0.12,11341.44,10480.92,860.52,UPI
+ORD202400461,2024-07-26,Earbuds - Electronics,Electronics,Earbuds,CUST5551,West,Pune,Online,11275,1,0.18,9245.5,9129.48,116.02,UPI
+ORD202401027,2024-07-26,Cricket Bat - Sports,Sports,Cricket Bat,CUST5445,North,Lucknow,Online,2364,1,0.08,2174.88,1788.31,386.57,Credit Card
+ORD202400784,2024-07-27,Football - Sports,Sports,Football,CUST4124,East,Kolkata,Mobile App,2148,2,0.11,3823.44,3471.42,352.02,UPI
+ORD202400806,2024-07-27,Dress - Fashion,Fashion,Dress,CUST2363,South,Chennai,Online,1749,1,0.21,1381.71,1083.86,297.85,Credit Card
+ORD202400989,2024-07-28,Smartphone - Electronics,Electronics,Smartphone,CUST2853,West,Ahmedabad,Online,14633,2,0.04,28095.36,22856.63,5238.73,Credit Card
+ORD202400592,2024-07-29,Smartphone - Electronics,Electronics,Smartphone,CUST3817,East,Bhubaneswar,Online,19295,2,0.07,35888.7,27701.51,8187.19,UPI
+ORD202400442,2024-07-29,Mixer Grinder - Home,Home,Mixer Grinder,CUST2903,East,Guwahati,Online,6592,1,0.06,6196.48,4255.24,1941.24,Cash on Delivery
+ORD202400904,2024-07-29,Laptop - Electronics,Electronics,Laptop,CUST4732,West,Surat,Mobile App,16905,3,0.14,43614.9,36341.14,7273.76,Net Banking
+ORD202401011,2024-07-29,Jeans - Fashion,Fashion,Jeans,CUST2025,South,Bengaluru,Online,1334,2,0.26,1974.32,1932.1,42.22,Debit Card
+ORD202401096,2024-07-30,Water Purifier - Home,Home,Water Purifier,CUST3942,West,Surat,Online,7460,1,0.09,6788.6,4936.93,1851.67,Credit Card
+ORD202400142,2024-07-31,Cricket Bat - Sports,Sports,Cricket Bat,CUST5724,North,Lucknow,Online,3115,1,0.06,2928.1,2076.16,851.94,Credit Card
+ORD202400584,2024-08-02,Smartphone - Electronics,Electronics,Smartphone,CUST5680,North,Delhi,Online,13922,1,0.12,12251.36,11814.89,436.47,Net Banking
+ORD202400491,2024-08-02,Tablet - Electronics,Electronics,Tablet,CUST1030,East,Kolkata,Online,11080,2,0.16,18614.4,13390.01,5224.39,Credit Card
+ORD202400935,2024-08-02,Smartphone - Electronics,Electronics,Smartphone,CUST1253,South,Kochi,Mobile App,18599,2,0.18,30502.36,30126.35,376.01,Net Banking
+ORD202400050,2024-08-03,Smartphone - Electronics,Electronics,Smartphone,CUST4345,East,Bhubaneswar,Mobile App,12857,1,0.14,11057.02,7812.15,3244.87,Credit Card
+ORD202400727,2024-08-03,Dress - Fashion,Fashion,Dress,CUST3365,East,Bhubaneswar,Online,1912,3,0.32,3900.48,4474.68,-574.2,Debit Card
+ORD202400042,2024-08-04,Cricket Bat - Sports,Sports,Cricket Bat,CUST5178,East,Bhubaneswar,Mobile App,2221,5,0.1,9994.5,9285.91,708.59,UPI
+ORD202400277,2024-08-04,Dress - Fashion,Fashion,Dress,CUST5446,South,Chennai,Mobile App,1698,8,0.1,12225.6,11538.35,687.25,UPI
+ORD202400978,2024-08-04,Shampoo - Beauty,Beauty,Shampoo,CUST2389,South,Kochi,Online,646,1,0.06,607.24,402.69,204.55,Net Banking
+ORD202400175,2024-08-05,Yoga Mat - Sports,Sports,Yoga Mat,CUST4247,East,Bhubaneswar,Store,2560,1,0.17,2124.8,1952.73,172.07,Credit Card
+ORD202401000,2024-08-05,Cricket Bat - Sports,Sports,Cricket Bat,CUST2842,West,Ahmedabad,Mobile App,3168,4,0.16,10644.48,9571.61,1072.87,Cash on Delivery
+ORD202400008,2024-08-05,Mixer Grinder - Home,Home,Mixer Grinder,CUST5191,South,Bengaluru,Online,5832,1,0.18,4782.24,4192.29,589.95,Debit Card
+ORD202401013,2024-08-06,Earbuds - Electronics,Electronics,Earbuds,CUST5960,East,Bhubaneswar,Online,15358,1,0.07,14282.94,11958.84,2324.1,Credit Card
+ORD202401041,2024-08-07,T-Shirt - Fashion,Fashion,T-Shirt,CUST3791,South,Chennai,Mobile App,1798,1,0.25,1348.5,1160.15,188.35,UPI
+ORD202400942,2024-08-07,Smartphone - Electronics,Electronics,Smartphone,CUST4411,North,Delhi,Mobile App,12755,1,0.25,9566.25,9482.02,84.23,Credit Card
+ORD202400827,2024-08-07,Sneakers - Fashion,Fashion,Sneakers,CUST1345,North,Delhi,Online,1805,1,0.18,1480.1,1088.22,391.88,Credit Card
+ORD202400899,2024-08-07,Laptop - Electronics,Electronics,Laptop,CUST3058,South,Bengaluru,Mobile App,16447,1,0.11,14637.83,13770.95,866.88,UPI
+ORD202400140,2024-08-08,Shampoo - Beauty,Beauty,Shampoo,CUST2549,West,Mumbai,Online,688,2,0.1,1238.4,968.06,270.34,UPI
+ORD202400786,2024-08-08,Smartphone - Electronics,Electronics,Smartphone,CUST2109,South,Kochi,Online,15235,1,0.21,12035.65,9695.66,2339.99,Credit Card
+ORD202401018,2024-08-08,Laptop - Electronics,Electronics,Laptop,CUST4219,North,Chandigarh,Online,16057,1,0.21,12685.03,10391.92,2293.11,Credit Card
+ORD202400833,2024-08-09,Face Cream - Beauty,Beauty,Face Cream,CUST3871,East,Patna,Online,771,1,0.07,717.03,510.67,206.36,UPI
+ORD202400275,2024-08-09,Sneakers - Fashion,Fashion,Sneakers,CUST2230,East,Kolkata,Online,1621,2,0.11,2885.38,2574.79,310.59,Debit Card
+ORD202400636,2024-08-10,Laptop - Electronics,Electronics,Laptop,CUST5114,East,Kolkata,Mobile App,16128,2,0.26,23869.44,19794.58,4074.86,UPI
+ORD202401177,2024-08-10,Dress - Fashion,Fashion,Dress,CUST5072,East,Patna,Online,1314,10,0.35,8541.0,10608.98,-2067.98,Net Banking
+ORD202400289,2024-08-10,Earbuds - Electronics,Electronics,Earbuds,CUST5581,West,Surat,Online,10573,2,0.23,16282.42,13512.19,2770.23,Debit Card
+ORD202401131,2024-08-10,Perfume - Beauty,Beauty,Perfume,CUST2578,South,Bengaluru,Mobile App,599,8,0.32,3258.56,3200.41,58.15,Credit Card
+ORD202400982,2024-08-10,Dumbbells - Sports,Sports,Dumbbells,CUST3954,South,Bengaluru,Online,2532,1,0.03,2456.04,2118.52,337.52,UPI
+ORD202400573,2024-08-11,Sneakers - Fashion,Fashion,Sneakers,CUST4403,North,Delhi,Online,1238,4,0.12,4357.76,4170.78,186.98,Credit Card
+ORD202400011,2024-08-12,Dumbbells - Sports,Sports,Dumbbells,CUST5659,East,Kolkata,Online,1798,1,0.12,1582.24,1242.25,339.99,UPI
+ORD202400429,2024-08-13,Air Cooler - Home,Home,Air Cooler,CUST3415,West,Pune,Mobile App,7025,2,0.31,9694.5,9676.23,18.27,Cash on Delivery
+ORD202400855,2024-08-13,Tennis Racket - Sports,Sports,Tennis Racket,CUST5446,South,Kochi,Mobile App,2290,3,0.23,5289.9,5793.09,-503.19,Debit Card
+ORD202400291,2024-08-13,Mixer Grinder - Home,Home,Mixer Grinder,CUST3896,West,Mumbai,Mobile App,4900,2,0.09,8918.0,7938.26,979.74,Debit Card
+ORD202400203,2024-08-15,Shampoo - Beauty,Beauty,Shampoo,CUST4802,South,Kochi,Mobile App,586,1,0.2,468.8,436.17,32.63,Credit Card
+RET202400000,2024-08-15,Face Cream - Beauty,Beauty,Face Cream,CUST1597,West,Ahmedabad,Mobile App,510,-2,0.35,-663.0,844.71,-181.71,UPI
+ORD202400542,2024-08-15,Face Cream - Beauty,Beauty,Face Cream,CUST1597,West,Ahmedabad,Mobile App,510,2,0.35,663.0,844.71,-181.71,UPI
+ORD202401143,2024-08-16,Face Cream - Beauty,Beauty,Face Cream,CUST2990,East,Kolkata,Online,902,1,0.11,802.78,637.58,165.2,UPI
+ORD202400977,2024-08-16,Jacket - Fashion,Fashion,Jacket,CUST3007,South,Bengaluru,Online,1485,3,0.25,3341.25,3191.86,149.39,Credit Card
+ORD202400630,2024-08-16,Mixer Grinder - Home,Home,Mixer Grinder,CUST4242,West,Surat,Online,7037,1,0.13,6122.19,4481.61,1640.58,Debit Card
+ORD202400130,2024-08-17,Air Cooler - Home,Home,Air Cooler,CUST1661,West,Surat,Mobile App,4932,3,0.12,13020.48,10111.47,2909.01,Credit Card
+ORD202400780,2024-08-17,Jeans - Fashion,Fashion,Jeans,CUST2839,North,Jaipur,Online,1222,2,0.35,1588.6,1471.16,117.44,Net Banking
+ORD202401068,2024-08-18,Smartphone - Electronics,Electronics,Smartphone,CUST3134,West,Mumbai,Store,13943,1,0.21,11014.97,11250.88,-235.91,Credit Card
+ORD202400711,2024-08-18,Sunscreen - Beauty,Beauty,Sunscreen,CUST2417,North,Delhi,Mobile App,632,1,0.04,606.72,467.0,139.72,Credit Card
+ORD202400435,2024-08-18,Smartwatch - Electronics,Electronics,Smartwatch,CUST2168,East,Guwahati,Online,14892,3,0.17,37081.08,27245.23,9835.85,Debit Card
+ORD202401023,2024-08-18,Water Purifier - Home,Home,Water Purifier,CUST2220,East,Kolkata,Online,5464,1,0.11,4862.96,3587.48,1275.48,UPI
+ORD202400627,2024-08-18,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST1656,South,Bengaluru,Mobile App,5262,2,0.29,7472.04,7157.73,314.31,Net Banking
+ORD202400705,2024-08-19,Dress - Fashion,Fashion,Dress,CUST4598,East,Bhubaneswar,Online,1589,2,0.13,2764.86,2229.06,535.8,UPI
+ORD202401004,2024-08-19,Jacket - Fashion,Fashion,Jacket,CUST2486,East,Patna,Online,1630,2,0.35,2119.0,2763.04,-644.04,Debit Card
+RET202400020,2024-08-20,Mixer Grinder - Home,Home,Mixer Grinder,CUST4809,South,Kochi,Online,4986,-1,0.13,-4337.82,3076.11,-1261.71,Credit Card
+ORD202400717,2024-08-20,Mixer Grinder - Home,Home,Mixer Grinder,CUST4809,South,Kochi,Online,4986,1,0.13,4337.82,3076.11,1261.71,Credit Card
+ORD202400365,2024-08-20,Smartwatch - Electronics,Electronics,Smartwatch,CUST3938,South,Chennai,Online,11859,2,0.06,22294.92,16437.29,5857.63,UPI
+ORD202401130,2024-08-21,Yoga Mat - Sports,Sports,Yoga Mat,CUST4924,North,Chandigarh,Mobile App,2321,1,0.07,2158.53,1931.94,226.59,Debit Card
+ORD202400263,2024-08-21,T-Shirt - Fashion,Fashion,T-Shirt,CUST1136,North,Jaipur,Online,1398,1,0.05,1328.1,1054.2,273.9,Credit Card
+ORD202400504,2024-08-22,Yoga Mat - Sports,Sports,Yoga Mat,CUST4201,East,Bhubaneswar,Mobile App,2032,4,0.17,6746.24,5034.25,1711.99,Credit Card
+ORD202400689,2024-08-22,Laptop - Electronics,Electronics,Laptop,CUST3896,West,Pune,Mobile App,12096,4,0.1,43545.6,40737.66,2807.94,Credit Card
+ORD202400722,2024-08-22,Cricket Bat - Sports,Sports,Cricket Bat,CUST5799,West,Pune,Store,3124,1,0.35,2030.6,2308.82,-278.22,Net Banking
+ORD202400753,2024-08-23,Jacket - Fashion,Fashion,Jacket,CUST4533,West,Surat,Online,1693,3,0.12,4469.52,3184.82,1284.7,Debit Card
+ORD202400477,2024-08-23,Perfume - Beauty,Beauty,Perfume,CUST4869,North,Jaipur,Mobile App,590,2,0.13,1026.6,768.11,258.49,UPI
+ORD202400367,2024-08-23,Football - Sports,Sports,Football,CUST2375,West,Mumbai,Online,2577,2,0.35,3350.1,3995.28,-645.18,UPI
+ORD202400517,2024-08-23,Water Purifier - Home,Home,Water Purifier,CUST1509,North,Chandigarh,Online,6695,1,0.26,4954.3,5292.71,-338.41,Credit Card
+ORD202400661,2024-08-23,Perfume - Beauty,Beauty,Perfume,CUST5403,East,Bhubaneswar,Mobile App,643,3,0.06,1813.26,1355.37,457.89,Debit Card
+ORD202400109,2024-08-24,Tablet - Electronics,Electronics,Tablet,CUST5005,East,Bhubaneswar,Mobile App,17275,3,0.35,33686.25,36446.34,-2760.09,Credit Card
+ORD202400333,2024-08-24,Perfume - Beauty,Beauty,Perfume,CUST5683,North,Lucknow,Online,491,1,0.05,466.45,335.35,131.1,UPI
+ORD202400171,2024-08-25,Mixer Grinder - Home,Home,Mixer Grinder,CUST4200,West,Ahmedabad,Online,4639,3,0.1,12525.3,8839.77,3685.53,UPI
+ORD202400298,2024-08-25,Sunscreen - Beauty,Beauty,Sunscreen,CUST3761,East,Patna,Mobile App,644,1,0.13,560.28,533.01,27.27,Debit Card
+ORD202400527,2024-08-25,Earbuds - Electronics,Electronics,Earbuds,CUST3423,West,Pune,Online,12362,2,0.08,22746.08,15203.79,7542.29,UPI
+ORD202400431,2024-08-26,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST5573,East,Kolkata,Online,6900,2,0.03,13386.0,11262.06,2123.94,UPI
+ORD202400555,2024-08-26,Smartphone - Electronics,Electronics,Smartphone,CUST2425,West,Pune,Mobile App,15910,1,0.06,14955.4,13299.86,1655.54,Net Banking
+ORD202401104,2024-08-26,Lipstick - Beauty,Beauty,Lipstick,CUST1791,East,Kolkata,Online,647,4,0.06,2432.72,1768.8,663.92,Credit Card
+ORD202400189,2024-08-27,Mixer Grinder - Home,Home,Mixer Grinder,CUST1419,West,Ahmedabad,Store,7588,4,0.1,27316.8,24284.29,3032.51,UPI
+ORD202401043,2024-08-27,T-Shirt - Fashion,Fashion,T-Shirt,CUST1982,West,Ahmedabad,Online,1376,2,0.33,1843.84,2036.22,-192.38,UPI
+ORD202400393,2024-08-28,Dumbbells - Sports,Sports,Dumbbells,CUST2522,East,Guwahati,Mobile App,2792,1,0.13,2429.04,2239.09,189.95,UPI
+ORD202400929,2024-08-29,Sunscreen - Beauty,Beauty,Sunscreen,CUST3850,East,Guwahati,Online,826,1,0.18,677.32,509.71,167.61,UPI
+ORD202400888,2024-08-30,Face Cream - Beauty,Beauty,Face Cream,CUST5578,West,Ahmedabad,Mobile App,788,2,0.1,1418.4,1173.07,245.33,UPI
+ORD202400054,2024-08-30,Earbuds - Electronics,Electronics,Earbuds,CUST3762,South,Chennai,Mobile App,13683,3,0.06,38586.06,32002.39,6583.67,Credit Card
+ORD202400691,2024-08-30,Tennis Racket - Sports,Sports,Tennis Racket,CUST2387,North,Lucknow,Mobile App,2305,1,0.33,1544.35,1945.15,-400.8,UPI
+ORD202400505,2024-08-31,Sunscreen - Beauty,Beauty,Sunscreen,CUST2737,East,Bhubaneswar,Online,527,4,0.08,1939.36,1534.76,404.6,Credit Card
+ORD202400330,2024-09-01,Tablet - Electronics,Electronics,Tablet,CUST5042,South,Chennai,Online,18190,1,0.21,14370.1,13055.65,1314.45,Cash on Delivery
+ORD202400645,2024-09-01,Yoga Mat - Sports,Sports,Yoga Mat,CUST3367,North,Jaipur,Mobile App,2910,4,0.18,9544.8,9620.02,-75.22,UPI
+ORD202400698,2024-09-01,Jacket - Fashion,Fashion,Jacket,CUST4676,West,Pune,Online,1549,2,0.1,2788.2,1991.32,796.88,Debit Card
+ORD202400844,2024-09-01,T-Shirt - Fashion,Fashion,T-Shirt,CUST4307,North,Delhi,Mobile App,1620,4,0.13,5637.6,5043.8,593.8,Credit Card
+ORD202400701,2024-09-02,Air Cooler - Home,Home,Air Cooler,CUST3999,North,Jaipur,Online,6489,1,0.18,5320.98,4950.59,370.39,Net Banking
+ORD202400228,2024-09-03,Football - Sports,Sports,Football,CUST1085,South,Chennai,Online,2789,2,0.16,4685.52,4411.61,273.91,Credit Card
+ORD202401092,2024-09-03,Perfume - Beauty,Beauty,Perfume,CUST4112,West,Mumbai,Mobile App,642,2,0.19,1040.04,953.83,86.21,Debit Card
+ORD202400847,2024-09-03,Smartwatch - Electronics,Electronics,Smartwatch,CUST1510,East,Guwahati,Mobile App,19148,1,0.13,16658.76,12617.03,4041.73,Credit Card
+RET202400022,2024-09-03,Tennis Racket - Sports,Sports,Tennis Racket,CUST5368,South,Hyderabad,Store,2474,-2,0.18,-4057.36,4093.91,-36.55,UPI
+ORD202400750,2024-09-03,Air Fryer - Home,Home,Air Fryer,CUST4841,East,Kolkata,Online,7135,2,0.16,11986.8,10526.31,1460.49,UPI
+ORD202400405,2024-09-03,Tennis Racket - Sports,Sports,Tennis Racket,CUST5368,South,Hyderabad,Store,2474,2,0.18,4057.36,4093.91,-36.55,UPI
+ORD202400660,2024-09-05,T-Shirt - Fashion,Fashion,T-Shirt,CUST2264,East,Kolkata,Store,1336,1,0.23,1028.72,1026.33,2.39,Credit Card
+ORD202401100,2024-09-05,Smartwatch - Electronics,Electronics,Smartwatch,CUST5313,South,Chennai,Online,17110,4,0.16,57489.6,46992.53,10497.07,UPI
+ORD202401066,2024-09-06,Sunscreen - Beauty,Beauty,Sunscreen,CUST5370,East,Bhubaneswar,Mobile App,535,4,0.1,1926.0,1455.96,470.04,Cash on Delivery
+ORD202400163,2024-09-06,Yoga Mat - Sports,Sports,Yoga Mat,CUST2171,West,Ahmedabad,Mobile App,2758,1,0.02,2702.84,2159.82,543.02,UPI
+ORD202401077,2024-09-06,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST3295,East,Kolkata,Online,4362,3,0.06,12300.84,8438.93,3861.91,UPI
+ORD202401169,2024-09-07,Jacket - Fashion,Fashion,Jacket,CUST2910,West,Mumbai,Online,1862,2,0.18,3053.68,2414.02,639.66,Credit Card
+ORD202400005,2024-09-08,Mixer Grinder - Home,Home,Mixer Grinder,CUST3062,North,Lucknow,Online,7250,1,0.26,5365.0,5333.64,31.36,UPI
+ORD202400030,2024-09-09,Shampoo - Beauty,Beauty,Shampoo,CUST4267,North,Delhi,Mobile App,638,1,0.27,465.74,427.76,37.98,Debit Card
+ORD202400546,2024-09-09,Shampoo - Beauty,Beauty,Shampoo,CUST4217,West,Surat,Mobile App,854,4,0.24,2596.16,2518.72,77.44,Net Banking
+ORD202400278,2024-09-09,Cricket Bat - Sports,Sports,Cricket Bat,CUST1919,North,Delhi,Online,3172,3,0.22,7422.48,5750.4,1672.08,Credit Card
+ORD202400671,2024-09-09,Dress - Fashion,Fashion,Dress,CUST5926,South,Kochi,Online,1559,2,0.22,2432.04,1888.11,543.93,UPI
+ORD202400136,2024-09-09,T-Shirt - Fashion,Fashion,T-Shirt,CUST1963,East,Patna,Online,1758,4,0.01,6961.68,4339.05,2622.63,UPI
+ORD202400863,2024-09-10,Dress - Fashion,Fashion,Dress,CUST3775,West,Surat,Online,1364,2,0.31,1882.32,1999.5,-117.18,Debit Card
+ORD202400460,2024-09-11,Jeans - Fashion,Fashion,Jeans,CUST5958,East,Patna,Mobile App,1736,1,0.14,1492.96,1419.05,73.91,Cash on Delivery
+ORD202400574,2024-09-11,Dress - Fashion,Fashion,Dress,CUST2725,South,Kochi,Mobile App,1751,3,0.29,3729.63,3371.73,357.9,Debit Card
+ORD202400707,2024-09-11,T-Shirt - Fashion,Fashion,T-Shirt,CUST3659,East,Patna,Online,1405,1,0.15,1194.25,937.83,256.42,UPI
+ORD202400680,2024-09-12,Air Fryer - Home,Home,Air Fryer,CUST3956,South,Chennai,Online,6367,2,0.35,8277.1,7718.16,558.94,Credit Card
+ORD202400878,2024-09-12,Yoga Mat - Sports,Sports,Yoga Mat,CUST4807,North,Chandigarh,Store,2780,1,0.13,2418.6,1717.66,700.94,Credit Card
+ORD202400964,2024-09-13,Face Cream - Beauty,Beauty,Face Cream,CUST4936,North,Delhi,Online,527,1,0.16,442.68,415.6,27.08,UPI
+ORD202400804,2024-09-13,Football - Sports,Sports,Football,CUST3527,East,Kolkata,Online,2401,2,0.18,3937.64,3866.21,71.43,Debit Card
+ORD202400612,2024-09-13,T-Shirt - Fashion,Fashion,T-Shirt,CUST2074,East,Guwahati,Mobile App,1917,2,0.13,3335.58,2961.84,373.74,Credit Card
+ORD202400874,2024-09-14,Laptop - Electronics,Electronics,Laptop,CUST1789,North,Lucknow,Mobile App,17691,4,0.24,53780.64,46252.38,7528.26,Net Banking
+ORD202400459,2024-09-14,Tennis Racket - Sports,Sports,Tennis Racket,CUST4052,South,Hyderabad,Online,1868,3,0.12,4931.52,4289.6,641.92,Debit Card
+ORD202400056,2024-09-15,Jacket - Fashion,Fashion,Jacket,CUST2994,North,Jaipur,Mobile App,1348,1,0.2,1078.4,1065.0,13.4,Credit Card
+ORD202400039,2024-09-15,Tennis Racket - Sports,Sports,Tennis Racket,CUST5185,South,Bengaluru,Store,1870,1,0.2,1496.0,1251.68,244.32,UPI
+ORD202400282,2024-09-16,Lipstick - Beauty,Beauty,Lipstick,CUST5529,West,Pune,Online,550,1,0.35,357.5,338.33,19.17,Debit Card
+ORD202401186,2024-09-17,Lipstick - Beauty,Beauty,Lipstick,CUST4722,North,Delhi,Mobile App,746,4,0.33,1999.28,1809.68,189.6,UPI
+ORD202400892,2024-09-17,Sneakers - Fashion,Fashion,Sneakers,CUST5112,East,Bhubaneswar,Mobile App,1415,2,0.14,2433.8,1774.51,659.29,Credit Card
+ORD202400963,2024-09-18,Laptop - Electronics,Electronics,Laptop,CUST1536,North,Lucknow,Mobile App,10640,1,0.19,8618.4,8721.96,-103.56,Debit Card
+ORD202400197,2024-09-18,Tennis Racket - Sports,Sports,Tennis Racket,CUST3416,North,Delhi,Online,2881,1,0.16,2420.04,2324.04,96.0,UPI
+ORD202400790,2024-09-18,Football - Sports,Sports,Football,CUST2032,East,Guwahati,Mobile App,3245,1,0.29,2303.95,2270.28,33.67,Credit Card
+ORD202400069,2024-09-20,Shampoo - Beauty,Beauty,Shampoo,CUST4079,North,Chandigarh,Mobile App,755,2,0.35,981.5,1176.28,-194.78,UPI
+ORD202400599,2024-09-21,Football - Sports,Sports,Football,CUST5420,South,Kochi,Mobile App,2667,1,0.03,2586.99,1836.89,750.1,UPI
+ORD202401069,2024-09-21,Air Fryer - Home,Home,Air Fryer,CUST5646,East,Kolkata,Mobile App,6579,6,0.35,25658.1,26394.02,-735.92,UPI
+ORD202400562,2024-09-21,Football - Sports,Sports,Football,CUST4401,East,Bhubaneswar,Mobile App,2733,5,0.17,11341.95,9303.11,2038.84,Net Banking
+ORD202401167,2024-09-22,T-Shirt - Fashion,Fashion,T-Shirt,CUST2963,North,Jaipur,Store,1238,5,0.14,5323.4,4508.2,815.2,UPI
+ORD202400437,2024-09-22,Tablet - Electronics,Electronics,Tablet,CUST2812,West,Pune,Store,17923,4,0.07,66673.56,47723.95,18949.61,Credit Card
+ORD202400922,2024-09-23,Jacket - Fashion,Fashion,Jacket,CUST5133,South,Bengaluru,Online,1125,1,0.35,731.25,739.17,-7.92,Credit Card
+ORD202400088,2024-09-23,Air Fryer - Home,Home,Air Fryer,CUST1983,North,Delhi,Mobile App,7618,1,0.07,7084.74,4736.47,2348.27,UPI
+ORD202401116,2024-09-24,Dress - Fashion,Fashion,Dress,CUST4683,West,Ahmedabad,Online,1836,1,0.12,1615.68,1238.47,377.21,Credit Card
+ORD202400640,2024-09-25,Air Fryer - Home,Home,Air Fryer,CUST3588,West,Mumbai,Online,5445,2,0.15,9256.5,7905.84,1350.66,Net Banking
+ORD202401028,2024-09-25,Water Purifier - Home,Home,Water Purifier,CUST4048,South,Kochi,Mobile App,6918,4,0.17,22967.76,21327.95,1639.81,Debit Card
+ORD202400973,2024-09-26,Face Cream - Beauty,Beauty,Face Cream,CUST1147,North,Delhi,Store,563,3,0.1,1520.1,1278.89,241.21,Credit Card
+ORD202400242,2024-09-26,Jacket - Fashion,Fashion,Jacket,CUST3240,West,Mumbai,Online,1864,1,0.08,1714.88,1370.38,344.5,UPI
+ORD202400058,2024-09-26,Smartwatch - Electronics,Electronics,Smartwatch,CUST2863,South,Chennai,Mobile App,14642,2,0.14,25184.24,22570.51,2613.73,Credit Card
+ORD202400400,2024-09-26,Football - Sports,Sports,Football,CUST1719,West,Mumbai,Mobile App,2289,5,0.16,9613.8,9536.42,77.38,Debit Card
+ORD202400474,2024-09-26,Cricket Bat - Sports,Sports,Cricket Bat,CUST5195,South,Kochi,Online,3207,1,0.08,2950.44,2126.91,823.53,Net Banking
+ORD202400997,2024-09-26,Smartwatch - Electronics,Electronics,Smartwatch,CUST1037,South,Chennai,Online,18581,1,0.24,14121.56,12831.54,1290.02,UPI
+ORD202400463,2024-09-27,T-Shirt - Fashion,Fashion,T-Shirt,CUST5773,North,Jaipur,Mobile App,1197,3,0.23,2765.07,2626.32,138.75,UPI
+ORD202400355,2024-09-27,Laptop - Electronics,Electronics,Laptop,CUST2209,South,Bengaluru,Mobile App,17288,1,0.29,12274.48,13623.5,-1349.02,Credit Card
+ORD202400385,2024-09-27,Water Purifier - Home,Home,Water Purifier,CUST3381,East,Guwahati,Online,4514,2,0.07,8396.04,5993.78,2402.26,UPI
+RET202400008,2024-09-27,T-Shirt - Fashion,Fashion,T-Shirt,CUST5773,North,Jaipur,Mobile App,1197,-3,0.23,-2765.07,2626.32,-138.75,UPI
+ORD202400647,2024-09-27,T-Shirt - Fashion,Fashion,T-Shirt,CUST5687,West,Ahmedabad,Online,1115,1,0.14,958.9,783.12,175.78,UPI
+ORD202401199,2024-09-28,Tennis Racket - Sports,Sports,Tennis Racket,CUST1867,West,Ahmedabad,Store,2922,2,0.23,4499.88,3802.43,697.45,Credit Card
+ORD202400302,2024-09-29,Laptop - Electronics,Electronics,Laptop,CUST1307,North,Lucknow,Online,11862,2,0.09,21588.84,16249.58,5339.26,Debit Card
+ORD202400176,2024-09-29,T-Shirt - Fashion,Fashion,T-Shirt,CUST3238,North,Jaipur,Online,1760,5,0.02,8624.0,5894.41,2729.59,UPI
+ORD202400763,2024-09-29,Face Cream - Beauty,Beauty,Face Cream,CUST5131,North,Jaipur,Online,899,1,0.22,701.22,729.61,-28.39,Credit Card
+ORD202400404,2024-09-30,Tennis Racket - Sports,Sports,Tennis Racket,CUST4276,South,Kochi,Online,2444,2,0.11,4350.32,2999.41,1350.91,UPI
+ORD202400345,2024-10-01,Cricket Bat - Sports,Sports,Cricket Bat,CUST1375,East,Bhubaneswar,Online,1964,1,0.22,1531.92,1536.94,-5.02,UPI
+ORD202400287,2024-10-02,Football - Sports,Sports,Football,CUST5331,West,Ahmedabad,Online,1885,1,0.16,1583.4,1184.93,398.47,UPI
+ORD202400967,2024-10-02,Dumbbells - Sports,Sports,Dumbbells,CUST5848,West,Mumbai,Mobile App,2923,1,0.2,2338.4,2062.93,275.47,UPI
+ORD202400776,2024-10-02,Air Cooler - Home,Home,Air Cooler,CUST2973,East,Patna,Online,6496,2,0.09,11822.72,8541.67,3281.05,Debit Card
+ORD202400448,2024-10-03,Jeans - Fashion,Fashion,Jeans,CUST4395,North,Delhi,Mobile App,1197,3,0.15,3052.35,2852.81,199.54,Debit Card
+RET202400006,2024-10-03,Jeans - Fashion,Fashion,Jeans,CUST4395,North,Delhi,Mobile App,1197,-3,0.15,-3052.35,2852.81,-199.54,Debit Card
+ORD202400481,2024-10-04,Shampoo - Beauty,Beauty,Shampoo,CUST5376,South,Hyderabad,Online,622,1,0.19,503.82,403.11,100.71,Debit Card
+ORD202400766,2024-10-04,Tablet - Electronics,Electronics,Tablet,CUST1692,North,Chandigarh,Online,13189,1,0.12,11606.32,9744.24,1862.08,Credit Card
+ORD202400233,2024-10-04,Sneakers - Fashion,Fashion,Sneakers,CUST3038,North,Lucknow,Store,1549,3,0.04,4461.12,3198.36,1262.76,Net Banking
+ORD202400699,2024-10-04,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST2485,East,Patna,Mobile App,7277,2,0.05,13826.3,10602.14,3224.16,Net Banking
+ORD202400974,2024-10-05,Smartwatch - Electronics,Electronics,Smartwatch,CUST4924,North,Delhi,Store,16992,6,0.14,87678.72,71314.34,16364.38,UPI
+ORD202400820,2024-10-06,Lipstick - Beauty,Beauty,Lipstick,CUST5889,South,Bengaluru,Online,637,2,0.26,942.76,978.66,-35.9,UPI
+ORD202400073,2024-10-06,Smartphone - Electronics,Electronics,Smartphone,CUST2301,West,Pune,Online,19121,3,0.14,49332.18,40190.67,9141.51,Debit Card
+ORD202400128,2024-10-06,Sunscreen - Beauty,Beauty,Sunscreen,CUST5448,North,Lucknow,Online,596,1,0.14,512.56,370.36,142.2,Credit Card
+ORD202400836,2024-10-07,Tablet - Electronics,Electronics,Tablet,CUST2424,West,Ahmedabad,Online,18952,1,0.25,14214.0,12591.98,1622.02,UPI
+ORD202400265,2024-10-08,Cricket Bat - Sports,Sports,Cricket Bat,CUST4645,West,Pune,Online,3029,1,0.12,2665.52,2405.4,260.12,Debit Card
+ORD202400678,2024-10-08,Perfume - Beauty,Beauty,Perfume,CUST5642,East,Patna,Mobile App,862,1,0.07,801.66,538.24,263.42,UPI
+ORD202400931,2024-10-09,Dumbbells - Sports,Sports,Dumbbells,CUST5551,East,Bhubaneswar,Online,1765,1,0.09,1606.15,1322.7,283.45,UPI
+ORD202400583,2024-10-09,Smartwatch - Electronics,Electronics,Smartwatch,CUST3393,East,Kolkata,Mobile App,10931,1,0.25,8198.25,8948.16,-749.91,Debit Card
+ORD202400201,2024-10-10,Jacket - Fashion,Fashion,Jacket,CUST4829,North,Delhi,Online,1900,2,0.09,3458.0,2316.08,1141.92,Debit Card
+ORD202400180,2024-10-10,Tablet - Electronics,Electronics,Tablet,CUST3723,East,Patna,Mobile App,10780,2,0.16,18110.4,16728.87,1381.53,UPI
+ORD202400945,2024-10-11,Yoga Mat - Sports,Sports,Yoga Mat,CUST4888,West,Surat,Online,3016,2,0.29,4282.72,4456.91,-174.19,UPI
+ORD202400096,2024-10-11,Shampoo - Beauty,Beauty,Shampoo,CUST4530,West,Pune,Mobile App,895,2,0.22,1396.2,1176.95,219.25,UPI
+ORD202400801,2024-10-11,Air Cooler - Home,Home,Air Cooler,CUST2803,South,Hyderabad,Mobile App,4994,1,0.14,4294.84,3159.8,1135.04,UPI
+ORD202400261,2024-10-11,Water Purifier - Home,Home,Water Purifier,CUST1484,North,Jaipur,Mobile App,7615,1,0.26,5635.1,6211.88,-576.78,Debit Card
+ORD202400095,2024-10-11,Smartwatch - Electronics,Electronics,Smartwatch,CUST4609,West,Mumbai,Online,13759,2,0.1,24766.2,18247.93,6518.27,UPI
+ORD202400068,2024-10-11,Air Fryer - Home,Home,Air Fryer,CUST1946,West,Ahmedabad,Online,5791,3,0.02,17025.54,12582.45,4443.09,UPI
+ORD202400969,2024-10-11,Cricket Bat - Sports,Sports,Cricket Bat,CUST2967,South,Kochi,Mobile App,2738,4,0.28,7885.44,8688.52,-803.08,UPI
+ORD202400871,2024-10-12,Dumbbells - Sports,Sports,Dumbbells,CUST4681,West,Pune,Mobile App,3046,1,0.07,2832.78,2135.06,697.72,Credit Card
+ORD202400181,2024-10-12,Lipstick - Beauty,Beauty,Lipstick,CUST1987,West,Mumbai,Online,872,2,0.09,1587.04,1074.52,512.52,Net Banking
+ORD202400206,2024-10-12,Perfume - Beauty,Beauty,Perfume,CUST2088,North,Lucknow,Online,626,1,0.15,532.1,377.84,154.26,UPI
+ORD202400205,2024-10-13,Smartwatch - Electronics,Electronics,Smartwatch,CUST4752,North,Chandigarh,Mobile App,15660,2,0.15,26622.0,25211.02,1410.98,UPI
+ORD202401055,2024-10-13,Face Cream - Beauty,Beauty,Face Cream,CUST4389,South,Hyderabad,Store,668,4,0.14,2297.92,2104.92,193.0,Debit Card
+ORD202401012,2024-10-14,Jacket - Fashion,Fashion,Jacket,CUST5840,East,Guwahati,Online,1556,3,0.04,4481.28,3747.88,733.4,UPI
+ORD202400979,2024-10-14,Shampoo - Beauty,Beauty,Shampoo,CUST4537,East,Guwahati,Online,543,1,0.06,510.42,370.23,140.19,Debit Card
+ORD202401030,2024-10-14,Cricket Bat - Sports,Sports,Cricket Bat,CUST5862,West,Surat,Online,2936,1,0.3,2055.2,2350.21,-295.01,Debit Card
+ORD202400022,2024-10-14,Air Fryer - Home,Home,Air Fryer,CUST3806,North,Jaipur,Store,7609,1,0.09,6924.19,5913.93,1010.26,Credit Card
+ORD202400600,2024-10-14,Jacket - Fashion,Fashion,Jacket,CUST1037,West,Mumbai,Store,1446,1,0.06,1359.24,1141.76,217.48,UPI
+ORD202400912,2024-10-15,Mixer Grinder - Home,Home,Mixer Grinder,CUST4604,North,Lucknow,Mobile App,4607,1,0.32,3132.76,3000.08,132.68,Credit Card
+ORD202400791,2024-10-16,Water Purifier - Home,Home,Water Purifier,CUST4446,West,Ahmedabad,Mobile App,6227,1,0.11,5542.03,4365.47,1176.56,UPI
+ORD202400534,2024-10-16,Tablet - Electronics,Electronics,Tablet,CUST3739,South,Bengaluru,Store,14541,4,0.25,43623.0,38802.73,4820.27,UPI
+ORD202400210,2024-10-16,Sneakers - Fashion,Fashion,Sneakers,CUST1436,East,Bhubaneswar,Online,1181,2,0.04,2267.52,1795.4,472.12,UPI
+ORD202400076,2024-10-18,Football - Sports,Sports,Football,CUST2333,West,Pune,Mobile App,2462,1,0.04,2363.52,1852.9,510.62,Credit Card
+ORD202400062,2024-10-18,Tablet - Electronics,Electronics,Tablet,CUST4281,West,Ahmedabad,Mobile App,13323,4,0.15,45298.2,33828.65,11469.55,Credit Card
+ORD202401123,2024-10-19,Lipstick - Beauty,Beauty,Lipstick,CUST4309,North,Jaipur,Mobile App,570,4,0.21,1801.2,1822.05,-20.85,Net Banking
+ORD202400704,2024-10-19,Cricket Bat - Sports,Sports,Cricket Bat,CUST4869,North,Jaipur,Mobile App,2408,1,0.21,1902.32,1850.66,51.66,Net Banking
+ORD202400307,2024-10-20,Air Fryer - Home,Home,Air Fryer,CUST1090,West,Ahmedabad,Online,6217,4,0.05,23624.6,15015.15,8609.45,Net Banking
+ORD202400115,2024-10-20,Football - Sports,Sports,Football,CUST1128,East,Kolkata,Mobile App,2860,1,0.23,2202.2,2409.49,-207.29,Debit Card
+ORD202400535,2024-10-21,Jeans - Fashion,Fashion,Jeans,CUST2651,South,Chennai,Online,1120,1,0.19,907.2,796.24,110.96,UPI
+ORD202401179,2024-10-21,Dumbbells - Sports,Sports,Dumbbells,CUST1237,East,Kolkata,Mobile App,1943,1,0.35,1262.95,1463.4,-200.45,Credit Card
+ORD202400972,2024-10-22,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST1012,South,Kochi,Online,6420,1,0.11,5713.8,5300.27,413.53,Credit Card
+ORD202400938,2024-10-23,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST3648,South,Bengaluru,Online,4424,7,0.04,29729.28,25019.36,4709.92,Debit Card
+ORD202400936,2024-10-23,Dumbbells - Sports,Sports,Dumbbells,CUST3376,North,Jaipur,Online,2450,1,0.09,2229.5,1657.05,572.45,UPI
+ORD202400518,2024-10-24,Smartphone - Electronics,Electronics,Smartphone,CUST5859,North,Lucknow,Online,14276,1,0.11,12705.64,11710.78,994.86,Debit Card
+ORD202400917,2024-10-24,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST3258,East,Bhubaneswar,Online,7522,3,0.18,18504.12,17326.76,1177.36,UPI
+ORD202400933,2024-10-24,Perfume - Beauty,Beauty,Perfume,CUST4841,South,Hyderabad,Online,504,1,0.09,458.64,411.83,46.81,UPI
+ORD202401102,2024-10-24,Earbuds - Electronics,Electronics,Earbuds,CUST2766,East,Patna,Mobile App,17195,1,0.25,12896.25,13100.8,-204.55,Credit Card
+ORD202400803,2024-10-24,Jeans - Fashion,Fashion,Jeans,CUST5050,East,Kolkata,Online,1720,3,0.03,5005.2,4367.0,638.2,UPI
+ORD202400915,2024-10-25,Tablet - Electronics,Electronics,Tablet,CUST4010,East,Kolkata,Store,15315,1,0.19,12405.15,11762.32,642.83,Debit Card
+ORD202401172,2024-10-25,Lipstick - Beauty,Beauty,Lipstick,CUST5435,West,Ahmedabad,Online,657,1,0.2,525.6,466.15,59.45,Net Banking
+ORD202401170,2024-10-25,Lipstick - Beauty,Beauty,Lipstick,CUST4414,West,Mumbai,Store,735,5,0.15,3123.75,2216.62,907.13,UPI
+ORD202400455,2024-10-26,Tablet - Electronics,Electronics,Tablet,CUST3707,North,Chandigarh,Store,11687,1,0.01,11570.13,9548.28,2021.85,Credit Card
+ORD202400274,2024-10-26,Smartphone - Electronics,Electronics,Smartphone,CUST3552,South,Hyderabad,Online,13403,2,0.08,24661.52,19765.02,4896.5,UPI
+ORD202401125,2024-10-27,Air Fryer - Home,Home,Air Fryer,CUST3348,West,Pune,Online,4725,5,0.07,21971.25,18451.18,3520.07,Credit Card
+ORD202400720,2024-10-28,Smartphone - Electronics,Electronics,Smartphone,CUST3898,North,Lucknow,Mobile App,17378,1,0.09,15813.98,10963.66,4850.32,Credit Card
+ORD202400828,2024-10-28,T-Shirt - Fashion,Fashion,T-Shirt,CUST4361,East,Patna,Store,1323,1,0.09,1203.93,967.42,236.51,UPI
+RET202400016,2024-10-29,Air Cooler - Home,Home,Air Cooler,CUST3615,North,Lucknow,Mobile App,4232,-10,0.28,-30470.4,29029.97,-1440.43,Credit Card
+ORD202400768,2024-10-29,Air Cooler - Home,Home,Air Cooler,CUST3615,North,Lucknow,Mobile App,4232,10,0.28,30470.4,29029.97,1440.43,Credit Card
+ORD202400258,2024-10-29,Air Cooler - Home,Home,Air Cooler,CUST1276,West,Ahmedabad,Mobile App,7049,1,0.09,6414.59,5173.18,1241.41,Debit Card
+ORD202401042,2024-10-29,Tennis Racket - Sports,Sports,Tennis Racket,CUST1068,North,Lucknow,Online,1864,1,0.15,1584.4,1379.49,204.91,Net Banking
+ORD202401189,2024-10-30,Face Cream - Beauty,Beauty,Face Cream,CUST4326,South,Hyderabad,Online,547,3,0.03,1591.77,1098.72,493.05,Credit Card
+ORD202400016,2024-10-30,Jeans - Fashion,Fashion,Jeans,CUST5723,West,Mumbai,Online,1586,3,0.21,3758.82,3910.8,-151.98,UPI
+ORD202400323,2024-10-30,Jacket - Fashion,Fashion,Jacket,CUST5013,East,Bhubaneswar,Online,1395,2,0.19,2259.9,1766.05,493.85,UPI
+ORD202400736,2024-11-01,Dumbbells - Sports,Sports,Dumbbells,CUST4093,South,Hyderabad,Online,2759,1,0.21,2179.61,2251.05,-71.44,Debit Card
+ORD202400361,2024-11-01,Sunscreen - Beauty,Beauty,Sunscreen,CUST2450,South,Kochi,Mobile App,886,1,0.4,531.6,683.18,-151.58,UPI
+ORD202400045,2024-11-01,Sneakers - Fashion,Fashion,Sneakers,CUST3128,North,Jaipur,Online,1191,1,0.4,714.6,899.83,-185.23,Net Banking
+ORD202400911,2024-11-02,Football - Sports,Sports,Football,CUST2376,South,Hyderabad,Online,2569,1,0.33,1721.23,1556.89,164.34,Credit Card
+ORD202400694,2024-11-03,T-Shirt - Fashion,Fashion,T-Shirt,CUST2914,East,Patna,Online,1054,3,0.28,2276.64,2109.32,167.32,Cash on Delivery
+ORD202401037,2024-11-03,Mixer Grinder - Home,Home,Mixer Grinder,CUST2989,East,Guwahati,Mobile App,7570,2,0.36,9689.6,11563.27,-1873.67,Debit Card
+ORD202401095,2024-11-03,Air Cooler - Home,Home,Air Cooler,CUST1539,South,Kochi,Online,4739,5,0.24,18008.2,16476.56,1531.64,Net Banking
+ORD202400099,2024-11-04,Football - Sports,Sports,Football,CUST1526,East,Kolkata,Online,2237,1,0.34,1476.42,1445.92,30.5,Credit Card
+ORD202400249,2024-11-04,Jacket - Fashion,Fashion,Jacket,CUST5508,West,Pune,Mobile App,1106,1,0.19,895.86,828.86,67.0,UPI
+ORD202400724,2024-11-04,Yoga Mat - Sports,Sports,Yoga Mat,CUST4694,East,Patna,Store,2913,1,0.13,2534.31,1764.66,769.65,Credit Card
+ORD202400065,2024-11-04,Air Cooler - Home,Home,Air Cooler,CUST1417,East,Kolkata,Mobile App,5281,1,0.19,4277.61,3626.66,650.95,Net Banking
+ORD202401061,2024-11-04,Smartwatch - Electronics,Electronics,Smartwatch,CUST1406,North,Lucknow,Online,16426,1,0.31,11333.94,12836.48,-1502.54,UPI
+ORD202400568,2024-11-05,Water Purifier - Home,Home,Water Purifier,CUST1002,East,Guwahati,Online,5258,1,0.28,3785.76,3981.45,-195.69,UPI
+ORD202400965,2024-11-05,Cricket Bat - Sports,Sports,Cricket Bat,CUST4982,West,Surat,Mobile App,2059,3,0.12,5435.76,3786.79,1648.97,Cash on Delivery
+ORD202400829,2024-11-05,Air Fryer - Home,Home,Air Fryer,CUST3625,South,Bengaluru,Online,4294,1,0.19,3478.14,3383.84,94.3,Net Banking
+ORD202401090,2024-11-06,Air Cooler - Home,Home,Air Cooler,CUST5829,West,Pune,Store,6460,1,0.4,3876.0,4899.57,-1023.57,Net Banking
+ORD202400107,2024-11-07,Tennis Racket - Sports,Sports,Tennis Racket,CUST1403,East,Kolkata,Mobile App,2194,3,0.4,3949.2,5171.32,-1222.12,Credit Card
+ORD202400883,2024-11-07,Air Fryer - Home,Home,Air Fryer,CUST5893,East,Bhubaneswar,Online,5320,3,0.3,11172.0,10190.76,981.24,UPI
+ORD202400618,2024-11-07,Sunscreen - Beauty,Beauty,Sunscreen,CUST2184,West,Pune,Mobile App,562,4,0.3,1573.6,1491.33,82.27,Net Banking
+ORD202400218,2024-11-08,Smartwatch - Electronics,Electronics,Smartwatch,CUST1674,North,Chandigarh,Store,11258,2,0.27,16436.68,18850.65,-2413.97,Credit Card
+ORD202400161,2024-11-08,Perfume - Beauty,Beauty,Perfume,CUST2431,East,Kolkata,Online,521,1,0.4,312.6,314.35,-1.75,UPI
+ORD202400456,2024-11-09,Football - Sports,Sports,Football,CUST1348,East,Bhubaneswar,Mobile App,3181,3,0.4,5725.8,7090.86,-1365.06,Net Banking
+ORD202400040,2024-11-11,T-Shirt - Fashion,Fashion,T-Shirt,CUST2581,North,Jaipur,Online,1897,1,0.4,1138.2,1215.32,-77.12,UPI
+ORD202400332,2024-11-11,Smartwatch - Electronics,Electronics,Smartwatch,CUST3350,South,Kochi,Online,11019,1,0.31,7603.11,8408.15,-805.04,UPI
+ORD202401002,2024-11-11,Mixer Grinder - Home,Home,Mixer Grinder,CUST5941,North,Jaipur,Online,6709,1,0.29,4763.39,5650.01,-886.62,Credit Card
+ORD202400271,2024-11-12,Sunscreen - Beauty,Beauty,Sunscreen,CUST4571,West,Surat,Mobile App,520,1,0.25,390.0,400.07,-10.07,UPI
+ORD202400822,2024-11-12,Tablet - Electronics,Electronics,Tablet,CUST5257,East,Bhubaneswar,Online,18574,1,0.4,11144.4,13327.29,-2182.89,Debit Card
+ORD202400403,2024-11-13,Smartphone - Electronics,Electronics,Smartphone,CUST1585,North,Chandigarh,Online,17221,1,0.23,13260.17,11548.26,1711.91,Credit Card
+ORD202400090,2024-11-13,Dumbbells - Sports,Sports,Dumbbells,CUST2704,West,Ahmedabad,Mobile App,2001,1,0.28,1440.72,1529.99,-89.27,UPI
+ORD202401080,2024-11-13,Yoga Mat - Sports,Sports,Yoga Mat,CUST2454,North,Chandigarh,Online,2004,1,0.24,1523.04,1680.81,-157.77,Credit Card
+ORD202400696,2024-11-13,Water Purifier - Home,Home,Water Purifier,CUST1448,East,Kolkata,Online,6545,1,0.32,4450.6,4433.79,16.81,Debit Card
+ORD202400110,2024-11-13,Smartphone - Electronics,Electronics,Smartphone,CUST2252,East,Patna,Online,13566,1,0.4,8139.6,9492.96,-1353.36,UPI
+ORD202400446,2024-11-13,Shampoo - Beauty,Beauty,Shampoo,CUST4854,West,Mumbai,Online,527,1,0.21,416.33,368.3,48.03,UPI
+ORD202400646,2024-11-13,Face Cream - Beauty,Beauty,Face Cream,CUST4037,South,Kochi,Mobile App,884,1,0.26,654.16,732.13,-77.97,Credit Card
+ORD202400532,2024-11-13,Football - Sports,Sports,Football,CUST1826,South,Bengaluru,Mobile App,2977,1,0.23,2292.29,2443.52,-151.23,UPI
+ORD202400157,2024-11-14,Air Fryer - Home,Home,Air Fryer,CUST5835,South,Hyderabad,Mobile App,6795,1,0.4,4077.0,4824.79,-747.79,UPI
+ORD202401161,2024-11-14,Smartphone - Electronics,Electronics,Smartphone,CUST1687,West,Ahmedabad,Online,17016,1,0.32,11570.88,11531.33,39.55,UPI
+ORD202400998,2024-11-14,Football - Sports,Sports,Football,CUST3873,East,Kolkata,Online,2267,3,0.24,5168.76,5015.72,153.04,Credit Card
+ORD202400739,2024-11-16,Smartphone - Electronics,Electronics,Smartphone,CUST1375,South,Hyderabad,Online,13351,1,0.28,9612.72,10546.36,-933.64,Credit Card
+ORD202400331,2024-11-16,Face Cream - Beauty,Beauty,Face Cream,CUST3229,South,Kochi,Online,704,4,0.18,2309.12,2315.86,-6.74,Credit Card
+ORD202400577,2024-11-16,Air Cooler - Home,Home,Air Cooler,CUST2666,South,Bengaluru,Mobile App,6456,2,0.17,10716.96,8419.37,2297.59,UPI
+ORD202401044,2024-11-17,Sunscreen - Beauty,Beauty,Sunscreen,CUST4625,East,Bhubaneswar,Mobile App,502,2,0.15,853.4,826.97,26.43,Credit Card
+RET202400011,2024-11-19,Tennis Racket - Sports,Sports,Tennis Racket,CUST1480,North,Delhi,Mobile App,1901,-2,0.15,-3231.7,2701.38,-530.32,UPI
+RET202400003,2024-11-19,Tennis Racket - Sports,Sports,Tennis Racket,CUST1480,North,Delhi,Mobile App,1901,-2,0.15,-3231.7,2701.38,-530.32,UPI
+ORD202400779,2024-11-19,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST4517,West,Ahmedabad,Online,6083,1,0.3,4258.1,4752.49,-494.39,UPI
+ORD202400539,2024-11-19,Tennis Racket - Sports,Sports,Tennis Racket,CUST1480,North,Delhi,Mobile App,1901,2,0.15,3231.7,2701.38,530.32,UPI
+ORD202401025,2024-11-20,Perfume - Beauty,Beauty,Perfume,CUST5145,South,Kochi,Mobile App,663,4,0.28,1909.44,1901.54,7.9,Net Banking
+ORD202400471,2024-11-20,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST3431,North,Chandigarh,Online,6623,1,0.29,4702.33,5094.95,-392.62,UPI
+ORD202400762,2024-11-20,Water Purifier - Home,Home,Water Purifier,CUST3019,North,Lucknow,Online,7424,1,0.4,4454.4,5078.32,-623.92,Credit Card
+ORD202400622,2024-11-21,Cricket Bat - Sports,Sports,Cricket Bat,CUST1976,East,Bhubaneswar,Online,2686,1,0.4,1611.6,2186.13,-574.53,Credit Card
+ORD202400765,2024-11-21,Jacket - Fashion,Fashion,Jacket,CUST5377,West,Ahmedabad,Store,1192,1,0.4,715.2,756.61,-41.41,Credit Card
+ORD202400360,2024-11-22,Tennis Racket - Sports,Sports,Tennis Racket,CUST3999,West,Ahmedabad,Online,2244,1,0.24,1705.44,1818.85,-113.41,Credit Card
+ORD202400231,2024-11-22,Shampoo - Beauty,Beauty,Shampoo,CUST3003,East,Patna,Online,608,1,0.2,486.4,402.95,83.45,Credit Card
+ORD202400382,2024-11-23,Dress - Fashion,Fashion,Dress,CUST1463,West,Mumbai,Mobile App,1315,5,0.27,4799.75,5522.13,-722.38,Debit Card
+ORD202400482,2024-11-23,Perfume - Beauty,Beauty,Perfume,CUST4718,East,Patna,Online,521,4,0.3,1458.8,1762.16,-303.36,Credit Card
+ORD202400990,2024-11-24,Tennis Racket - Sports,Sports,Tennis Racket,CUST5244,North,Lucknow,Online,1957,1,0.35,1272.05,1200.55,71.5,Credit Card
+ORD202400217,2024-11-24,Smartwatch - Electronics,Electronics,Smartwatch,CUST1234,South,Hyderabad,Mobile App,15012,4,0.27,43835.04,37309.94,6525.1,UPI
+ORD202400981,2024-11-25,Shampoo - Beauty,Beauty,Shampoo,CUST2276,East,Bhubaneswar,Store,743,2,0.24,1129.36,1191.59,-62.23,UPI
+ORD202400567,2024-11-25,Dumbbells - Sports,Sports,Dumbbells,CUST2293,East,Kolkata,Online,2084,3,0.33,4188.84,5204.8,-1015.96,Credit Card
+ORD202400710,2024-11-25,Dumbbells - Sports,Sports,Dumbbells,CUST1988,West,Surat,Mobile App,2141,3,0.25,4817.25,4824.46,-7.21,UPI
+ORD202400668,2024-11-27,Tennis Racket - Sports,Sports,Tennis Racket,CUST3575,West,Pune,Online,2084,1,0.28,1500.48,1651.78,-151.3,Debit Card
+ORD202401197,2024-11-27,Cricket Bat - Sports,Sports,Cricket Bat,CUST2135,East,Guwahati,Online,2169,1,0.4,1301.4,1712.39,-410.99,Net Banking
+ORD202400336,2024-11-27,Jacket - Fashion,Fashion,Jacket,CUST2423,East,Patna,Online,1875,5,0.36,6000.0,7397.66,-1397.66,UPI
+ORD202400797,2024-11-28,Dumbbells - Sports,Sports,Dumbbells,CUST1909,North,Chandigarh,Mobile App,2009,2,0.4,2410.8,2485.8,-75.0,Debit Card
+ORD202400898,2024-11-28,Yoga Mat - Sports,Sports,Yoga Mat,CUST1092,West,Ahmedabad,Online,2740,1,0.25,2055.0,1932.28,122.72,UPI
+ORD202400524,2024-11-28,Football - Sports,Sports,Football,CUST1222,South,Bengaluru,Online,2058,1,0.25,1543.5,1418.36,125.14,Credit Card
+ORD202400732,2024-11-29,Shampoo - Beauty,Beauty,Shampoo,CUST5919,East,Patna,Online,726,1,0.35,471.9,492.04,-20.14,UPI
+ORD202400399,2024-11-29,Jacket - Fashion,Fashion,Jacket,CUST1616,West,Mumbai,Online,1588,2,0.24,2413.76,2639.31,-225.55,UPI
+ORD202400683,2024-11-29,Tennis Racket - Sports,Sports,Tennis Racket,CUST4718,South,Chennai,Mobile App,1808,1,0.4,1084.8,1359.98,-275.18,Net Banking
+ORD202401045,2024-11-30,Laptop - Electronics,Electronics,Laptop,CUST3407,South,Chennai,Mobile App,13266,1,0.4,7959.6,8667.16,-707.56,UPI
+ORD202401159,2024-12-01,Cricket Bat - Sports,Sports,Cricket Bat,CUST5815,East,Guwahati,Mobile App,2902,1,0.29,2060.42,2119.06,-58.64,Debit Card
+ORD202400426,2024-12-01,Cricket Bat - Sports,Sports,Cricket Bat,CUST3529,North,Lucknow,Mobile App,3234,1,0.4,1940.4,2038.02,-97.62,Net Banking
+ORD202400243,2024-12-01,Tennis Racket - Sports,Sports,Tennis Racket,CUST5068,North,Jaipur,Mobile App,2186,4,0.35,5683.6,6716.93,-1033.33,UPI
+ORD202400638,2024-12-01,Dress - Fashion,Fashion,Dress,CUST1419,North,Jaipur,Online,1533,5,0.4,4599.0,6364.67,-1765.67,UPI
+ORD202400767,2024-12-02,Mixer Grinder - Home,Home,Mixer Grinder,CUST5071,South,Bengaluru,Online,5762,7,0.31,27830.46,27605.71,224.75,UPI
+ORD202400846,2024-12-02,Sneakers - Fashion,Fashion,Sneakers,CUST3037,South,Chennai,Store,1210,3,0.3,2541.0,2701.67,-160.67,Credit Card
+ORD202400793,2024-12-02,Earbuds - Electronics,Electronics,Earbuds,CUST2740,North,Jaipur,Store,13216,1,0.16,11101.44,11023.31,78.13,Credit Card
+ORD202400254,2024-12-03,Perfume - Beauty,Beauty,Perfume,CUST1869,South,Kochi,Mobile App,644,1,0.4,386.4,450.39,-63.99,Debit Card
+ORD202401010,2024-12-03,Dress - Fashion,Fashion,Dress,CUST5119,East,Bhubaneswar,Store,1805,1,0.21,1425.95,1522.19,-96.24,UPI
+ORD202401157,2024-12-04,Dress - Fashion,Fashion,Dress,CUST4094,West,Ahmedabad,Mobile App,1545,1,0.17,1282.35,1126.11,156.24,Cash on Delivery
+ORD202401176,2024-12-04,Sneakers - Fashion,Fashion,Sneakers,CUST2439,South,Kochi,Online,1258,2,0.11,2239.24,1800.72,438.52,Debit Card
+ORD202401088,2024-12-04,Football - Sports,Sports,Football,CUST1796,West,Pune,Online,1864,2,0.22,2907.84,2370.47,537.37,UPI
+ORD202400010,2024-12-05,Tablet - Electronics,Electronics,Tablet,CUST5744,South,Chennai,Online,13915,3,0.32,28386.6,25119.55,3267.05,Credit Card
+ORD202400387,2024-12-05,Tablet - Electronics,Electronics,Tablet,CUST1596,East,Patna,Online,14224,1,0.27,10383.52,11208.92,-825.4,Debit Card
+ORD202400540,2024-12-05,Air Cooler - Home,Home,Air Cooler,CUST1597,East,Patna,Online,6557,1,0.16,5507.88,5379.05,128.83,Credit Card
+ORD202400084,2024-12-05,Dress - Fashion,Fashion,Dress,CUST3632,North,Lucknow,Mobile App,1646,1,0.18,1349.72,994.96,354.76,UPI
+ORD202400276,2024-12-05,Cricket Bat - Sports,Sports,Cricket Bat,CUST3875,South,Hyderabad,Mobile App,1890,1,0.4,1134.0,1523.49,-389.49,UPI
+ORD202400187,2024-12-06,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST1182,South,Kochi,Online,7194,1,0.32,4891.92,5898.83,-1006.91,Net Banking
+ORD202400389,2024-12-07,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST4153,East,Patna,Online,4801,2,0.09,8737.82,6991.2,1746.62,UPI
+ORD202401060,2024-12-07,Shampoo - Beauty,Beauty,Shampoo,CUST3795,North,Lucknow,Store,644,1,0.4,386.4,419.66,-33.26,UPI
+ORD202400075,2024-12-07,Jacket - Fashion,Fashion,Jacket,CUST2386,East,Patna,Mobile App,1697,5,0.4,5091.0,5443.73,-352.73,UPI
+ORD202401181,2024-12-08,Perfume - Beauty,Beauty,Perfume,CUST1434,South,Chennai,Mobile App,909,1,0.4,545.4,622.74,-77.34,Credit Card
+ORD202400781,2024-12-08,Tablet - Electronics,Electronics,Tablet,CUST4291,West,Surat,Mobile App,16811,1,0.4,10086.6,10798.26,-711.66,Credit Card
+ORD202401113,2024-12-08,Cricket Bat - Sports,Sports,Cricket Bat,CUST3337,West,Mumbai,Mobile App,2712,3,0.4,4881.6,5611.67,-730.07,Net Banking
+ORD202400085,2024-12-09,Smartwatch - Electronics,Electronics,Smartwatch,CUST1884,South,Kochi,Online,12841,2,0.21,20288.78,15826.45,4462.33,Debit Card
+ORD202400537,2024-12-09,Smartphone - Electronics,Electronics,Smartphone,CUST4664,West,Surat,Mobile App,18209,3,0.4,32776.2,35328.75,-2552.55,Debit Card
+ORD202400001,2024-12-09,Yoga Mat - Sports,Sports,Yoga Mat,CUST3047,West,Mumbai,Online,2077,1,0.22,1620.06,1563.9,56.16,UPI
+ORD202400091,2024-12-10,Yoga Mat - Sports,Sports,Yoga Mat,CUST4508,South,Hyderabad,Online,1788,2,0.25,2682.0,2878.63,-196.63,Debit Card
+ORD202400117,2024-12-10,Laptop - Electronics,Electronics,Laptop,CUST4232,North,Lucknow,Online,15844,2,0.4,19012.8,19394.74,-381.94,Credit Card
+ORD202400628,2024-12-10,Earbuds - Electronics,Electronics,Earbuds,CUST4100,West,Mumbai,Mobile App,16579,1,0.14,14257.94,11630.62,2627.32,Debit Card
+ORD202401089,2024-12-11,Air Cooler - Home,Home,Air Cooler,CUST4897,East,Patna,Mobile App,5328,3,0.31,11028.96,12140.47,-1111.51,Debit Card
+ORD202400851,2024-12-11,Tennis Racket - Sports,Sports,Tennis Racket,CUST1885,North,Jaipur,Store,2167,1,0.26,1603.58,1637.51,-33.93,UPI
+ORD202401139,2024-12-12,Lipstick - Beauty,Beauty,Lipstick,CUST3263,West,Mumbai,Mobile App,854,2,0.12,1503.04,1247.26,255.78,Debit Card
+ORD202401133,2024-12-13,Football - Sports,Sports,Football,CUST1726,South,Hyderabad,Online,1816,1,0.1,1634.4,1460.44,173.96,Debit Card
+ORD202401072,2024-12-13,Smartwatch - Electronics,Electronics,Smartwatch,CUST5450,West,Ahmedabad,Store,14483,2,0.14,24910.76,24444.58,466.18,Net Banking
+ORD202400025,2024-12-15,Sneakers - Fashion,Fashion,Sneakers,CUST2012,West,Ahmedabad,Online,1515,6,0.26,6726.6,7035.6,-309.0,UPI
+ORD202400653,2024-12-16,Jacket - Fashion,Fashion,Jacket,CUST2494,East,Bhubaneswar,Online,1848,1,0.33,1238.16,1186.8,51.36,Credit Card
+ORD202400872,2024-12-16,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST5440,North,Chandigarh,Online,5989,4,0.23,18446.12,15179.27,3266.85,Credit Card
+ORD202400116,2024-12-17,Jeans - Fashion,Fashion,Jeans,CUST1302,East,Kolkata,Online,1206,1,0.31,832.14,974.11,-141.97,Credit Card
+ORD202400716,2024-12-18,Earbuds - Electronics,Electronics,Earbuds,CUST5834,South,Hyderabad,Online,16563,1,0.18,13581.66,11888.81,1692.85,Credit Card
+ORD202400633,2024-12-18,Water Purifier - Home,Home,Water Purifier,CUST5522,South,Bengaluru,Online,4825,1,0.1,4342.5,3821.51,520.99,UPI
+ORD202400199,2024-12-19,Lipstick - Beauty,Beauty,Lipstick,CUST2627,East,Bhubaneswar,Mobile App,537,1,0.4,322.2,368.82,-46.62,Credit Card
+ORD202400166,2024-12-19,Perfume - Beauty,Beauty,Perfume,CUST4137,West,Mumbai,Online,887,2,0.18,1454.68,1358.97,95.71,UPI
+ORD202401075,2024-12-20,Sunscreen - Beauty,Beauty,Sunscreen,CUST2241,West,Surat,Mobile App,555,1,0.22,432.9,425.72,7.18,Credit Card
+ORD202401154,2024-12-20,Tablet - Electronics,Electronics,Tablet,CUST4948,East,Patna,Mobile App,16328,1,0.15,13878.8,12752.86,1125.94,UPI
+ORD202400805,2024-12-20,Jeans - Fashion,Fashion,Jeans,CUST2531,West,Pune,Online,1637,1,0.36,1047.68,996.47,51.21,Credit Card
+ORD202400216,2024-12-20,Tablet - Electronics,Electronics,Tablet,CUST3078,West,Surat,Mobile App,19088,1,0.4,11452.8,15376.24,-3923.44,Debit Card
+ORD202400279,2024-12-21,Cricket Bat - Sports,Sports,Cricket Bat,CUST1650,South,Kochi,Mobile App,1795,5,0.14,7718.5,6724.19,994.31,Net Banking
+ORD202400447,2024-12-22,Smartphone - Electronics,Electronics,Smartphone,CUST1324,East,Guwahati,Store,11734,1,0.21,9269.86,7890.32,1379.54,Debit Card
+ORD202400354,2024-12-22,Dumbbells - Sports,Sports,Dumbbells,CUST1746,West,Pune,Store,2249,1,0.11,2001.61,1476.86,524.75,UPI
+ORD202400349,2024-12-23,Dress - Fashion,Fashion,Dress,CUST2192,West,Pune,Mobile App,1320,1,0.25,990.0,1107.01,-117.01,UPI
+ORD202400346,2024-12-24,Dumbbells - Sports,Sports,Dumbbells,CUST2912,West,Ahmedabad,Online,2585,1,0.18,2119.7,1755.07,364.63,Cash on Delivery
+ORD202400047,2024-12-25,Sneakers - Fashion,Fashion,Sneakers,CUST1523,North,Delhi,Mobile App,1189,4,0.3,3329.2,3506.02,-176.82,UPI
+ORD202400288,2024-12-25,Sunscreen - Beauty,Beauty,Sunscreen,CUST4865,West,Pune,Online,638,1,0.27,465.74,538.37,-72.63,Debit Card
+ORD202401086,2024-12-25,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST3129,North,Chandigarh,Store,5647,1,0.28,4065.84,3997.27,68.57,UPI
+ORD202400224,2024-12-25,Dress - Fashion,Fashion,Dress,CUST3295,North,Lucknow,Mobile App,1066,4,0.36,2728.96,3550.43,-821.47,UPI
+ORD202400891,2024-12-25,Water Purifier - Home,Home,Water Purifier,CUST1388,West,Mumbai,Online,4606,1,0.37,2901.78,3195.37,-293.59,UPI
+ORD202400037,2024-12-26,Perfume - Beauty,Beauty,Perfume,CUST2852,West,Surat,Online,614,2,0.31,847.32,1037.02,-189.7,UPI
+ORD202401062,2024-12-26,Smartphone - Electronics,Electronics,Smartphone,CUST3224,South,Kochi,Online,15815,1,0.17,13126.45,13328.11,-201.66,Credit Card
+ORD202400112,2024-12-26,Tablet - Electronics,Electronics,Tablet,CUST3212,North,Jaipur,Online,15565,1,0.22,12140.7,12204.52,-63.82,Debit Card
+ORD202400490,2024-12-27,Jeans - Fashion,Fashion,Jeans,CUST4319,West,Ahmedabad,Mobile App,1893,1,0.21,1495.47,1520.89,-25.42,Credit Card
+ORD202400984,2024-12-27,Jeans - Fashion,Fashion,Jeans,CUST3445,East,Patna,Mobile App,1852,4,0.28,5333.76,4768.06,565.7,UPI
+ORD202400256,2024-12-28,Dress - Fashion,Fashion,Dress,CUST5351,East,Guwahati,Online,1345,3,0.26,2985.9,2623.86,362.04,Credit Card
+ORD202400966,2024-12-28,Air Cooler - Home,Home,Air Cooler,CUST4094,West,Surat,Online,4828,1,0.17,4007.24,3555.29,451.95,UPI
+ORD202400839,2024-12-29,Laptop - Electronics,Electronics,Laptop,CUST2876,East,Patna,Online,13240,2,0.2,21184.0,16455.67,4728.33,Net Banking
+ORD202400108,2024-12-29,Air Fryer - Home,Home,Air Fryer,CUST2269,East,Kolkata,Mobile App,4655,9,0.17,34772.85,31341.13,3431.72,UPI
+ORD202400728,2024-12-30,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST2919,South,Kochi,Online,5708,1,0.14,4908.88,4675.27,233.61,UPI
+ORD202400093,2024-12-30,T-Shirt - Fashion,Fashion,T-Shirt,CUST1277,East,Kolkata,Mobile App,1559,1,0.27,1138.07,1298.66,-160.59,Net Banking
+ORD202400427,2024-12-30,Laptop - Electronics,Electronics,Laptop,CUST3446,East,Kolkata,Online,13637,2,0.2,21819.2,21805.55,13.65,UPI
+ORD202400589,2024-12-30,Dumbbells - Sports,Sports,Dumbbells,CUST5460,East,Patna,Online,1809,1,0.23,1392.93,1184.47,208.46,UPI
+ORD202400204,2024-12-30,Cricket Bat - Sports,Sports,Cricket Bat,CUST1942,North,Lucknow,Store,1813,1,0.11,1613.57,1203.85,409.72,Credit Card
+ORD202400580,2024-12-30,Water Purifier - Home,Home,Water Purifier,CUST5221,South,Hyderabad,Store,5964,1,0.4,3578.4,4541.66,-963.26,Net Banking
+ORD202400603,2024-12-31,Yoga Mat - Sports,Sports,Yoga Mat,CUST4342,West,Pune,Online,2745,1,0.11,2443.05,2310.51,132.54,Debit Card
+ORD202400086,2024-12-31,Air Fryer - Home,Home,Air Fryer,CUST3736,West,Ahmedabad,Online,7366,1,0.2,5892.8,6204.2,-311.4,Credit Card
+ORD202400286,2024-12-31,Sneakers - Fashion,Fashion,Sneakers,CUST2094,East,Bhubaneswar,Mobile App,1498,1,0.14,1288.28,1043.21,245.07,UPI
+ORD202400146,2024-12-31,Air Fryer - Home,Home,Air Fryer,CUST1359,North,Lucknow,Store,6937,6,0.35,27054.3,33115.35,-6061.05,Credit Card
+ORD202400235,2025-01-01,Sunscreen - Beauty,Beauty,Sunscreen,CUST1580,South,Kochi,Online,872,4,0.15,2964.8,2463.6,501.2,UPI
+ORD202400348,2025-01-01,Sunscreen - Beauty,Beauty,Sunscreen,CUST5717,East,Patna,Online,615,2,0.07,1143.9,1006.34,137.56,Net Banking
+ORD202400306,2025-01-02,Sneakers - Fashion,Fashion,Sneakers,CUST3044,East,Bhubaneswar,Store,1934,1,0.14,1663.24,1218.37,444.87,Credit Card
+ORD202401058,2025-01-02,Yoga Mat - Sports,Sports,Yoga Mat,CUST3549,North,Chandigarh,Online,2327,3,0.3,4886.7,5708.52,-821.82,Debit Card
+ORD202400439,2025-01-02,Football - Sports,Sports,Football,CUST2552,East,Kolkata,Online,2689,3,0.12,7098.96,6237.62,861.34,UPI
+ORD202400818,2025-01-04,Tennis Racket - Sports,Sports,Tennis Racket,CUST2024,North,Jaipur,Online,3200,1,0.35,2080.0,2437.73,-357.73,Debit Card
+RET202400012,2025-01-06,Jacket - Fashion,Fashion,Jacket,CUST4150,East,Guwahati,Online,1054,-4,0.2,-3372.8,2873.32,-499.48,Cash on Delivery
+ORD202400384,2025-01-06,Jacket - Fashion,Fashion,Jacket,CUST4150,East,Guwahati,Online,1054,4,0.2,3372.8,2873.32,499.48,Cash on Delivery
+ORD202400464,2025-01-07,Air Cooler - Home,Home,Air Cooler,CUST4460,East,Bhubaneswar,Online,6899,1,0.17,5726.17,5418.62,307.55,Net Banking
+ORD202400957,2025-01-07,Jeans - Fashion,Fashion,Jeans,CUST5826,North,Jaipur,Mobile App,1864,4,0.15,6337.6,4617.19,1720.41,UPI
+ORD202401005,2025-01-09,Air Fryer - Home,Home,Air Fryer,CUST2416,North,Delhi,Store,5036,1,0.22,3928.08,3232.64,695.44,Net Banking
+ORD202401174,2025-01-09,Sunscreen - Beauty,Beauty,Sunscreen,CUST5790,East,Kolkata,Online,762,1,0.14,655.32,640.38,14.94,Credit Card
+ORD202400019,2025-01-09,Earbuds - Electronics,Electronics,Earbuds,CUST5548,South,Bengaluru,Store,13186,2,0.11,23471.08,20233.42,3237.66,UPI
+ORD202400283,2025-01-09,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST2857,West,Pune,Mobile App,6053,1,0.35,3934.45,4965.9,-1031.45,Credit Card
+ORD202400321,2025-01-09,Earbuds - Electronics,Electronics,Earbuds,CUST5780,East,Bhubaneswar,Online,18205,1,0.14,15656.3,14701.22,955.08,UPI
+RET202400001,2025-01-09,Earbuds - Electronics,Electronics,Earbuds,CUST5780,East,Bhubaneswar,Online,18205,-1,0.14,-15656.3,14701.22,-955.08,UPI
+ORD202400821,2025-01-10,Air Fryer - Home,Home,Air Fryer,CUST4700,East,Kolkata,Mobile App,7363,3,0.21,17450.31,15969.19,1481.12,Debit Card
+ORD202400191,2025-01-11,Jacket - Fashion,Fashion,Jacket,CUST5008,South,Bengaluru,Online,1550,1,0.13,1348.5,1247.75,100.75,Credit Card
+ORD202400492,2025-01-11,Shampoo - Beauty,Beauty,Shampoo,CUST4457,North,Chandigarh,Online,885,4,0.28,2548.8,2729.73,-180.93,Debit Card
+ORD202400644,2025-01-11,Yoga Mat - Sports,Sports,Yoga Mat,CUST5833,North,Jaipur,Store,2909,3,0.02,8552.46,6612.96,1939.5,Credit Card
+ORD202400053,2025-01-11,T-Shirt - Fashion,Fashion,T-Shirt,CUST4735,East,Guwahati,Store,1766,1,0.05,1677.7,1185.47,492.23,Net Banking
+ORD202401153,2025-01-12,Smartwatch - Electronics,Electronics,Smartwatch,CUST2646,East,Bhubaneswar,Online,14334,7,0.05,95321.1,63867.41,31453.69,UPI
+ORD202400937,2025-01-12,Smartwatch - Electronics,Electronics,Smartwatch,CUST3371,East,Patna,Mobile App,16508,2,0.35,21460.4,24674.31,-3213.91,UPI
+ORD202400356,2025-01-12,Dress - Fashion,Fashion,Dress,CUST5239,South,Kochi,Store,1546,1,0.12,1360.48,933.23,427.25,Net Banking
+ORD202400252,2025-01-13,Mixer Grinder - Home,Home,Mixer Grinder,CUST4751,South,Hyderabad,Online,7011,1,0.09,6380.01,5458.16,921.85,Debit Card
+ORD202400170,2025-01-13,Shampoo - Beauty,Beauty,Shampoo,CUST5654,East,Kolkata,Store,644,2,0.11,1146.32,977.14,169.18,UPI
+ORD202401140,2025-01-14,Earbuds - Electronics,Electronics,Earbuds,CUST3675,North,Jaipur,Store,12125,1,0.12,10670.0,7875.52,2794.48,UPI
+ORD202401082,2025-01-15,Football - Sports,Sports,Football,CUST2562,East,Kolkata,Mobile App,2631,2,0.13,4577.94,4282.39,295.55,UPI
+ORD202400169,2025-01-15,Football - Sports,Sports,Football,CUST5869,East,Kolkata,Mobile App,2075,2,0.27,3029.5,3006.48,23.02,UPI
+ORD202400731,2025-01-15,Jeans - Fashion,Fashion,Jeans,CUST3654,South,Kochi,Mobile App,1208,2,0.2,1932.8,1928.84,3.96,UPI
+ORD202401147,2025-01-15,Dumbbells - Sports,Sports,Dumbbells,CUST4825,South,Bengaluru,Mobile App,2174,1,0.12,1913.12,1319.18,593.94,Credit Card
+ORD202400374,2025-01-15,Air Cooler - Home,Home,Air Cooler,CUST4332,North,Delhi,Online,7444,1,0.06,6997.36,4503.88,2493.48,Credit Card
+ORD202400955,2025-01-15,Sunscreen - Beauty,Beauty,Sunscreen,CUST3918,South,Chennai,Store,505,3,0.11,1348.35,918.16,430.19,Credit Card
+ORD202400347,2025-01-15,Dumbbells - Sports,Sports,Dumbbells,CUST1790,West,Surat,Online,2266,2,0.08,4169.44,3003.45,1165.99,UPI
+ORD202401021,2025-01-16,Face Cream - Beauty,Beauty,Face Cream,CUST4403,West,Pune,Online,743,5,0.08,3417.8,2532.43,885.37,Credit Card
+ORD202400550,2025-01-16,Sneakers - Fashion,Fashion,Sneakers,CUST2773,East,Patna,Mobile App,1621,1,0.27,1183.33,1186.4,-3.07,Net Banking
+ORD202400097,2025-01-16,Air Cooler - Home,Home,Air Cooler,CUST4963,West,Surat,Online,6831,2,0.16,11476.08,9595.28,1880.8,Debit Card
+ORD202400418,2025-01-16,Laptop - Electronics,Electronics,Laptop,CUST1024,East,Bhubaneswar,Mobile App,14264,2,0.29,20254.88,24114.59,-3859.71,UPI
+ORD202400165,2025-01-18,Tennis Racket - Sports,Sports,Tennis Racket,CUST2687,East,Bhubaneswar,Mobile App,2703,1,0.11,2405.67,1990.16,415.51,UPI
+ORD202400208,2025-01-18,Sunscreen - Beauty,Beauty,Sunscreen,CUST3092,West,Mumbai,Online,620,1,0.12,545.6,480.15,65.45,Cash on Delivery
+ORD202400742,2025-01-19,Jeans - Fashion,Fashion,Jeans,CUST1595,East,Kolkata,Online,1407,1,0.17,1167.81,1014.8,153.01,UPI
+ORD202400478,2025-01-20,Face Cream - Beauty,Beauty,Face Cream,CUST5126,South,Hyderabad,Online,876,2,0.18,1436.64,1076.0,360.64,Credit Card
+ORD202400012,2025-01-20,Water Purifier - Home,Home,Water Purifier,CUST2707,East,Kolkata,Online,7594,2,0.13,13213.56,11521.43,1692.13,Credit Card
+ORD202401099,2025-01-22,Cricket Bat - Sports,Sports,Cricket Bat,CUST1261,North,Lucknow,Store,2757,4,0.28,7940.16,8546.06,-605.9,UPI
+ORD202400328,2025-01-22,Sunscreen - Beauty,Beauty,Sunscreen,CUST5713,West,Pune,Mobile App,775,1,0.12,682.0,656.77,25.23,Credit Card
+ORD202401141,2025-01-22,Dress - Fashion,Fashion,Dress,CUST5581,East,Bhubaneswar,Mobile App,1924,1,0.13,1673.88,1455.54,218.34,UPI
+ORD202401110,2025-01-23,Perfume - Beauty,Beauty,Perfume,CUST2069,West,Mumbai,Online,523,2,0.21,826.34,873.56,-47.22,UPI
+ORD202400444,2025-01-23,Smartphone - Electronics,Electronics,Smartphone,CUST1087,South,Kochi,Online,15843,2,0.12,27883.68,19854.54,8029.14,UPI
+ORD202400388,2025-01-24,Tablet - Electronics,Electronics,Tablet,CUST1264,South,Chennai,Mobile App,12025,1,0.28,8658.0,9806.62,-1148.62,Credit Card
+ORD202400004,2025-01-24,Jacket - Fashion,Fashion,Jacket,CUST4342,East,Guwahati,Online,1911,1,0.09,1739.01,1494.05,244.96,UPI
+ORD202401156,2025-01-24,Perfume - Beauty,Beauty,Perfume,CUST5261,South,Chennai,Mobile App,616,1,0.05,585.2,434.59,150.61,UPI
+ORD202400041,2025-01-24,Dumbbells - Sports,Sports,Dumbbells,CUST5948,North,Delhi,Online,2625,5,0.14,11287.5,8368.56,2918.94,Debit Card
+ORD202400060,2025-01-25,Earbuds - Electronics,Electronics,Earbuds,CUST2857,East,Patna,Mobile App,18092,4,0.01,71644.32,47121.42,24522.9,Debit Card
+ORD202401115,2025-01-26,Air Cooler - Home,Home,Air Cooler,CUST3703,North,Delhi,Online,6058,1,0.15,5149.3,4275.46,873.84,UPI
+ORD202400948,2025-01-27,Earbuds - Electronics,Electronics,Earbuds,CUST1298,East,Kolkata,Mobile App,17344,2,0.09,31566.08,24559.32,7006.76,UPI
+ORD202400995,2025-01-28,Yoga Mat - Sports,Sports,Yoga Mat,CUST1581,East,Guwahati,Online,2588,1,0.06,2432.72,2029.46,403.26,Credit Card
+ORD202400934,2025-01-28,Yoga Mat - Sports,Sports,Yoga Mat,CUST4069,North,Jaipur,Store,2707,2,0.14,4656.04,4131.6,524.44,Debit Card
+ORD202400453,2025-01-29,Jacket - Fashion,Fashion,Jacket,CUST4932,East,Kolkata,Mobile App,1764,1,0.03,1711.08,1251.84,459.24,Credit Card
+ORD202400101,2025-01-29,Air Cooler - Home,Home,Air Cooler,CUST1778,North,Jaipur,Online,6792,2,0.08,12497.28,11233.35,1263.93,Credit Card
+ORD202400712,2025-01-29,Tablet - Electronics,Electronics,Tablet,CUST3619,East,Guwahati,Mobile App,19194,2,0.3,26871.6,23907.45,2964.15,Credit Card
+ORD202400034,2025-01-30,Yoga Mat - Sports,Sports,Yoga Mat,CUST1732,North,Delhi,Store,3139,3,0.19,7627.77,6689.67,938.1,UPI
+ORD202400529,2025-01-30,Mixer Grinder - Home,Home,Mixer Grinder,CUST4928,West,Pune,Online,5573,4,0.12,19616.96,15533.32,4083.64,UPI
+ORD202400188,2025-01-31,Earbuds - Electronics,Electronics,Earbuds,CUST2132,South,Bengaluru,Mobile App,15554,1,0.17,12909.82,11941.36,968.46,Credit Card
+ORD202400469,2025-01-31,T-Shirt - Fashion,Fashion,T-Shirt,CUST1175,West,Ahmedabad,Online,1185,2,0.31,1635.3,1952.77,-317.47,Debit Card
+ORD202400424,2025-01-31,Sneakers - Fashion,Fashion,Sneakers,CUST2876,North,Chandigarh,Online,1309,2,0.18,2146.76,1691.26,455.5,UPI
+ORD202401035,2025-01-31,Laptop - Electronics,Electronics,Laptop,CUST1328,East,Patna,Store,11719,1,0.04,11250.24,9125.27,2124.97,Credit Card
+ORD202400480,2025-01-31,Tablet - Electronics,Electronics,Tablet,CUST3147,South,Kochi,Online,15610,2,0.12,27473.6,19937.21,7536.39,UPI
+ORD202400757,2025-02-01,Football - Sports,Sports,Football,CUST2482,East,Patna,Online,1779,5,0.28,6404.4,6741.03,-336.63,UPI
+ORD202400681,2025-02-02,Jacket - Fashion,Fashion,Jacket,CUST5615,East,Kolkata,Online,1480,6,0.06,8347.2,7505.89,841.31,Debit Card
+ORD202401051,2025-02-02,Sneakers - Fashion,Fashion,Sneakers,CUST2630,East,Guwahati,Online,1500,1,0.11,1335.0,1039.99,295.01,Credit Card
+ORD202400370,2025-02-04,Tennis Racket - Sports,Sports,Tennis Racket,CUST3881,East,Guwahati,Online,2345,1,0.25,1758.75,1593.83,164.92,Net Banking
+ORD202400579,2025-02-05,Earbuds - Electronics,Electronics,Earbuds,CUST5243,East,Patna,Mobile App,15867,3,0.14,40936.86,31943.7,8993.16,Credit Card
+ORD202400420,2025-02-05,Dress - Fashion,Fashion,Dress,CUST4257,South,Kochi,Online,1218,1,0.16,1023.12,1025.03,-1.91,Credit Card
+ORD202400971,2025-02-05,Lipstick - Beauty,Beauty,Lipstick,CUST2637,South,Chennai,Mobile App,508,2,0.12,894.08,760.39,133.69,Credit Card
+ORD202400211,2025-02-06,Jeans - Fashion,Fashion,Jeans,CUST2011,South,Bengaluru,Online,1745,1,0.16,1465.8,1358.46,107.34,UPI
+ORD202400810,2025-02-06,Sneakers - Fashion,Fashion,Sneakers,CUST2856,South,Bengaluru,Online,1099,4,0.3,3077.2,2692.57,384.63,Debit Card
+ORD202400234,2025-02-08,Tablet - Electronics,Electronics,Tablet,CUST1270,North,Chandigarh,Online,11942,4,0.18,39169.76,33011.92,6157.84,Net Banking
+ORD202400923,2025-02-08,Dress - Fashion,Fashion,Dress,CUST3567,South,Kochi,Mobile App,1421,4,0.02,5570.32,3458.78,2111.54,UPI
+ORD202400077,2025-02-09,Air Fryer - Home,Home,Air Fryer,CUST1481,East,Patna,Mobile App,5188,1,0.16,4357.92,3886.91,471.01,Credit Card
+ORD202400301,2025-02-10,Football - Sports,Sports,Football,CUST2473,South,Chennai,Online,3172,3,0.14,8183.76,6499.92,1683.84,Debit Card
+ORD202400961,2025-02-10,T-Shirt - Fashion,Fashion,T-Shirt,CUST2400,South,Hyderabad,Online,1296,1,0.16,1088.64,864.67,223.97,UPI
+ORD202400882,2025-02-10,Tennis Racket - Sports,Sports,Tennis Racket,CUST3387,North,Jaipur,Mobile App,2574,1,0.09,2342.34,1650.84,691.5,UPI
+ORD202400064,2025-02-10,Smartwatch - Electronics,Electronics,Smartwatch,CUST3708,North,Jaipur,Online,11129,1,0.26,8235.46,7543.92,691.54,UPI
+ORD202400023,2025-02-11,Face Cream - Beauty,Beauty,Face Cream,CUST1574,South,Chennai,Mobile App,887,7,0.09,5650.19,4448.12,1202.07,Cash on Delivery
+ORD202401034,2025-02-11,Face Cream - Beauty,Beauty,Face Cream,CUST2253,East,Kolkata,Mobile App,558,3,0.31,1155.06,1245.08,-90.02,UPI
+ORD202400658,2025-02-14,Football - Sports,Sports,Football,CUST1660,North,Chandigarh,Mobile App,2126,1,0.17,1764.58,1623.61,140.97,UPI
+ORD202400190,2025-02-15,Earbuds - Electronics,Electronics,Earbuds,CUST5658,East,Guwahati,Online,15066,4,0.17,50019.12,43723.85,6295.27,Net Banking
+ORD202400879,2025-02-15,Yoga Mat - Sports,Sports,Yoga Mat,CUST1944,East,Patna,Store,1904,1,0.13,1656.48,1297.73,358.75,UPI
+ORD202400752,2025-02-15,Mixer Grinder - Home,Home,Mixer Grinder,CUST1769,West,Ahmedabad,Mobile App,7068,4,0.34,18659.52,19841.04,-1181.52,Credit Card
+ORD202400357,2025-02-15,Water Purifier - Home,Home,Water Purifier,CUST4322,West,Ahmedabad,Online,5494,1,0.2,4395.2,4446.35,-51.15,Debit Card
+ORD202400919,2025-02-15,Air Cooler - Home,Home,Air Cooler,CUST1703,North,Chandigarh,Online,4656,5,0.15,19788.0,17815.78,1972.22,Debit Card
+ORD202400860,2025-02-16,Air Cooler - Home,Home,Air Cooler,CUST1743,East,Bhubaneswar,Mobile App,5987,2,0.11,10656.86,10004.7,652.16,UPI
+ORD202400670,2025-02-17,Air Cooler - Home,Home,Air Cooler,CUST1132,North,Jaipur,Mobile App,7103,2,0.16,11933.04,10943.81,989.23,UPI
+ORD202400083,2025-02-17,Smartwatch - Electronics,Electronics,Smartwatch,CUST1920,East,Patna,Mobile App,18064,1,0.12,15896.32,12637.07,3259.25,UPI
+ORD202400162,2025-02-17,Jacket - Fashion,Fashion,Jacket,CUST1840,East,Kolkata,Mobile App,1062,1,0.09,966.42,708.39,258.03,Credit Card
+ORD202400686,2025-02-18,Football - Sports,Sports,Football,CUST4508,West,Pune,Online,2366,6,0.13,12350.52,9266.18,3084.34,UPI
+ORD202400928,2025-02-19,Air Cooler - Home,Home,Air Cooler,CUST2639,North,Delhi,Store,6494,1,0.17,5390.02,4108.51,1281.51,Credit Card
+ORD202400676,2025-02-19,Tennis Racket - Sports,Sports,Tennis Racket,CUST2389,South,Kochi,Mobile App,2297,1,0.07,2136.21,1759.54,376.67,Credit Card
+ORD202400013,2025-02-19,Air Fryer - Home,Home,Air Fryer,CUST2930,West,Surat,Store,6514,1,0.06,6123.16,5509.9,613.26,Debit Card
+ORD202400552,2025-02-19,Sunscreen - Beauty,Beauty,Sunscreen,CUST4464,East,Guwahati,Online,865,2,0.01,1712.7,1201.9,510.8,Credit Card
+ORD202400824,2025-02-22,Perfume - Beauty,Beauty,Perfume,CUST4108,East,Patna,Mobile App,576,2,0.11,1025.28,787.08,238.2,Net Banking
+ORD202400566,2025-02-22,Sneakers - Fashion,Fashion,Sneakers,CUST3152,North,Lucknow,Online,1282,2,0.26,1897.36,1989.78,-92.42,UPI
+ORD202400192,2025-02-22,Earbuds - Electronics,Electronics,Earbuds,CUST3324,South,Kochi,Mobile App,19270,1,0.17,15994.1,11886.63,4107.47,Debit Card
+ORD202400900,2025-02-22,Sunscreen - Beauty,Beauty,Sunscreen,CUST2473,East,Patna,Mobile App,677,4,0.3,1895.6,2128.6,-233.0,UPI
+ORD202400057,2025-02-22,Shampoo - Beauty,Beauty,Shampoo,CUST4850,East,Bhubaneswar,Mobile App,535,3,0.22,1251.9,1300.78,-48.88,Debit Card
+ORD202400954,2025-02-23,Smartwatch - Electronics,Electronics,Smartwatch,CUST3890,North,Jaipur,Mobile App,16505,3,0.02,48524.7,30669.54,17855.16,Debit Card
+ORD202400819,2025-02-23,Yoga Mat - Sports,Sports,Yoga Mat,CUST5652,North,Jaipur,Store,2207,2,0.1,3972.6,3613.42,359.18,Debit Card
+ORD202400432,2025-02-23,Earbuds - Electronics,Electronics,Earbuds,CUST4155,South,Chennai,Online,16902,4,0.29,48001.68,43242.89,4758.79,UPI
+ORD202400017,2025-02-23,Sunscreen - Beauty,Beauty,Sunscreen,CUST3869,East,Kolkata,Mobile App,538,1,0.21,425.02,396.6,28.42,Credit Card
+ORD202400193,2025-02-23,Tennis Racket - Sports,Sports,Tennis Racket,CUST1359,North,Chandigarh,Online,2159,3,0.04,6217.92,4584.07,1633.85,Net Banking
+ORD202400902,2025-02-23,Mixer Grinder - Home,Home,Mixer Grinder,CUST3233,North,Lucknow,Mobile App,7269,6,0.09,39688.74,26580.37,13108.37,Net Banking
+ORD202400229,2025-02-24,Dumbbells - Sports,Sports,Dumbbells,CUST3369,West,Mumbai,Online,2764,1,0.11,2459.96,1880.67,579.29,Credit Card
+ORD202400036,2025-02-25,Laptop - Electronics,Electronics,Laptop,CUST1455,West,Mumbai,Store,12886,6,0.35,50255.4,47477.89,2777.51,UPI
+ORD202400841,2025-02-25,Jacket - Fashion,Fashion,Jacket,CUST3823,West,Mumbai,Mobile App,1151,5,0.05,5467.25,4712.08,755.17,UPI
+ORD202400526,2025-02-25,Sunscreen - Beauty,Beauty,Sunscreen,CUST3384,West,Pune,Online,491,1,0.16,412.44,372.39,40.05,Cash on Delivery
+ORD202400852,2025-02-25,Dumbbells - Sports,Sports,Dumbbells,CUST4163,North,Jaipur,Online,2729,4,0.09,9933.56,8204.24,1729.32,Cash on Delivery
+ORD202400225,2025-02-25,Air Fryer - Home,Home,Air Fryer,CUST3349,South,Hyderabad,Store,5950,1,0.18,4879.0,4770.36,108.64,Credit Card
+ORD202401103,2025-02-26,Shampoo - Beauty,Beauty,Shampoo,CUST2570,South,Bengaluru,Online,897,1,0.12,789.36,671.59,117.77,UPI
+ORD202400186,2025-02-27,Lipstick - Beauty,Beauty,Lipstick,CUST5499,West,Mumbai,Online,621,1,0.12,546.48,501.97,44.51,UPI
+ORD202400951,2025-02-27,Jeans - Fashion,Fashion,Jeans,CUST4214,North,Jaipur,Online,1946,1,0.24,1478.96,1231.2,247.76,UPI
+ORD202400267,2025-02-28,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST5994,North,Chandigarh,Store,7264,1,0.29,5157.44,5961.13,-803.69,UPI
+ORD202400144,2025-02-28,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST3247,West,Mumbai,Store,7268,1,0.11,6468.52,5987.23,481.29,UPI
+ORD202400311,2025-03-01,Cricket Bat - Sports,Sports,Cricket Bat,CUST4516,South,Bengaluru,Mobile App,2630,5,0.1,11835.0,9142.51,2692.49,Credit Card
+ORD202400160,2025-03-01,Cricket Bat - Sports,Sports,Cricket Bat,CUST3978,East,Bhubaneswar,Online,2987,4,0.06,11231.12,9868.79,1362.33,Credit Card
+ORD202400747,2025-03-02,Water Purifier - Home,Home,Water Purifier,CUST4460,West,Ahmedabad,Mobile App,4686,5,0.21,18509.7,15987.19,2522.51,Credit Card
+ORD202400625,2025-03-02,Cricket Bat - Sports,Sports,Cricket Bat,CUST2146,West,Mumbai,Mobile App,1787,3,0.15,4556.85,4195.89,360.96,Credit Card
+ORD202400980,2025-03-02,Yoga Mat - Sports,Sports,Yoga Mat,CUST4311,East,Bhubaneswar,Online,2448,8,0.08,18017.28,16047.9,1969.38,Credit Card
+ORD202400509,2025-03-03,Cricket Bat - Sports,Sports,Cricket Bat,CUST2893,North,Chandigarh,Mobile App,2743,1,0.07,2550.99,1715.02,835.97,Debit Card
+ORD202400648,2025-03-03,Sneakers - Fashion,Fashion,Sneakers,CUST3415,North,Jaipur,Store,1416,1,0.05,1345.2,965.99,379.21,UPI
+ORD202400135,2025-03-04,Dumbbells - Sports,Sports,Dumbbells,CUST5361,West,Pune,Store,2512,4,0.16,8440.32,6898.2,1542.12,Debit Card
+ORD202401150,2025-03-05,Air Fryer - Home,Home,Air Fryer,CUST2263,North,Chandigarh,Online,5756,1,0.17,4777.48,3805.88,971.6,Credit Card
+ORD202400880,2025-03-06,Mixer Grinder - Home,Home,Mixer Grinder,CUST4871,East,Bhubaneswar,Online,4893,1,0.11,4354.77,3643.43,711.34,Net Banking
+RET202400015,2025-03-06,Water Purifier - Home,Home,Water Purifier,CUST1722,North,Chandigarh,Online,6902,-3,0.28,-14908.32,13348.45,-1559.87,UPI
+ORD202400761,2025-03-06,Water Purifier - Home,Home,Water Purifier,CUST1722,North,Chandigarh,Online,6902,3,0.28,14908.32,13348.45,1559.87,UPI
+ORD202401019,2025-03-06,Jacket - Fashion,Fashion,Jacket,CUST5876,East,Kolkata,Online,1597,1,0.21,1261.63,1162.22,99.41,UPI
+ORD202400642,2025-03-06,Smartwatch - Electronics,Electronics,Smartwatch,CUST2331,East,Guwahati,Online,15151,3,0.23,34998.81,34683.64,315.17,UPI
+ORD202400593,2025-03-08,Water Purifier - Home,Home,Water Purifier,CUST1270,North,Delhi,Mobile App,7346,1,0.02,7199.08,4890.67,2308.41,Net Banking
+ORD202400617,2025-03-08,Dumbbells - Sports,Sports,Dumbbells,CUST2724,West,Mumbai,Mobile App,1822,3,0.16,4591.44,3822.5,768.94,UPI
+ORD202400734,2025-03-09,Water Purifier - Home,Home,Water Purifier,CUST4218,North,Lucknow,Mobile App,5135,8,0.01,40669.2,29205.66,11463.54,UPI
+ORD202400582,2025-03-09,T-Shirt - Fashion,Fashion,T-Shirt,CUST5167,South,Bengaluru,Online,1635,4,0.17,5428.2,4476.33,951.87,Credit Card
+ORD202400196,2025-03-09,Lipstick - Beauty,Beauty,Lipstick,CUST2257,East,Bhubaneswar,Online,793,1,0.16,666.12,481.94,184.18,UPI
+ORD202400055,2025-03-10,Football - Sports,Sports,Football,CUST2917,South,Chennai,Store,3214,3,0.09,8774.22,5995.61,2778.61,UPI
+ORD202400690,2025-03-10,Tennis Racket - Sports,Sports,Tennis Racket,CUST3274,North,Delhi,Online,2739,1,0.35,1780.35,1798.73,-18.38,UPI
+ORD202400976,2025-03-10,Air Fryer - Home,Home,Air Fryer,CUST5881,North,Chandigarh,Online,5053,2,0.28,7276.32,7619.36,-343.04,Cash on Delivery
+ORD202400408,2025-03-11,Perfume - Beauty,Beauty,Perfume,CUST2959,North,Chandigarh,Online,788,1,0.1,709.2,604.15,105.05,UPI
+ORD202401065,2025-03-11,Air Cooler - Home,Home,Air Cooler,CUST5499,East,Patna,Online,6600,1,0.04,6336.0,5262.95,1073.05,UPI
+ORD202400590,2025-03-11,Shampoo - Beauty,Beauty,Shampoo,CUST3632,West,Ahmedabad,Online,495,1,0.13,430.65,387.45,43.2,Credit Card
+ORD202400284,2025-03-13,Jacket - Fashion,Fashion,Jacket,CUST5723,North,Chandigarh,Online,1176,1,0.23,905.52,884.01,21.51,UPI
+ORD202400416,2025-03-13,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST2269,West,Pune,Mobile App,6741,1,0.11,5999.49,5265.89,733.6,Net Banking
+ORD202400044,2025-03-13,Smartwatch - Electronics,Electronics,Smartwatch,CUST5859,North,Delhi,Mobile App,15052,4,0.1,54187.2,39330.34,14856.86,Cash on Delivery
+ORD202400373,2025-03-14,Smartphone - Electronics,Electronics,Smartphone,CUST1273,South,Bengaluru,Online,14405,1,0.25,10803.75,11217.53,-413.78,UPI
+ORD202400293,2025-03-14,Yoga Mat - Sports,Sports,Yoga Mat,CUST3892,South,Bengaluru,Online,2942,5,0.27,10738.3,12394.04,-1655.74,Debit Card
+ORD202400897,2025-03-14,Yoga Mat - Sports,Sports,Yoga Mat,CUST4153,West,Pune,Online,2358,1,0.35,1532.7,1765.5,-232.8,UPI
+ORD202400654,2025-03-14,Mixer Grinder - Home,Home,Mixer Grinder,CUST2463,South,Bengaluru,Online,6261,1,0.06,5885.34,3983.73,1901.61,UPI
+ORD202400344,2025-03-15,T-Shirt - Fashion,Fashion,T-Shirt,CUST3853,South,Hyderabad,Online,1874,1,0.17,1555.42,1508.6,46.82,Credit Card
+RET202400005,2025-03-16,Football - Sports,Sports,Football,CUST3737,East,Patna,Store,2391,-3,0.24,-5451.48,5702.21,-250.73,Credit Card
+ORD202401101,2025-03-16,Tablet - Electronics,Electronics,Tablet,CUST3732,East,Patna,Store,12642,3,0.2,30340.8,30047.76,293.04,UPI
+ORD202400350,2025-03-16,Jacket - Fashion,Fashion,Jacket,CUST3118,North,Lucknow,Store,1551,3,0.07,4327.29,2859.93,1467.36,Credit Card
+ORD202400557,2025-03-16,Water Purifier - Home,Home,Water Purifier,CUST5264,West,Ahmedabad,Online,4985,2,0.32,6779.6,7482.05,-702.45,Credit Card
+ORD202400213,2025-03-16,Jacket - Fashion,Fashion,Jacket,CUST1888,North,Lucknow,Online,1322,1,0.35,859.3,794.46,64.84,UPI
+ORD202400835,2025-03-16,Football - Sports,Sports,Football,CUST3737,East,Patna,Store,2391,3,0.24,5451.48,5702.21,-250.73,Credit Card
+ORD202400177,2025-03-17,Dress - Fashion,Fashion,Dress,CUST4938,East,Kolkata,Online,1097,1,0.18,899.54,868.29,31.25,UPI
+ORD202400558,2025-03-17,Tennis Racket - Sports,Sports,Tennis Racket,CUST5521,West,Mumbai,Online,3249,3,0.19,7895.07,6548.18,1346.89,UPI
+ORD202400921,2025-03-17,Dumbbells - Sports,Sports,Dumbbells,CUST1750,South,Kochi,Online,2013,2,0.14,3462.36,2603.56,858.8,Credit Card
+ORD202400070,2025-03-18,Mixer Grinder - Home,Home,Mixer Grinder,CUST2311,South,Hyderabad,Online,4916,6,0.13,25661.52,19490.75,6170.77,Net Banking
+ORD202401071,2025-03-19,Air Cooler - Home,Home,Air Cooler,CUST3297,East,Kolkata,Store,4313,1,0.06,4054.22,2972.05,1082.17,UPI
+ORD202400124,2025-03-20,Tennis Racket - Sports,Sports,Tennis Racket,CUST2243,North,Chandigarh,Mobile App,2894,3,0.18,7119.24,6987.25,131.99,UPI
+ORD202400985,2025-03-22,Dumbbells - Sports,Sports,Dumbbells,CUST3007,North,Lucknow,Store,1810,3,0.13,4724.1,3940.01,784.09,Debit Card
+ORD202401182,2025-03-22,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST3315,East,Bhubaneswar,Online,7294,5,0.04,35011.2,29726.98,5284.22,UPI
+RET202400014,2025-03-22,Dumbbells - Sports,Sports,Dumbbells,CUST3007,North,Lucknow,Store,1810,-3,0.13,-4724.1,3940.01,-784.09,Debit Card
+ORD202400802,2025-03-23,Lipstick - Beauty,Beauty,Lipstick,CUST1216,North,Jaipur,Online,820,3,0.35,1599.0,1999.91,-400.91,Debit Card
+RET202400009,2025-03-23,Face Cream - Beauty,Beauty,Face Cream,CUST2939,South,Bengaluru,Store,900,-4,0.32,-2448.0,2743.41,-295.41,Credit Card
+ORD202400313,2025-03-23,Face Cream - Beauty,Beauty,Face Cream,CUST2939,South,Bengaluru,Store,900,4,0.32,2448.0,2743.41,-295.41,Credit Card
+ORD202400738,2025-03-23,Jeans - Fashion,Fashion,Jeans,CUST3922,East,Patna,Mobile App,1564,4,0.32,4254.08,4647.18,-393.1,Credit Card
+ORD202400322,2025-03-23,Lipstick - Beauty,Beauty,Lipstick,CUST5586,East,Kolkata,Online,530,1,0.13,461.1,443.45,17.65,UPI
+ORD202400602,2025-03-24,Tennis Racket - Sports,Sports,Tennis Racket,CUST2975,South,Hyderabad,Mobile App,2782,1,0.19,2253.42,2113.89,139.53,Credit Card
+ORD202400111,2025-03-24,Earbuds - Electronics,Electronics,Earbuds,CUST2993,West,Mumbai,Mobile App,14106,1,0.27,10297.38,9062.25,1235.13,Credit Card
+ORD202400078,2025-03-25,Air Fryer - Home,Home,Air Fryer,CUST5226,East,Guwahati,Online,6144,1,0.1,5529.6,4064.87,1464.73,UPI
+ORD202400615,2025-03-26,Shampoo - Beauty,Beauty,Shampoo,CUST5239,West,Pune,Mobile App,535,1,0.35,347.75,370.26,-22.51,Credit Card
+ORD202400799,2025-03-27,Smartphone - Electronics,Electronics,Smartphone,CUST4056,East,Guwahati,Store,14408,3,0.21,34146.96,25962.84,8184.12,Net Banking
+ORD202400337,2025-03-27,Lipstick - Beauty,Beauty,Lipstick,CUST3364,North,Jaipur,Mobile App,636,1,0.1,572.4,514.72,57.68,UPI
+ORD202400246,2025-03-27,Tennis Racket - Sports,Sports,Tennis Racket,CUST2341,North,Lucknow,Store,1815,4,0.09,6606.6,4543.17,2063.43,Credit Card
+ORD202400782,2025-03-28,Mixer Grinder - Home,Home,Mixer Grinder,CUST4949,East,Bhubaneswar,Mobile App,4455,1,0.18,3653.1,3731.66,-78.56,Net Banking
+ORD202400131,2025-03-28,Water Purifier - Home,Home,Water Purifier,CUST2931,West,Mumbai,Online,6468,1,0.07,6015.24,4442.82,1572.42,Cash on Delivery
+ORD202400703,2025-03-30,Tablet - Electronics,Electronics,Tablet,CUST3992,North,Lucknow,Store,14105,1,0.2,11284.0,11670.32,-386.32,Credit Card
+ORD202400470,2025-03-30,Tablet - Electronics,Electronics,Tablet,CUST5534,West,Pune,Online,14246,2,0.16,23933.28,19486.27,4447.01,UPI
+ORD202400119,2025-03-30,Sneakers - Fashion,Fashion,Sneakers,CUST4568,South,Kochi,Online,1252,1,0.28,901.44,825.55,75.89,Credit Card
+ORD202400127,2025-03-30,Laptop - Electronics,Electronics,Laptop,CUST5008,East,Patna,Mobile App,13093,3,0.24,29852.04,27772.21,2079.83,Debit Card
+ORD202400514,2025-03-30,Yoga Mat - Sports,Sports,Yoga Mat,CUST2359,South,Hyderabad,Store,3201,4,0.28,9218.88,8239.3,979.58,UPI
+ORD202401093,2025-03-31,Jeans - Fashion,Fashion,Jeans,CUST3856,South,Hyderabad,Mobile App,1419,1,0.22,1106.82,1155.2,-48.38,UPI
+ORD202401132,2025-03-31,Football - Sports,Sports,Football,CUST1419,East,Patna,Online,2225,4,0.14,7654.0,6203.08,1450.92,Cash on Delivery
+ORD202400409,2025-04-01,Earbuds - Electronics,Electronics,Earbuds,CUST4879,North,Jaipur,Store,17164,1,0.2,13731.2,14326.42,-595.22,Debit Card
+ORD202400318,2025-04-01,Mixer Grinder - Home,Home,Mixer Grinder,CUST3501,North,Chandigarh,Mobile App,4586,1,0.12,4035.68,3521.01,514.67,Credit Card
+ORD202400310,2025-04-01,Perfume - Beauty,Beauty,Perfume,CUST5856,West,Pune,Online,716,1,0.17,594.28,532.42,61.86,Credit Card
+ORD202400351,2025-04-01,Jacket - Fashion,Fashion,Jacket,CUST5472,South,Hyderabad,Online,1632,1,0.1,1468.8,1221.05,247.75,UPI
+ORD202400838,2025-04-01,Laptop - Electronics,Electronics,Laptop,CUST3031,West,Mumbai,Mobile App,15145,1,0.33,10147.15,10776.75,-629.6,Credit Card
+ORD202400688,2025-04-03,Sunscreen - Beauty,Beauty,Sunscreen,CUST3827,North,Jaipur,Online,545,1,0.11,485.05,393.72,91.33,Debit Card
+ORD202400487,2025-04-04,Water Purifier - Home,Home,Water Purifier,CUST5234,North,Chandigarh,Online,7766,8,0.33,41625.76,45560.15,-3934.39,Debit Card
+ORD202400133,2025-04-04,Smartwatch - Electronics,Electronics,Smartwatch,CUST3496,North,Jaipur,Online,16949,1,0.08,15593.08,14139.52,1453.56,UPI
+ORD202400063,2025-04-04,Tennis Racket - Sports,Sports,Tennis Racket,CUST4533,North,Lucknow,Store,2035,2,0.05,3866.5,2520.67,1345.83,Net Banking
+ORD202400814,2025-04-05,Smartwatch - Electronics,Electronics,Smartwatch,CUST1883,North,Chandigarh,Online,13056,4,0.2,41779.2,36164.39,5614.81,UPI
+ORD202400601,2025-04-05,Earbuds - Electronics,Electronics,Earbuds,CUST2751,East,Kolkata,Mobile App,16601,1,0.35,10790.65,13457.04,-2666.39,UPI
+ORD202400544,2025-04-06,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST3602,West,Mumbai,Store,5020,5,0.35,16315.0,20704.99,-4389.99,UPI
+ORD202400808,2025-04-06,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST1721,North,Chandigarh,Online,5458,1,0.31,3766.02,4177.26,-411.24,UPI
+ORD202400147,2025-04-07,Smartwatch - Electronics,Electronics,Smartwatch,CUST1369,South,Hyderabad,Store,10913,1,0.26,8075.62,6662.25,1413.37,UPI
+ORD202400587,2025-04-07,Dumbbells - Sports,Sports,Dumbbells,CUST5537,West,Mumbai,Mobile App,2676,1,0.08,2461.92,2130.28,331.64,UPI
+ORD202401122,2025-04-07,Dress - Fashion,Fashion,Dress,CUST3736,North,Delhi,Mobile App,1441,1,0.08,1325.72,1205.71,120.01,UPI
+ORD202401009,2025-04-07,Laptop - Electronics,Electronics,Laptop,CUST3144,East,Guwahati,Online,11997,2,0.01,23754.06,18599.03,5155.03,Cash on Delivery
+ORD202400789,2025-04-08,Dress - Fashion,Fashion,Dress,CUST5169,West,Ahmedabad,Mobile App,1530,1,0.09,1392.3,1220.56,171.74,Credit Card
+ORD202400554,2025-04-08,Jeans - Fashion,Fashion,Jeans,CUST1956,South,Chennai,Online,1418,1,0.13,1233.66,970.39,263.27,Credit Card
+ORD202400870,2025-04-09,Mixer Grinder - Home,Home,Mixer Grinder,CUST4973,South,Hyderabad,Mobile App,5420,1,0.15,4607.0,4118.68,488.32,UPI
+ORD202400569,2025-04-09,Face Cream - Beauty,Beauty,Face Cream,CUST3731,North,Lucknow,Store,700,1,0.14,602.0,537.66,64.34,Credit Card
+ORD202400994,2025-04-10,Tablet - Electronics,Electronics,Tablet,CUST4138,East,Kolkata,Online,13790,5,0.11,61365.5,54519.72,6845.78,UPI
+ORD202400516,2025-04-10,Sneakers - Fashion,Fashion,Sneakers,CUST1224,East,Bhubaneswar,Mobile App,1916,2,0.29,2720.72,2362.07,358.65,Debit Card
+ORD202400837,2025-04-10,Tennis Racket - Sports,Sports,Tennis Racket,CUST5545,North,Delhi,Online,2990,1,0.17,2481.7,2136.08,345.62,UPI
+ORD202400440,2025-04-10,Face Cream - Beauty,Beauty,Face Cream,CUST3775,North,Jaipur,Online,490,1,0.06,460.6,355.05,105.55,UPI
+ORD202400771,2025-04-11,Yoga Mat - Sports,Sports,Yoga Mat,CUST2998,South,Kochi,Online,3222,2,0.35,4188.6,5119.73,-931.13,UPI
+ORD202400138,2025-04-11,Jacket - Fashion,Fashion,Jacket,CUST3130,West,Ahmedabad,Online,1736,1,0.21,1371.44,1170.65,200.79,UPI
+ORD202400823,2025-04-15,T-Shirt - Fashion,Fashion,T-Shirt,CUST1685,West,Pune,Online,1565,2,0.14,2691.8,2406.5,285.3,UPI
+ORD202400299,2025-04-15,Smartwatch - Electronics,Electronics,Smartwatch,CUST3951,East,Kolkata,Mobile App,12889,5,0.13,56067.15,53408.24,2658.91,UPI
+ORD202400304,2025-04-16,Cricket Bat - Sports,Sports,Cricket Bat,CUST2273,West,Surat,Online,2009,1,0.05,1908.55,1457.29,451.26,UPI
+ORD202400606,2025-04-17,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST2578,North,Jaipur,Mobile App,5563,2,0.28,8010.72,7985.09,25.63,Debit Card
+ORD202400956,2025-04-17,Jacket - Fashion,Fashion,Jacket,CUST5318,North,Lucknow,Store,1606,1,0.08,1477.52,1207.99,269.53,UPI
+ORD202400788,2025-04-18,Cricket Bat - Sports,Sports,Cricket Bat,CUST3233,West,Surat,Store,2000,4,0.05,7600.0,4901.71,2698.29,Cash on Delivery
+ORD202400679,2025-04-18,Tablet - Electronics,Electronics,Tablet,CUST1120,South,Kochi,Online,11193,1,0.16,9402.12,7980.24,1421.88,UPI
+ORD202401160,2025-04-18,Smartphone - Electronics,Electronics,Smartphone,CUST4570,West,Pune,Mobile App,18086,1,0.12,15915.68,14651.89,1263.79,Debit Card
+ORD202401114,2025-04-19,Jacket - Fashion,Fashion,Jacket,CUST1860,South,Bengaluru,Online,1615,1,0.02,1582.7,990.07,592.63,UPI
+RET202400017,2025-04-19,Smartwatch - Electronics,Electronics,Smartwatch,CUST1990,North,Delhi,Store,11255,-5,0.35,-36578.75,39542.7,-2963.95,Debit Card
+ORD202401098,2025-04-19,Smartwatch - Electronics,Electronics,Smartwatch,CUST1990,North,Delhi,Store,11255,5,0.35,36578.75,39542.7,-2963.95,Debit Card
+ORD202400202,2025-04-20,Sneakers - Fashion,Fashion,Sneakers,CUST5677,East,Guwahati,Online,1497,2,0.27,2185.62,2361.23,-175.61,Credit Card
+ORD202400174,2025-04-20,Dumbbells - Sports,Sports,Dumbbells,CUST4348,South,Hyderabad,Mobile App,2932,6,0.09,16008.72,11319.4,4689.32,UPI
+ORD202400565,2025-04-21,Perfume - Beauty,Beauty,Perfume,CUST3191,East,Bhubaneswar,Mobile App,858,3,0.21,2033.46,1660.01,373.45,UPI
+ORD202400395,2025-04-21,Sunscreen - Beauty,Beauty,Sunscreen,CUST3895,South,Hyderabad,Online,832,1,0.3,582.4,599.63,-17.23,UPI
+ORD202400656,2025-04-22,Air Fryer - Home,Home,Air Fryer,CUST5020,West,Pune,Online,4994,2,0.19,8090.28,6203.52,1886.76,UPI
+ORD202400733,2025-04-22,Yoga Mat - Sports,Sports,Yoga Mat,CUST4709,West,Mumbai,Mobile App,1840,2,0.21,2907.2,3075.89,-168.69,Debit Card
+ORD202400901,2025-04-22,Sneakers - Fashion,Fashion,Sneakers,CUST5562,East,Guwahati,Store,1893,1,0.3,1325.1,1583.76,-258.66,UPI
+ORD202400751,2025-04-22,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST3355,West,Mumbai,Mobile App,5970,4,0.16,20059.2,17437.27,2621.93,UPI
+ORD202400195,2025-04-23,Laptop - Electronics,Electronics,Laptop,CUST2054,North,Delhi,Mobile App,12436,1,0.08,11441.12,9201.67,2239.45,Debit Card
+ORD202400436,2025-04-23,Yoga Mat - Sports,Sports,Yoga Mat,CUST4875,North,Lucknow,Mobile App,2795,2,0.24,4248.4,4460.81,-212.41,Credit Card
+ORD202400411,2025-04-24,Jacket - Fashion,Fashion,Jacket,CUST1534,South,Chennai,Mobile App,1438,2,0.09,2617.16,1844.59,772.57,Debit Card
+ORD202400264,2025-04-25,Yoga Mat - Sports,Sports,Yoga Mat,CUST3972,East,Guwahati,Mobile App,2071,2,0.2,3313.6,2606.56,707.04,Credit Card
+ORD202400595,2025-04-26,Jeans - Fashion,Fashion,Jeans,CUST1760,East,Guwahati,Store,1909,2,0.01,3779.82,3161.55,618.27,Cash on Delivery
+ORD202400718,2025-04-26,Jeans - Fashion,Fashion,Jeans,CUST3168,West,Pune,Online,1267,7,0.17,7361.27,6927.63,433.64,Debit Card
+ORD202400975,2025-04-27,Tennis Racket - Sports,Sports,Tennis Racket,CUST2707,East,Patna,Online,2765,2,0.08,5087.6,4259.72,827.88,Credit Card
+ORD202400200,2025-04-27,Face Cream - Beauty,Beauty,Face Cream,CUST1998,East,Patna,Mobile App,619,2,0.1,1114.2,885.62,228.58,UPI
+ORD202400506,2025-04-27,Dress - Fashion,Fashion,Dress,CUST2038,South,Bengaluru,Mobile App,1050,1,0.11,934.5,825.73,108.77,UPI
+ORD202400094,2025-04-28,Earbuds - Electronics,Electronics,Earbuds,CUST3353,West,Ahmedabad,Online,16327,1,0.15,13877.95,12330.62,1547.33,Cash on Delivery
+ORD202400468,2025-04-28,Yoga Mat - Sports,Sports,Yoga Mat,CUST2322,South,Bengaluru,Online,3044,2,0.12,5357.44,4123.8,1233.64,Net Banking
+ORD202400221,2025-04-28,Air Cooler - Home,Home,Air Cooler,CUST5711,North,Chandigarh,Online,4540,2,0.35,5902.0,5793.78,108.22,UPI
+ORD202400272,2025-04-29,Mixer Grinder - Home,Home,Mixer Grinder,CUST1990,West,Surat,Mobile App,5440,1,0.02,5331.2,3615.19,1716.01,Credit Card
+ORD202400009,2025-04-29,Sneakers - Fashion,Fashion,Sneakers,CUST3693,East,Bhubaneswar,Mobile App,1681,1,0.09,1529.71,1274.79,254.92,Credit Card
+ORD202400423,2025-04-29,Lipstick - Beauty,Beauty,Lipstick,CUST1328,South,Bengaluru,Mobile App,824,1,0.35,535.6,614.23,-78.63,Credit Card
+RET202400013,2025-04-30,Air Cooler - Home,Home,Air Cooler,CUST3294,East,Bhubaneswar,Online,6032,-1,0.32,-4101.76,4529.81,-428.05,Credit Card
+ORD202400513,2025-04-30,Air Fryer - Home,Home,Air Fryer,CUST3822,South,Bengaluru,Store,7615,5,0.02,37313.5,31096.06,6217.44,Debit Card
+ORD202400634,2025-04-30,Face Cream - Beauty,Beauty,Face Cream,CUST1719,West,Ahmedabad,Mobile App,544,2,0.27,794.24,882.58,-88.34,UPI
+ORD202400294,2025-04-30,Air Cooler - Home,Home,Air Cooler,CUST3294,East,Bhubaneswar,Online,6032,1,0.32,4101.76,4529.81,-428.05,Credit Card
+ORD202401158,2025-05-01,Tablet - Electronics,Electronics,Tablet,CUST2633,North,Lucknow,Online,14681,1,0.04,14093.76,10399.81,3693.95,Debit Card
+ORD202400296,2025-05-01,Dress - Fashion,Fashion,Dress,CUST2996,South,Hyderabad,Store,1336,2,0.15,2271.2,1973.5,297.7,UPI
+ORD202400148,2025-05-02,Earbuds - Electronics,Electronics,Earbuds,CUST5040,East,Guwahati,Online,12697,2,0.05,24124.3,19036.18,5088.12,UPI
+ORD202400015,2025-05-03,Jeans - Fashion,Fashion,Jeans,CUST4643,West,Mumbai,Mobile App,1824,3,0.1,4924.8,4042.71,882.09,UPI
+ORD202400222,2025-05-03,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST1979,South,Hyderabad,Online,6589,2,0.22,10278.84,9655.31,623.53,Credit Card
+ORD202400813,2025-05-03,Tennis Racket - Sports,Sports,Tennis Racket,CUST5053,East,Patna,Mobile App,3238,1,0.3,2266.6,2412.13,-145.53,Credit Card
+ORD202401192,2025-05-03,Jeans - Fashion,Fashion,Jeans,CUST3321,West,Pune,Online,1435,3,0.08,3960.6,3144.62,815.98,Credit Card
+ORD202400273,2025-05-04,Tennis Racket - Sports,Sports,Tennis Racket,CUST1954,South,Chennai,Online,3116,2,0.04,5982.72,4115.46,1867.26,Net Banking
+ORD202400755,2025-05-05,Tennis Racket - Sports,Sports,Tennis Racket,CUST5620,East,Guwahati,Mobile App,2547,4,0.13,8863.56,8638.86,224.7,UPI
+ORD202400071,2025-05-05,Jacket - Fashion,Fashion,Jacket,CUST1914,North,Lucknow,Online,1616,3,0.18,3975.36,3057.61,917.75,Credit Card
+ORD202400368,2025-05-05,Smartphone - Electronics,Electronics,Smartphone,CUST5775,East,Guwahati,Online,17818,1,0.08,16392.56,10998.84,5393.72,UPI
+ORD202400848,2025-05-06,Air Fryer - Home,Home,Air Fryer,CUST2046,North,Jaipur,Store,4212,2,0.12,7413.12,6540.38,872.74,Credit Card
+ORD202400687,2025-05-06,Dress - Fashion,Fashion,Dress,CUST2283,South,Hyderabad,Online,1667,1,0.03,1616.99,1166.23,450.76,Net Banking
+ORD202400949,2025-05-06,Air Fryer - Home,Home,Air Fryer,CUST2469,South,Bengaluru,Store,6578,3,0.12,17365.92,16517.05,848.87,Debit Card
+ORD202400924,2025-05-06,Shampoo - Beauty,Beauty,Shampoo,CUST1038,West,Pune,Online,798,1,0.04,766.08,654.67,111.41,UPI
+ORD202400623,2025-05-07,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST4082,South,Chennai,Mobile App,6699,1,0.25,5024.25,4676.89,347.36,Net Banking
+ORD202400867,2025-05-07,Lipstick - Beauty,Beauty,Lipstick,CUST1800,North,Jaipur,Online,753,1,0.07,700.29,585.46,114.83,UPI
+ORD202400031,2025-05-07,Lipstick - Beauty,Beauty,Lipstick,CUST3786,North,Delhi,Online,795,1,0.2,636.0,589.99,46.01,Cash on Delivery
+ORD202400255,2025-05-08,Cricket Bat - Sports,Sports,Cricket Bat,CUST3817,North,Lucknow,Online,2653,2,0.01,5252.94,4228.07,1024.87,Credit Card
+ORD202401014,2025-05-09,Dress - Fashion,Fashion,Dress,CUST5755,East,Kolkata,Store,1414,1,0.27,1032.22,1007.95,24.27,Debit Card
+ORD202400503,2025-05-10,Jeans - Fashion,Fashion,Jeans,CUST4538,South,Hyderabad,Mobile App,1677,3,0.12,4427.28,3066.46,1360.82,UPI
+ORD202400908,2025-05-10,Lipstick - Beauty,Beauty,Lipstick,CUST5033,South,Bengaluru,Online,828,5,0.29,2939.4,3427.5,-488.1,UPI
+ORD202400029,2025-05-11,Shampoo - Beauty,Beauty,Shampoo,CUST5107,South,Kochi,Online,688,6,0.24,3137.28,2759.53,377.75,UPI
+ORD202400944,2025-05-11,Smartwatch - Electronics,Electronics,Smartwatch,CUST4181,East,Bhubaneswar,Mobile App,18641,5,0.07,86680.65,75841.38,10839.27,Credit Card
+ORD202400616,2025-05-11,Face Cream - Beauty,Beauty,Face Cream,CUST2502,North,Lucknow,Online,737,4,0.07,2741.64,1872.1,869.54,UPI
+ORD202401121,2025-05-12,Smartwatch - Electronics,Electronics,Smartwatch,CUST1110,West,Ahmedabad,Online,19122,4,0.11,68074.32,56853.97,11220.35,Credit Card
+ORD202400081,2025-05-12,Yoga Mat - Sports,Sports,Yoga Mat,CUST3667,West,Surat,Online,2277,2,0.09,4144.14,3147.61,996.53,UPI
+ORD202401190,2025-05-13,Jacket - Fashion,Fashion,Jacket,CUST3313,West,Mumbai,Online,1778,1,0.03,1724.66,1444.97,279.69,Credit Card
+ORD202400684,2025-05-13,Dumbbells - Sports,Sports,Dumbbells,CUST1036,North,Jaipur,Online,2020,1,0.17,1676.6,1247.81,428.79,Debit Card
+ORD202401180,2025-05-14,Jeans - Fashion,Fashion,Jeans,CUST5269,West,Mumbai,Mobile App,1898,1,0.12,1670.24,1275.2,395.04,Credit Card
+ORD202400380,2025-05-14,Earbuds - Electronics,Electronics,Earbuds,CUST3378,West,Ahmedabad,Online,12959,3,0.17,32267.91,29831.85,2436.06,Credit Card
+ORD202400905,2025-05-14,Lipstick - Beauty,Beauty,Lipstick,CUST2080,West,Pune,Mobile App,689,1,0.09,626.99,558.51,68.48,UPI
+ORD202400220,2025-05-16,Dumbbells - Sports,Sports,Dumbbells,CUST1719,East,Guwahati,Store,2331,2,0.32,3170.16,3230.46,-60.3,UPI
+ORD202400721,2025-05-16,Yoga Mat - Sports,Sports,Yoga Mat,CUST3205,West,Ahmedabad,Mobile App,2488,2,0.17,4130.08,3126.87,1003.21,Credit Card
+ORD202400413,2025-05-17,Jeans - Fashion,Fashion,Jeans,CUST5611,East,Kolkata,Mobile App,1769,3,0.03,5147.79,3933.04,1214.75,UPI
+ORD202400830,2025-05-17,Cricket Bat - Sports,Sports,Cricket Bat,CUST1974,South,Chennai,Online,1789,5,0.09,8139.95,6612.48,1527.47,Debit Card
+ORD202401054,2025-05-17,Smartphone - Electronics,Electronics,Smartphone,CUST3523,South,Kochi,Online,15804,7,0.31,76333.32,71114.18,5219.14,Cash on Delivery
+ORD202400371,2025-05-17,Water Purifier - Home,Home,Water Purifier,CUST5248,West,Pune,Store,5013,1,0.23,3860.01,3812.49,47.52,UPI
+ORD202401128,2025-05-20,Jacket - Fashion,Fashion,Jacket,CUST4815,West,Ahmedabad,Online,1551,1,0.09,1411.41,1120.64,290.77,Credit Card
+ORD202400270,2025-05-21,Dumbbells - Sports,Sports,Dumbbells,CUST1670,North,Delhi,Online,3249,1,0.22,2534.22,2633.58,-99.36,Debit Card
+ORD202400496,2025-05-21,Football - Sports,Sports,Football,CUST5548,North,Delhi,Online,1955,2,0.32,2658.8,2754.48,-95.68,UPI
+ORD202400179,2025-05-21,Tennis Racket - Sports,Sports,Tennis Racket,CUST3946,North,Lucknow,Mobile App,3168,1,0.01,3136.32,2132.24,1004.08,Debit Card
+ORD202400495,2025-05-22,Shampoo - Beauty,Beauty,Shampoo,CUST3737,North,Jaipur,Mobile App,699,1,0.15,594.15,437.21,156.94,Credit Card
+ORD202400352,2025-05-22,Perfume - Beauty,Beauty,Perfume,CUST2301,North,Jaipur,Online,648,3,0.02,1905.12,1263.97,641.15,Credit Card
+ORD202400372,2025-05-22,Smartphone - Electronics,Electronics,Smartphone,CUST4986,North,Lucknow,Online,15474,1,0.1,13926.6,10273.74,3652.86,UPI
+ORD202400312,2025-05-23,T-Shirt - Fashion,Fashion,T-Shirt,CUST4603,South,Chennai,Online,1421,1,0.15,1207.85,1021.56,186.29,UPI
+ORD202400141,2025-05-24,Lipstick - Beauty,Beauty,Lipstick,CUST1900,South,Kochi,Store,543,1,0.33,363.81,351.55,12.26,UPI
+RET202400019,2025-05-24,Lipstick - Beauty,Beauty,Lipstick,CUST1900,South,Kochi,Store,543,-1,0.33,-363.81,351.55,-12.26,UPI
+ORD202401146,2025-05-25,Earbuds - Electronics,Electronics,Earbuds,CUST5487,North,Lucknow,Online,17083,1,0.12,15033.04,13844.09,1188.95,UPI
+ORD202400581,2025-05-25,Jacket - Fashion,Fashion,Jacket,CUST5616,North,Jaipur,Online,1936,1,0.21,1529.44,1611.66,-82.22,Credit Card
+ORD202400893,2025-05-25,Earbuds - Electronics,Electronics,Earbuds,CUST3569,North,Chandigarh,Mobile App,14107,2,0.1,25392.6,18909.61,6482.99,Debit Card
+ORD202400621,2025-05-26,Shampoo - Beauty,Beauty,Shampoo,CUST4561,South,Kochi,Mobile App,862,1,0.12,758.56,683.52,75.04,Debit Card
+ORD202401155,2025-05-26,Jacket - Fashion,Fashion,Jacket,CUST4311,North,Chandigarh,Online,1121,2,0.13,1950.54,1846.87,103.67,Debit Card
+ORD202400533,2025-05-26,Sunscreen - Beauty,Beauty,Sunscreen,CUST5584,West,Pune,Online,523,1,0.05,496.85,398.46,98.39,Debit Card
+ORD202400026,2025-05-27,Laptop - Electronics,Electronics,Laptop,CUST3294,South,Bengaluru,Online,15794,1,0.14,13582.84,11196.65,2386.19,UPI
+ORD202400677,2025-05-27,Tablet - Electronics,Electronics,Tablet,CUST1400,East,Patna,Store,12506,1,0.12,11005.28,9247.59,1757.69,UPI
+ORD202400541,2025-05-28,Face Cream - Beauty,Beauty,Face Cream,CUST3208,South,Hyderabad,Online,749,1,0.02,734.02,528.09,205.93,UPI
+ORD202400659,2025-05-28,Dress - Fashion,Fashion,Dress,CUST1272,West,Ahmedabad,Online,1654,2,0.09,3010.28,2270.4,739.88,Net Banking
+ORD202400237,2025-05-29,Jacket - Fashion,Fashion,Jacket,CUST4414,North,Chandigarh,Online,1336,1,0.11,1189.04,940.53,248.51,Credit Card
+ORD202400132,2025-05-29,Sneakers - Fashion,Fashion,Sneakers,CUST2766,North,Lucknow,Online,1943,2,0.27,2836.78,2418.18,418.6,Net Banking
+ORD202400156,2025-05-29,Tablet - Electronics,Electronics,Tablet,CUST5155,West,Ahmedabad,Mobile App,12571,1,0.3,8799.7,8390.58,409.12,UPI
+ORD202400020,2025-05-30,Tennis Racket - Sports,Sports,Tennis Racket,CUST5276,South,Chennai,Online,1992,1,0.1,1792.8,1408.44,384.36,Credit Card
+ORD202400729,2025-05-31,Water Purifier - Home,Home,Water Purifier,CUST4463,East,Patna,Online,4672,2,0.11,8316.16,6731.97,1584.19,UPI
+ORD202400858,2025-05-31,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST2285,West,Pune,Mobile App,6403,6,0.24,29197.68,29038.61,159.07,Cash on Delivery
+ORD202400641,2025-05-31,Tennis Racket - Sports,Sports,Tennis Racket,CUST1227,South,Bengaluru,Mobile App,2231,1,0.12,1963.28,1592.66,370.62,Net Banking
+ORD202401138,2025-06-01,Smartwatch - Electronics,Electronics,Smartwatch,CUST3713,North,Lucknow,Online,16881,1,0.15,14348.85,13010.34,1338.51,UPI
+ORD202400285,2025-06-02,Earbuds - Electronics,Electronics,Earbuds,CUST2230,West,Surat,Online,18287,2,0.13,31819.38,27458.29,4361.09,Debit Card
+ORD202400862,2025-06-02,Smartphone - Electronics,Electronics,Smartphone,CUST4727,North,Lucknow,Mobile App,11561,1,0.21,9133.19,6962.63,2170.56,UPI
+ORD202401195,2025-06-02,Jacket - Fashion,Fashion,Jacket,CUST2948,North,Lucknow,Mobile App,1644,4,0.1,5918.4,4755.68,1162.72,Credit Card
+ORD202401120,2025-06-02,T-Shirt - Fashion,Fashion,T-Shirt,CUST2421,West,Pune,Online,1816,2,0.1,3268.8,2961.5,307.3,Cash on Delivery
+ORD202400172,2025-06-03,Face Cream - Beauty,Beauty,Face Cream,CUST4958,South,Bengaluru,Online,630,1,0.24,478.8,504.57,-25.77,Cash on Delivery
+ORD202400359,2025-06-03,Face Cream - Beauty,Beauty,Face Cream,CUST4899,South,Chennai,Online,722,1,0.13,628.14,591.69,36.45,UPI
+ORD202400576,2025-06-03,Face Cream - Beauty,Beauty,Face Cream,CUST1009,North,Jaipur,Mobile App,889,1,0.13,773.43,681.65,91.78,UPI
+ORD202400006,2025-06-04,Smartwatch - Electronics,Electronics,Smartwatch,CUST3278,North,Lucknow,Online,13138,1,0.17,10904.54,8126.0,2778.54,Debit Card
+ORD202400125,2025-06-04,Jacket - Fashion,Fashion,Jacket,CUST4683,West,Ahmedabad,Online,1576,1,0.15,1339.6,1064.61,274.99,Credit Card
+ORD202400709,2025-06-04,Tennis Racket - Sports,Sports,Tennis Racket,CUST5494,East,Guwahati,Store,2164,1,0.27,1579.72,1562.26,17.46,UPI
+ORD202401124,2025-06-04,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST2823,West,Surat,Online,7282,1,0.29,5170.22,5214.89,-44.67,Net Banking
+ORD202400559,2025-06-05,Air Cooler - Home,Home,Air Cooler,CUST3152,East,Guwahati,Mobile App,5934,1,0.33,3975.78,4858.09,-882.31,Net Banking
+ORD202400334,2025-06-05,Dress - Fashion,Fashion,Dress,CUST2409,North,Delhi,Online,1680,1,0.17,1394.4,1081.35,313.05,Debit Card
+ORD202400028,2025-06-05,T-Shirt - Fashion,Fashion,T-Shirt,CUST1335,North,Chandigarh,Online,1264,2,0.12,2224.64,1906.02,318.62,Credit Card
+ORD202400610,2025-06-06,Vacuum Cleaner - Home,Home,Vacuum Cleaner,CUST5218,North,Jaipur,Mobile App,5395,1,0.19,4369.95,3320.09,1049.86,UPI
+ORD202400483,2025-06-07,Jeans - Fashion,Fashion,Jeans,CUST2770,North,Jaipur,Online,1454,1,0.13,1264.98,1069.14,195.84,Debit Card
+ORD202400983,2025-06-08,Dress - Fashion,Fashion,Dress,CUST1376,West,Surat,Online,1707,1,0.08,1570.44,1314.38,256.06,UPI
+ORD202400834,2025-06-08,Jeans - Fashion,Fashion,Jeans,CUST2507,North,Jaipur,Store,1937,1,0.04,1859.52,1375.33,484.19,Credit Card
+ORD202400375,2025-06-08,Football - Sports,Sports,Football,CUST3532,East,Kolkata,Store,2776,2,0.23,4275.04,3332.49,942.55,UPI
+ORD202400451,2025-06-08,Jeans - Fashion,Fashion,Jeans,CUST3209,East,Kolkata,Online,1590,4,0.35,4134.0,4820.44,-686.44,Credit Card
+ORD202400059,2025-06-09,Air Fryer - Home,Home,Air Fryer,CUST4110,South,Bengaluru,Mobile App,5634,3,0.18,13859.64,11108.95,2750.69,UPI
+ORD202400950,2025-06-09,Face Cream - Beauty,Beauty,Face Cream,CUST1508,East,Patna,Online,755,1,0.35,490.75,516.25,-25.5,Debit Card
+ORD202401057,2025-06-10,Face Cream - Beauty,Beauty,Face Cream,CUST1711,South,Kochi,Mobile App,785,1,0.02,769.3,630.57,138.73,Net Banking
+ORD202400338,2025-06-10,Dress - Fashion,Fashion,Dress,CUST1784,West,Pune,Mobile App,1250,3,0.35,2437.5,2250.03,187.47,Credit Card
+ORD202400986,2025-06-10,Sunscreen - Beauty,Beauty,Sunscreen,CUST5980,North,Lucknow,Mobile App,691,1,0.3,483.7,448.6,35.1,Credit Card
+ORD202400401,2025-06-10,Tennis Racket - Sports,Sports,Tennis Racket,CUST3494,North,Delhi,Mobile App,2736,2,0.15,4651.2,3555.9,1095.3,Credit Card
+ORD202400652,2025-06-10,Lipstick - Beauty,Beauty,Lipstick,CUST2504,West,Mumbai,Online,714,1,0.34,471.24,501.76,-30.52,Credit Card
+ORD202400909,2025-06-10,Sunscreen - Beauty,Beauty,Sunscreen,CUST5076,West,Pune,Online,668,1,0.18,547.76,464.53,83.23,Debit Card
+ORD202400433,2025-06-11,Jacket - Fashion,Fashion,Jacket,CUST1867,West,Pune,Mobile App,1291,1,0.21,1019.89,816.26,203.63,Debit Card
+ORD202400497,2025-06-11,Dress - Fashion,Fashion,Dress,CUST3104,South,Bengaluru,Store,1753,1,0.28,1262.16,1135.8,126.36,UPI
+ORD202400619,2025-06-11,T-Shirt - Fashion,Fashion,T-Shirt,CUST3888,West,Ahmedabad,Mobile App,1396,1,0.06,1312.24,921.08,391.16,UPI
+ORD202400588,2025-06-11,Mixer Grinder - Home,Home,Mixer Grinder,CUST2257,North,Lucknow,Online,4919,1,0.17,4082.77,3890.88,191.89,Net Banking
+ORD202401164,2025-06-12,Smartwatch - Electronics,Electronics,Smartwatch,CUST5918,North,Delhi,Online,10619,1,0.35,6902.35,8234.65,-1332.3,Cash on Delivery
+ORD202401003,2025-06-12,Dress - Fashion,Fashion,Dress,CUST1422,North,Chandigarh,Online,1664,1,0.07,1547.52,1032.63,514.89,UPI
+ORD202400800,2025-06-13,Laptop - Electronics,Electronics,Laptop,CUST1394,North,Lucknow,Online,15219,1,0.2,12175.2,9411.36,2763.84,Debit Card
+ORD202400992,2025-06-13,Smartwatch - Electronics,Electronics,Smartwatch,CUST4795,East,Kolkata,Online,17275,2,0.17,28676.5,22336.17,6340.33,Debit Card
+ORD202400861,2025-06-14,Lipstick - Beauty,Beauty,Lipstick,CUST3194,South,Chennai,Mobile App,901,4,0.12,3171.52,2482.65,688.87,Debit Card
+ORD202400884,2025-06-14,Football - Sports,Sports,Football,CUST5800,North,Jaipur,Online,3104,1,0.35,2017.6,2351.89,-334.29,UPI
+ORD202400787,2025-06-14,Dress - Fashion,Fashion,Dress,CUST3206,South,Kochi,Mobile App,1739,5,0.35,5651.75,5374.1,277.65,UPI
+ORD202400730,2025-06-14,T-Shirt - Fashion,Fashion,T-Shirt,CUST1839,East,Bhubaneswar,Mobile App,1820,1,0.13,1583.4,1421.24,162.16,Credit Card
+ORD202400538,2025-06-14,Football - Sports,Sports,Football,CUST4740,North,Lucknow,Online,1974,2,0.14,3395.28,3225.48,169.8,UPI
+ORD202400946,2025-06-15,Tablet - Electronics,Electronics,Tablet,CUST2304,South,Bengaluru,Online,16703,2,0.35,21713.9,22875.38,-1161.48,UPI
+ORD202400960,2025-06-15,Perfume - Beauty,Beauty,Perfume,CUST1507,North,Jaipur,Online,895,3,0.07,2497.05,2037.94,459.11,Credit Card
+ORD202400651,2025-06-16,Yoga Mat - Sports,Sports,Yoga Mat,CUST4109,East,Guwahati,Mobile App,2172,1,0.33,1455.24,1781.39,-326.15,Debit Card
+ORD202400996,2025-06-16,Tablet - Electronics,Electronics,Tablet,CUST5896,South,Chennai,Store,12647,2,0.3,17705.8,18867.63,-1161.83,Net Banking
+ORD202400854,2025-06-16,Smartwatch - Electronics,Electronics,Smartwatch,CUST4220,South,Chennai,Mobile App,15999,1,0.32,10879.32,12836.57,-1957.25,Credit Card
+ORD202400959,2025-06-16,Sunscreen - Beauty,Beauty,Sunscreen,CUST3379,South,Bengaluru,Mobile App,669,1,0.05,635.55,496.86,138.69,Net Banking
+ORD202401040,2025-06-17,Dress - Fashion,Fashion,Dress,CUST3860,East,Guwahati,Mobile App,1420,2,0.08,2612.8,1881.97,730.83,Debit Card
+ORD202400450,2025-06-17,Laptop - Electronics,Electronics,Laptop,CUST3740,North,Lucknow,Online,14364,1,0.35,9336.6,9426.95,-90.35,Credit Card
+ORD202401063,2025-06-17,Laptop - Electronics,Electronics,Laptop,CUST1797,North,Chandigarh,Store,13547,1,0.23,10431.19,8305.87,2125.32,Net Banking
+ORD202401152,2025-06-18,Lipstick - Beauty,Beauty,Lipstick,CUST3392,West,Surat,Online,742,2,0.04,1424.64,1063.02,361.62,Credit Card
+ORD202401185,2025-06-18,Cricket Bat - Sports,Sports,Cricket Bat,CUST1018,South,Bengaluru,Mobile App,3139,1,0.13,2730.93,2055.29,675.64,Credit Card
+ORD202400758,2025-06-19,Tablet - Electronics,Electronics,Tablet,CUST4765,North,Jaipur,Store,13039,1,0.15,11083.15,8773.24,2309.91,Credit Card
+ORD202400266,2025-06-20,Shampoo - Beauty,Beauty,Shampoo,CUST1504,West,Mumbai,Mobile App,896,2,0.2,1433.6,1412.38,21.22,Net Banking
+ORD202400106,2025-06-20,Tablet - Electronics,Electronics,Tablet,CUST1661,South,Chennai,Online,14857,2,0.14,25554.04,21953.92,3600.12,UPI
+ORD202400536,2025-06-20,Shampoo - Beauty,Beauty,Shampoo,CUST5690,South,Hyderabad,Online,795,2,0.32,1081.2,1065.04,16.16,Debit Card
+ORD202400591,2025-06-21,Smartphone - Electronics,Electronics,Smartphone,CUST1148,West,Pune,Store,17515,4,0.06,65856.4,48100.85,17755.55,Debit Card
+ORD202401029,2025-06-22,Jacket - Fashion,Fashion,Jacket,CUST2466,East,Patna,Online,1793,4,0.34,4733.52,4536.63,196.89,Debit Card
+ORD202400605,2025-06-22,Lipstick - Beauty,Beauty,Lipstick,CUST5742,South,Bengaluru,Mobile App,624,2,0.17,1035.84,773.98,261.86,Net Banking
+ORD202400809,2025-06-22,Sunscreen - Beauty,Beauty,Sunscreen,CUST1245,South,Kochi,Online,833,2,0.03,1616.02,1358.98,257.04,UPI
+ORD202400674,2025-06-23,Cricket Bat - Sports,Sports,Cricket Bat,CUST4775,West,Surat,Store,3072,2,0.11,5468.16,3831.96,1636.2,UPI
+ORD202400280,2025-06-23,Cricket Bat - Sports,Sports,Cricket Bat,CUST4978,East,Patna,Online,2961,1,0.09,2694.51,1816.09,878.42,Debit Card
+ORD202400775,2025-06-24,Tennis Racket - Sports,Sports,Tennis Racket,CUST1315,South,Bengaluru,Mobile App,2424,2,0.28,3490.56,2945.57,544.99,UPI
+ORD202400238,2025-06-25,Earbuds - Electronics,Electronics,Earbuds,CUST2822,South,Chennai,Online,18756,2,0.05,35636.4,23242.96,12393.44,Debit Card
+ORD202400268,2025-06-25,Sneakers - Fashion,Fashion,Sneakers,CUST3872,South,Bengaluru,Store,1762,1,0.19,1427.22,1430.71,-3.49,Cash on Delivery
+ORD202400452,2025-06-26,Cricket Bat - Sports,Sports,Cricket Bat,CUST3758,North,Chandigarh,Online,2660,1,0.22,2074.8,1904.55,170.25,UPI
+ORD202401142,2025-06-26,Tennis Racket - Sports,Sports,Tennis Racket,CUST3191,South,Kochi,Store,2119,2,0.14,3644.68,3351.6,293.08,Net Banking
+ORD202400394,2025-06-26,Perfume - Beauty,Beauty,Perfume,CUST4185,South,Kochi,Store,612,2,0.03,1187.28,740.75,446.53,UPI
+ORD202400624,2025-06-27,Earbuds - Electronics,Electronics,Earbuds,CUST3627,West,Surat,Mobile App,18544,1,0.21,14649.76,13036.88,1612.88,Credit Card
+ORD202401135,2025-06-27,Air Cooler - Home,Home,Air Cooler,CUST1212,East,Guwahati,Online,4793,2,0.18,7860.52,6232.69,1627.83,Credit Card
+ORD202400807,2025-06-27,Air Cooler - Home,Home,Air Cooler,CUST3269,North,Delhi,Mobile App,5724,1,0.14,4922.64,4557.57,365.07,Cash on Delivery
+ORD202400869,2025-06-27,Cricket Bat - Sports,Sports,Cricket Bat,CUST4123,East,Kolkata,Online,2778,2,0.16,4667.04,3989.6,677.44,Credit Card
+ORD202400150,2025-06-27,Sunscreen - Beauty,Beauty,Sunscreen,CUST1646,South,Kochi,Store,550,1,0.34,363.0,432.88,-69.88,UPI
+ORD202400525,2025-06-28,Jacket - Fashion,Fashion,Jacket,CUST1098,East,Guwahati,Online,1136,5,0.03,5509.6,3447.53,2062.07,Net Banking
+ORD202400520,2025-06-29,Sunscreen - Beauty,Beauty,Sunscreen,CUST3825,South,Chennai,Online,825,4,0.13,2871.0,2514.37,356.63,Debit Card
+ORD202400499,2025-06-29,T-Shirt - Fashion,Fashion,T-Shirt,CUST4454,East,Bhubaneswar,Online,1779,1,0.28,1280.88,1272.28,8.6,UPI
+ORD202400143,2025-06-29,Laptop - Electronics,Electronics,Laptop,CUST1016,West,Pune,Online,17533,2,0.16,29455.44,29414.54,40.9,Debit Card
+ORD202400048,2025-06-29,Air Cooler - Home,Home,Air Cooler,CUST5143,South,Hyderabad,Online,6483,1,0.17,5380.89,4144.22,1236.67,UPI
+ORD202400607,2025-06-30,Smartwatch - Electronics,Electronics,Smartwatch,CUST4498,West,Surat,Online,14986,1,0.14,12887.96,10691.94,2196.02,Debit Card
